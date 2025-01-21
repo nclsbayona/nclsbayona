@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;ye must find th' place inside yourself whar nothin' be impossible.&quot;</strong>
-  <i>-- &quot;You must find the place inside yourself where nothing is impossible.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Tu'll xauti zo qo&quot;</strong>
+  <i>-- &quot;You'll find a way&quot; in sith language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brandy Flip</h4>
+<h4 align="center">White Lady</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2cl</td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.
+Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
 </p>
 
 ----
@@ -176,14 +168,14 @@ In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and crea
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet ATLAS Rounds the Sun - ©️ NASA @ 2025-01-20</h4>
+<h4 align="center">Comet ATLAS over Brasília - ©️ NASA @ 2025-01-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/CometG3Perihelion_SohoLigustri_960.jpg" alt="Comet ATLAS Rounds the Sun image" />
+<img src="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg" alt="Comet ATLAS over Brasília image" />
 
 </p>
 
-<h5 align="center">Why does Comet ATLAS have such colorful tails? Last week Comet C/2024 G3 (ATLAS) passed its closest to the Sun -- well inside the orbit of Mercury -- and brightened dramatically.  Unfortunately, the comet was then so angularly near the Sun that it was very hard for humans to see. But NASA's SOHO spacecraft saw it. Pictured is a SOHO (LASCO C3) image of Comet ATLAS that is a composite of several different color filters. Of the several tails visible, the central white tails are likely made of dust and just reflecting back sunlight. The red, blue, and green tails are likely ion tails with their colors dominated by light emitted by specific gases that were ejected from the comet and energized by the Sun.  Currently, Comet ATLAS is showing long tails in southern skies but fading as it moves out of the inner Solar System.   Growing Gallery: Comet ATLAS (G3)</h5>
+<h5 align="center">What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)</h5>
 
 ----
 
@@ -196,21 +188,21 @@ In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and crea
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
@@ -218,13 +210,13 @@ In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and crea
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -232,54 +224,54 @@ In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and crea
 <img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
