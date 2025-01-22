@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tu'll xauti zo qo&quot;</strong>
-  <i>-- &quot;You'll find a way&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Konchee ya's life,  ya's hope.&quot;</strong>
+  <i>-- &quot;Where there's life, there's hope.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">White Lady</h4>
+<h4 align="center">252</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot Bacardi </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+Add both ingredients to shot glass, shoot, and get drunk quick
 </p>
 
 ----
@@ -168,14 +164,14 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet ATLAS over Brasília - ©️ NASA @ 2025-01-21</h4>
+<h4 align="center">The North America Nebula - ©️ Dimitris Valianos @ 2025-01-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg" alt="Comet ATLAS over Brasília image" />
+<img src="https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_960.jpg" alt="The North America Nebula image" />
 
 </p>
 
-<h5 align="center">What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)</h5>
+<h5 align="center">The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as the east coast  is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 50 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
