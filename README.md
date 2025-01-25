@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {Enjoy} sôna êow canne, æghwæðer ge  hwonne êow must.&quot;</strong>
-  <i>-- &quot;Enjoy when you can, and endure when you must.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Shi those tion'ad vaabir naas shal an gotal'ur nayc mistakes.&quot;</strong>
+  <i>-- &quot;Only those who do nothing at all make no mistakes.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Death in the Afternoon</h4>
+<h4 align="center">Ace</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/y7s3rh1598719574.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absinthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg White</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 Fresh</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Easy as you like, pour the absinthe into a chilled glass, top with champagne. Must be drunk mid afternoon for the optimum effect.
+Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Easy as you like, pour the absinthe into a chilled glass, top with champagne. Mu
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet G3 ATLAS: a Tail and a Telescope - ©️ Yuri Beletsky @ 2025-01-24</h4>
+<h4 align="center">Stardust in the Perseus Molecular Cloud - ©️ Jeff Schilling @ 2025-01-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/C2024G3_ATLAS_ESO_Beletsky.jpg" alt="Comet G3 ATLAS: a Tail and a Telescope image" />
+<img src="https://apod.nasa.gov/apod/image/2501/ngc1333_jeff_version_4_1024.jpg" alt="Stardust in the Perseus Molecular Cloud image" />
 
 </p>
 
-<h5 align="center">Comet C/2024 G3 ATLAS has made a dramatic appearance in planet Earth's skies. A visitor from the distant Oort Cloud, the comet reached its perihelion on January 13. On January 19, the bright comet was captured here from ESO Paranal Observatory in the Atacama desert in Chile. Sporting spectacular sweeping dust tails, this comet ATLAS is setting in the southern hemisphere twilight and was clearly visible to the unaided eye. In the foreground is the closed shell of one of the observatory's famous auxiliary telescopes. Still wowing southern hemisphere observers, the comet's bright coma has become diffuse, its icy nucleus apparently disintegrating following its close approach to the Sun.   Growing Gallery: Comet ATLAS (G3)</h5>
+<h5 align="center">Clouds of stardust drift through this deep skyscape, across the Perseus molecular cloud some 850 light-years away. Dusty nebulae reflecting light from embedded young stars stand out in the nearly 4 degree wide field of view. With a characteristic bluish color reflection nebula NGC 1333 is prominent near center. Hints of contrasting red emission from Herbig-Haro objects, the jets and shocked glowing gas emanating from recently formed stars, are scattered across the dusty expanse. While many stars are forming in the molecular cloud, most are obscured at visible wavelengths by the pervasive dust. The chaotic environment surrounding NGC 1333 may be similar to one in which our own Sun formed over 4.5 billion years ago. At the estimated distance of the Perseus molecular cloud, this cosmic scene would span about 80 light-years.   Growing Gallery: Comet ATLAS (G3)</h5>
 
 ----
 
@@ -184,65 +196,65 @@ Easy as you like, pour the absinthe into a chilled glass, top with champagne. Mu
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
@@ -250,24 +262,24 @@ Easy as you like, pour the absinthe into a chilled glass, top with champagne. Mu
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
