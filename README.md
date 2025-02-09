@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar're eyn inspiration&quot;</strong>
-  <i>-- &quot;You're an inspiration&quot; in mandalorian language --</i>
+  <strong align="center">Always remember: </strong>
+  <i>Mistakes don't make you less capable ...</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">English Highball</h4>
+<h4 align="center">Planter’s Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/dhvr7d1504519752.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jn6o251643844541.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cL</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3.5 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 drops</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill with carbonated water. Add the twist of lemon peel, stir, and serve. (Ginger ale may be substituted for carbonated water, if preferred.)
+Squeeze an orange and strain the juice. Put all the ingredients in a shaker filled with ice and shake for at least 12 seconds. Strain into a highball glass and decorate with a pineapple wedge or fruit of your choice.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Conjunction of Crescents - ©️ Aldo S. Kleiman @ 2025-02-08</h4>
+<h4 align="center">Milky Way over the Australian Pinnacles - ©️ Michael Goh @ 2025-02-09</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/IMG_3775M_1024.jpg" alt="A Conjunction of Crescents image" />
+<img src="https://apod.nasa.gov/apod/image/2502/PinnaclesGalaxy_Goh_1080.jpg" alt="Milky Way over the Australian Pinnacles image" />
 
 </p>
 
-<h5 align="center">A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight telephoto field of view. The close conjunction of the two brightest celestial beacons in planet Earth's western evening sky was captured on February 1 from Rosario, Argentina. On that date, the slender crescent Moon was about 3 days old. But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14. Like the Moon, Venus cycles through phases as it orbits the Sun. And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth. In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around February 14.</h5>
+<h5 align="center">What strange world is this? Earth. In the foreground of the featured image are the Pinnacles, unusual rock spires in Nambung National Park in Western Australia. Made of ancient sea shells (limestone), how these human-sized picturesque spires formed remains unknown.  In the background, just past the end of the central Pinnacle, is a bright crescent Moon. The eerie glow around the Moon is mostly zodiacal light, sunlight reflected by dust grains orbiting between the planets in the Solar System. Arching across the top is the central band of our Milky Way Galaxy. Many famous stars and nebulas are also visible in the background night sky. The featured 29-panel panorama was taken and composed in 2015 September after detailed planning that involved the Moon, the rock spires, and their corresponding shadows. Even so, the strong zodiacal light was a pleasant surprise.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -188,90 +204,90 @@ Pour brandy, gin, and sweet vermouth into a highball glass over ice cubes. Fill 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
