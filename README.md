@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Mesa believe in yousa&quot;</strong>
-  <i>-- &quot;I believe in you&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Success is the progressive realization ki a worthy ovvethikh&quot;</strong>
+  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Vesper</h4>
+<h4 align="center">Gin Daisy</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mtdxpa1504374514.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -49,15 +49,27 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet Blanc</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +80,7 @@
 
 
 <p align="center">
-Shake over ice until well chilled, then strain into a deep goblet and garnish with a thin slice of lemon peel.
+In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.
 </p>
 
 ----
@@ -168,14 +180,14 @@ Shake over ice until well chilled, then strain into a deep goblet and garnish wi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Parhelia at Abisko - ©️ planet Earth @ 2025-02-15</h4>
+<h4 align="center">Perijove 11: Passing Jupiter - ©️ NASA @ 2025-02-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/_D8A2600d_1024.jpg" alt="Parhelia at Abisko image" />
+<img src="https://www.youtube.com/embed/OfM7VlonD5c?rel=0" alt="Perijove 11: Passing Jupiter image" />
 
 </p>
 
-<h5 align="center">Three suns seem to hug the horizon in this otherworldly winterscape. But the evocative scene was captured during a February 3rd snowmobile exploration of the mountainous region around Abisko National Park, northern Sweden, planet Earth. The two bright spots on either side of Earth's Sun are parhelia (singular parhelion), also known as mock suns or sun dogs. The parhelia are caused by hexagonal ice crystals suspended in the hazy atmosphere that reflect and refract sunlight. Commonly seen in winter and at high latitudes, the bright parhelia lie along the visible 22 degree ice halo of the Sun.</h5>
+<h5 align="center">Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</h5>
 
 ----
 
@@ -188,68 +200,68 @@ Shake over ice until well chilled, then strain into a deep goblet and garnish wi
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -260,18 +272,18 @@ Shake over ice until well chilled, then strain into a deep goblet and garnish wi
 <img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
