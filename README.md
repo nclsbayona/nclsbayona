@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Success is the progressive realization ki a worthy ovvethikh&quot;</strong>
-  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Hoch jaj is an 'eb to a vut a new happy bertlham.&quot;</strong>
+  <i>-- &quot;Every day is an opportunity to a make a new happy ending.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Gin Daisy</h4>
+<h4 align="center">Barracuda</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/z6e22f1582581155.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,28 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> 1 dash</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +76,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the cherry and the orange slice.
+Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
 </p>
 
 ----
@@ -180,14 +176,14 @@ In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perijove 11: Passing Jupiter - ©️ NASA @ 2025-02-16</h4>
+<h4 align="center">SpaceX Rocket Launch Plume over California - ©️ Martin LaMontagne @ 2025-02-17</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/OfM7VlonD5c?rel=0" alt="Perijove 11: Passing Jupiter image" />
+<img src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg" alt="SpaceX Rocket Launch Plume over California image" />
 
 </p>
 
-<h5 align="center">Here comes Jupiter. NASA's robotic spacecraft Juno is continuing on its highly elongated orbits around our Solar System's largest planet.  The featured video is from perijove 11 in early 2018, the eleventh time Juno passed near Jupiter since it arrived in mid-2016.  This time-lapse, color-enhanced movie covers about four hours and morphs between 36 JunoCam images. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  After the perijove, Jupiter recedes into the distance, then displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</h5>
+<h5 align="center">What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.</h5>
 
 ----
 
@@ -200,90 +196,90 @@ In a shaker half-filled with ice cubes, combine the gin, lemon juice, sugar, and
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
