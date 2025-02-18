@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hoch jaj is an 'eb to a vut a new happy bertlham.&quot;</strong>
-  <i>-- &quot;Every day is an opportunity to a make a new happy ending.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Yousa win more from los than winn.&quot;</strong>
+  <i>-- &quot;You win more from losing than winning.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Barracuda</h4>
+<h4 align="center">Penicillin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hc9b1a1521853096.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> 1 dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Islay single malt Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 oz</td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
+Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger.
 </p>
 
 ----
@@ -176,14 +176,14 @@ Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">SpaceX Rocket Launch Plume over California - ©️ Martin LaMontagne @ 2025-02-17</h4>
+<h4 align="center">Thor's Helmet versus the Seagull - ©️ Nicolas Martino, Adrien Soto, Louis Leroux &amp; Yann Sainty @ 2025-02-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/FishPlume_LaMontagne_960.jpg" alt="SpaceX Rocket Launch Plume over California image" />
+<img src="https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_960.jpg" alt="Thor's Helmet versus the Seagull image" />
 
 </p>
 
-<h5 align="center">What's happened to the sky? Last Monday, the photogenic launch plume from a SpaceX rocket launch created quite a spectacle over parts of southern California and Arizona.  Looking at times like a giant space fish, the impressive rocket launch from Vandenberg Air Force Base near Lompoc, California, was so bright because it was backlit by the setting Sun. The Falcon 9 rocket successfully delivered to low Earth orbit 23 Starlink communications satellites.  The plume from the first stage is seen on the right, while the soaring upper stage rocket is seen at the apex of the plume toward the left. Venus appears at the top of the frame, while a bright streetlight shines on the far right.  The featured image was captured toward the west after sunset from near Phoenix, Arizona.</h5>
+<h5 align="center">Seen as a seagull and a duck, these nebulae are not the only cosmic clouds to evoke images of flight. But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across planet Earth's night sky toward the constellation of the Big Dog (Canis Major). The expansive Seagull (top center) is itself composed of two major cataloged emission nebulas. Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body. Impressively, the Seagull's wingspan would correspond to about 250 light-years at the nebula's estimated distance of 3,800 light-years. At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate. Blown by energetic winds from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359. Of course, the Duck's thick body and winged appendages also lend it the slightly more dramatic popular moniker, Thor's Helmet.   Portal Universe: Random APOD Generator</h5>
 
 ----
 
@@ -199,87 +199,87 @@ Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
 <img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
