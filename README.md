@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yousa win more from los than winn.&quot;</strong>
-  <i>-- &quot;You win more from losing than winning.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Anha admire yeri ha taking jinak she&quot;</strong>
+  <i>-- &quot;I admire you for taking this on&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Penicillin</h4>
+<h4 align="center">747 Drink</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hc9b1a1521853096.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Roses sweetened lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Islay single malt Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +84,10 @@
 
 
 <p align="center">
-Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger.
+Fill a Collins glass with ice.
+Pour in vodka, lime cordial, and cranberry juice.
+Fill up with Sprite.
+Garnish with a Lime wheel or some cranberries
 </p>
 
 ----
@@ -176,14 +187,14 @@ Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Thor's Helmet versus the Seagull - ©️ Nicolas Martino, Adrien Soto, Louis Leroux &amp; Yann Sainty @ 2025-02-18</h4>
+<h4 align="center">HH 30: A Star System with Planets Now Forming - ©️ NASA @ 2025-02-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/SeagullThor_Martino_960.jpg" alt="Thor's Helmet versus the Seagull image" />
+<img src="https://apod.nasa.gov/apod/image/2502/HH30_Webb_960.jpg" alt="HH 30: A Star System with Planets Now Forming image" />
 
 </p>
 
-<h5 align="center">Seen as a seagull and a duck, these nebulae are not the only cosmic clouds to evoke images of flight. But both are winging their way across this broad celestial landscape, spanning almost 7 degrees across planet Earth's night sky toward the constellation of the Big Dog (Canis Major). The expansive Seagull (top center) is itself composed of two major cataloged emission nebulas. Brighter NGC 2327 forms the head with the more diffuse IC 2177 as the wings and body. Impressively, the Seagull's wingspan would correspond to about 250 light-years at the nebula's estimated distance of 3,800 light-years. At the lower right, the Duck appears much more compact and would span only about 50 light-years given its 15,000 light-year distance estimate. Blown by energetic winds from an extremely massive, hot star near its center, the Duck nebula is cataloged as NGC 2359. Of course, the Duck's thick body and winged appendages also lend it the slightly more dramatic popular moniker, Thor's Helmet.   Portal Universe: Random APOD Generator</h5>
+<h5 align="center">How do stars and planets form? New clues have been found in the protoplanetary system Herbig-Haro 30 by the James Webb Space Telescope in concert with Hubble and the Earth-bound ALMA.  The observations show, among other things, that large dust grains are more concentrated into a central disk where they can form planets. The featured image from Webb shows many attributes of the active HH-30 system. Jets of particles are being expelled vertically, shown in red, while a dark dust-rich disk is seen across the center, blocking the light from the star or stars still forming there. Blue-reflecting dust is seen in a parabolic arc above and below the central disk, although why a tail appears on the lower left is currently unknown. Studying how planets form in HH 30 can help astronomers better understand how planets in our own Solar System once formed, including our Earth.</h5>
 
 ----
 
@@ -196,10 +207,10 @@ Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
@@ -207,79 +218,79 @@ Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
