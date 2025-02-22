@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {The} stricel of bêga brêmendlic smearcian {is} wiðerbreca {awakened} bl¯æst.&quot;</strong>
-  <i>-- &quot;The source of a true smile is an awakened mind.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;U're doing do grancha job&quot;</strong>
+  <i>-- &quot;You're doing a great job&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Thai Iced Coffee</h4>
+<h4 align="center">Sol Y Sombra</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rqpypv1441245650.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">black</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> pods<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anisette</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Prepare a pot of coffee at a good European strength. In the ground coffee, add 2 or 3 freshly ground cardamom pods. Sweeten while hot, then cool quickly. Serve in highball glass over ice, with cream. To get the layered effect, place a spoon atop the coffee and pour the milk carefully into the spoon so that it floats on the top of the coffee.
+Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you'll understand why. Thanks, Kirby.)
 </p>
 
 ----
@@ -164,14 +164,14 @@ Prepare a pot of coffee at a good European strength. In the ground coffee, add 2
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Hubble's Andromeda Galaxy Mosaic - ©️ NASA @ 2025-02-21</h4>
+<h4 align="center">Rima Hyginus - ©️ Vincenzo Mirabella @ 2025-02-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/M31_HubbleMosaicCrop.jpg" alt="Hubble's Andromeda Galaxy Mosaic image" />
+<img src="https://apod.nasa.gov/apod/image/2502/20250205_rima_hyginus_mirabella_1024px.jpg" alt="Rima Hyginus image" />
 
 </p>
 
-<h5 align="center">The largest photomosaic ever assembled from Hubble Space Telescope image data is a panoramic view of our neighboring spiral Andromeda Galaxy. With 600 overlapping frames assembled from observations made from July 2010 to December 2022, the full Hubble Andromeda Galaxy mosaic spans almost six full moons across planet Earth's sky. A cropped version shown above is nearly two full moons across and partially covers Andromeda's core and inner spiral arms. Also known as M31, the Andromeda Galaxy is 2.5 million light-years away. That makes it the closest large spiral galaxy to our own Milky Way. Our perspective on the spiral Milky Way is anchored to the view from the location of the Sun, a star found within the Milky Way's galactic disk. But Hubble's magnificent Andromeda mosaic offers an expansive view of a large spiral galaxy from the outside looking in. Hubble's comprehensive, detailed data set extending across the Andromeda Galaxy will allow astronomers to make an unprecedented holistic exploration of the mysteries of spiral galaxy structure and evolution.</h5>
+<h5 align="center">Rima Hyginus is a spectacular fissure, some 220 kilometers long, found near the center of the lunar near side. Easy to spot in telescopic views of the Moon, it stretches top left to bottom right across this lunar closeup. The image was made with exaggerated colors that reflect the mineral composition of the lunar soil. Hyginus crater lies near the center of the narrow lunar surface groove. About 10 kilometers in diameter, the low-walled crater is a volcanic caldera, one of the larger non-impact craters on the lunar surface. Dotted with small pits formed by surface collapse, Hyginus rima itself was likely created by stresses due to internal magma upwelling and collapse along a long surface fault. The intriguing region was a candidate landing site for the canceled Apollo 19 mission.</h5>
 
 ----
 
@@ -187,87 +187,87 @@ Prepare a pot of coffee at a good European strength. In the ground coffee, add 2
 <img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
