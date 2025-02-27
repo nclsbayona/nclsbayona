@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;If everyth was easy yousa'd be bored&quot;</strong>
-  <i>-- &quot;If everything was easy you'd be bored&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Tu'iea dvasi kash gausus iv brilliant ideas&quot;</strong>
+  <i>-- &quot;Your mind is full of brilliant ideas&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orange Whip</h4>
+<h4 align="center">50/50</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ttyrxr1454514759.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwpyvr1461919316.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 package </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Over </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-Pour ingredients over ice and stir.
+fill glass with crushed ice. Add vodka. Add a splash of grand-marnier. Fill with o.j.
 </p>
 
 ----
@@ -176,14 +168,14 @@ Pour ingredients over ice and stir.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Einstein Ring Surrounds Nearby Galaxy Center - ©️ ESA, NASA, Euclid Consortium;Processing: J.-C. Cuillandre, G. Anselmi, T. Li @ 2025-02-26</h4>
+<h4 align="center">Open Star Clusters M35 and NGC 2158 - ©️ Evan Tsai @ 2025-02-27</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_960.jpg" alt="Einstein Ring Surrounds Nearby Galaxy Center image" />
+<img src="https://apod.nasa.gov/apod/image/2502/M35_NGC2158_1024.jpg" alt="Open Star Clusters M35 and NGC 2158 image" />
 
 </p>
 
-<h5 align="center">Do you see the ring?  If you look very closely at the center of the featured galaxy NGC 6505, a ring becomes evident. It is the gravity of NGC 6505, the nearby (z = 0.042) elliptical galaxy that you can easily see, that is magnifying and distorting the image of a distant galaxy into a complete circle. To create a complete Einstein ring there must be perfect alignment of the nearby galaxy's center and part of the background galaxy. Analysis of this ring and the multiple images of the background galaxy help to determine the mass and fraction of dark matter in NGC 6505's center, as well as uncover previously unseen details in the distorted galaxy.  The featured image was captured by ESA's Earth-orbiting Euclid telescope in 2023 and released earlier this month.</h5>
+<h5 align="center">Framed in this single, starry, telescopic field of view are two open star clusters, M35 and NGC 2158. Located within the boundaries of the constellation Gemini, they do appear to be side by side. Its stars concentrated toward the upper right, M35 is relatively nearby, though. M35 (also cataloged as NGC 2168) is a mere 2800 light-years distant, with 400 or so stars spread out over a volume about 30 light-years across. Bright blue stars frequently distinguish younger open clusters like M35, whose age is estimated at 150 million years. At lower left, NGC 2158 is about four times more distant than M35 and much more compact, shining with the more yellowish light of a population of stars over 10 times older. In general, open star clusters are found along the plane of our Milky Way Galaxy. Loosely gravitationally bound, their member stars tend to be dispersed over billions of years as the open star clusters orbit the galactic center.</h5>
 
 ----
 
@@ -196,90 +188,90 @@ Pour ingredients over ice and stir.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
