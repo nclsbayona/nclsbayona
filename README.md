@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;a hopeless ka tis a mupa hesicy yee cutcar ka, respin a big ka.&quot;</strong>
-  <i>-- &quot;A hopeless man is a very desperate and dangerous man, almost a dead man.&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot; {The} beleorendlic {does} hnot efenlic duguð uferra&quot;</strong>
+  <i>-- &quot;The past does not equal the future&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Nutty Irishman</h4>
+<h4 align="center">Campari Beer</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cl </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Serve over ice
+Use a 15 oz glass. Add Campari first. Fill with beer.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Serve over ice
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Athena to the Moon - ©️ NASA @ 2025-02-28</h4>
+<h4 align="center">Blue Ghost to the Moon - ©️ NASA @ 2025-03-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2502/AthenaEarth1024.jpg" alt="Athena to the Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2503/BlueGhost_lunar1067.jpg" alt="Blue Ghost to the Moon image" />
 
 </p>
 
-<h5 align="center">Planet Earth hangs in the background of this space age selfie. The snapshot was captured by the IM-2 Nova-C lander Athena, just after stage separation following its February 26 launch to the Moon. A tall robotic lander, Athena is scheduled to touch down on Thursday, March 6, in Mons Mouton, a plateau near the Moon’s South Pole. The intended landing site is in the central portion of one of the Artemis 3 potential landing regions. Athena carries rovers and experiments as part of NASA's Commercial Lunar Payload Services program, including a drill intended to explore beneath the lunar surface in a search for evidence of frozen water. It also carries a propulsive drone dubbed the Micro Nova Hopper. After release to the lunar surface, the autonomous drone is intended to hop into a nearby crater and send science data back to the lander.</h5>
+<h5 align="center">With spacecraft thrusters at top center, the rugged surface of the Moon lies below the Blue Ghost lander in this space age video frame. The view of the lunar far side was captured by the Firefly Aerospace lunar lander on February 24, following a maneuver to circularize its orbit about 100 kilometers above the lunar surface. The robotic lunar lander is scheduled to touch down tomorrow, Sunday, March 2, at 3:34am Eastern Time in the Mare Crisium impact basin on the lunar near side. In support of the Artemis campaign, Blue Ghost is set to deliver science and technology experiments to the Moon, part of NASA's Commercial Lunar Payload Services program. Blue Ghost's mission on the surface is planned to operate during the lunar daylight hours at the landing site, about 14 Earth days.</h5>
 
 ----
 
@@ -188,87 +184,87 @@ Serve over ice
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
