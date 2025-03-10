@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Whenever mín’re afraid,  ha’s because mín don’t know farn. If mín understood farn,  mín would never n- afraid&quot;</strong>
-  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;th' best thin' t' hold onto in life be each other.&quot;</strong>
+  <i>-- &quot;The best thing to hold onto in life is each other.&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Munich Mule</h4>
+<h4 align="center">Bora Bora</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rj55pl1582476101.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger Beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cucumber</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chopped</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chopped</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
     </tbody>
 </table>
@@ -76,10 +72,7 @@
 
 
 <p align="center">
-Fill glass with ice
-Pour Gin and Lime Juice
-Fill glass with Ginger Beer
-Garnish with Cucumer and Lime slice
+Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.
 </p>
 
 ----
@@ -179,14 +172,14 @@ Garnish with Cucumer and Lime slice
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Cyclones at Jupiter's North Pole - ©️ NASA @ 2025-03-09</h4>
+<h4 align="center">NGC 1499: The California Nebula - ©️ Toni Fabiani Mendez @ 2025-03-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_960.jpg" alt="Cyclones at Jupiter's North Pole image" />
+<img src="https://apod.nasa.gov/apod/image/2503/California_Mendez_960.jpg" alt="NGC 1499: The California Nebula image" />
 
 </p>
 
-<h5 align="center">Why are there so many cyclones around the north pole of Jupiter? The topic is still being researched.  NASA's robotic Juno mission orbiting Jupiter took data in 2018 that was used to construct this stunning view of the curious cyclones at Jupiter's north pole. Measuring the thermal emission from Jovian cloud tops, the infrared observations are not restricted to the hemisphere illuminated by sunlight. They reveal eight cyclonic features that surround a cyclone about 4,000 kilometers in diameter, just offset from the giant planet's geographic north pole. Similar data show a cyclone at the Jovian south pole with five circumpolar cyclones. The south pole cyclones are slightly larger than their northern cousins. Oddly, data from the once Saturn-orbiting Cassini mission has shown that Saturn's north and south poles each have only a single cyclonic storm system.</h5>
+<h5 align="center">Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -199,21 +192,21 @@ Garnish with Cucumer and Lime slice
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
@@ -221,13 +214,13 @@ Garnish with Cucumer and Lime slice
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -235,32 +228,32 @@ Garnish with Cucumer and Lime slice
 <img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,18 +261,18 @@ Garnish with Cucumer and Lime slice
 <img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
