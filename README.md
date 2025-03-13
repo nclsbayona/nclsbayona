@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;It out,  you'll figure&quot;</strong>
-  <i>-- &quot;You'll figure it out&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;The future will qu' shaped by those willing to commit their minds 'ej their bodies to the qu'.&quot;</strong>
+  <i>-- &quot;The future will be shaped by those willing to commit their minds and their bodies to the task.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Yellow Bird</h4>
+<h4 align="center">Amaretto Sunset</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2t9r6w1504374811.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 jigger </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 1/2 cup </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Shake and strain into a chilled cocktail glass
+Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Shake and strain into a chilled cocktail glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 772: The Fiddlehead Galaxy - ©️ Jean-François Bax &amp; Serge Brunier,  OCA/C2PU; Text: Ogetay Kayali (Michigan Tech U.) @ 2025-03-12</h4>
+<h4 align="center">The Protostars within Lynds 483 - ©️ NASA @ 2025-03-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_1080.jpg" alt="NGC 772: The Fiddlehead Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2503/webb-STScI-01L483_1024.png" alt="The Protostars within Lynds 483 image" />
 
 </p>
 
-<h5 align="center">Why does this galaxy look like a curly vegetable?  The Fiddlehead spiral galaxy likely gets its distorted spiral appearance from a gravitational interaction with its close-by elliptical companion NGC 770, seen just below.  Cataloged as NGC 772 and Arp 78, the Fiddlehead spans over 200,000 light years, is a nearby 100 million light years beyond the stars of our Milky Way galaxy, and is visible toward the constellation of the Ram (Aries).  But in the featured image, the Fiddlehead appears to have another companion -- one with a long and fuzzy tail: Comet 43P/Wolf-Harrington.  Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only light minutes away -- well within our Solar System.  The comet will never reach the distant spiral galaxy, nor is it physically related to it.  By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from Calern, France.</h5>
+<h5 align="center">Two protostars are hidden in a single pixel near the center of a striking hourglass-shaped nebula in this near-infrared image from the James Webb Space Telescope. The actively forming star system lies in a dusty molecular cloud cataloged as Lynds 483, some 650 light-years distant toward the constellation Serpens Cauda. Responsible for the stunning bipolar outflows, the collapsing protostars have been blasting out collimated energetic jets of material over tens of thousands of years. Webb's high-resolution view shows the violence of star-formation in dramatic detail as twisting shock fronts expand and collide with slower, denser material. The premier close-up of the star-forming region spans less than 1/2 a light-year within dark nebula Lynds 483.  March 13/14: Total Lunar Eclipse</h5>
 
 ----
 
@@ -192,10 +192,10 @@ Shake and strain into a chilled cocktail glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
@@ -203,57 +203,57 @@ Shake and strain into a chilled cocktail glass
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -261,10 +261,10 @@ Shake and strain into a chilled cocktail glass
 <img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -272,10 +272,10 @@ Shake and strain into a chilled cocktail glass
 <img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
