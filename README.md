@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The future will qu' shaped by those willing to commit their minds 'ej their bodies to the qu'.&quot;</strong>
-  <i>-- &quot;The future will be shaped by those willing to commit their minds and their bodies to the task.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Tolie emagon ūndegīva skoros iksos se eptan skoro syt. Nyke emagon ūndegīva skoros could sagon se eptan skoro syt daor&quot;</strong>
+  <i>-- &quot;Others have seen what is and asked why. I have seen what could be and asked why not&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto Sunset</h4>
+<h4 align="center">Smut</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 jigger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepsi Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
+Throw it all together and serve real cold.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, s
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Protostars within Lynds 483 - ©️ NASA @ 2025-03-13</h4>
+<h4 align="center">Moon Pi and Mountain Shadow - ©️ El Cielo de Canarias @ 2025-03-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/webb-STScI-01L483_1024.png" alt="The Protostars within Lynds 483 image" />
+<img src="https://apod.nasa.gov/apod/image/2503/MoonriseShadowDLopez_1024.jpg" alt="Moon Pi and Mountain Shadow image" />
 
 </p>
 
-<h5 align="center">Two protostars are hidden in a single pixel near the center of a striking hourglass-shaped nebula in this near-infrared image from the James Webb Space Telescope. The actively forming star system lies in a dusty molecular cloud cataloged as Lynds 483, some 650 light-years distant toward the constellation Serpens Cauda. Responsible for the stunning bipolar outflows, the collapsing protostars have been blasting out collimated energetic jets of material over tens of thousands of years. Webb's high-resolution view shows the violence of star-formation in dramatic detail as twisting shock fronts expand and collide with slower, denser material. The premier close-up of the star-forming region spans less than 1/2 a light-year within dark nebula Lynds 483.  March 13/14: Total Lunar Eclipse</h5>
+<h5 align="center">What phase of the Moon is 3.14 radians from the Sun? The Full Moon, of course. Even though the Moon might look full for several days, the Moon is truly at its full phase when it is Pi radians (aka 180 degrees) from the Sun in ecliptic longitude. That's opposite the Sun in planet Earth's sky. Rising as the Sun set on March 9, 2020, only an hour or so after the moment of its full phase, this orange tinted and slightly flattened Moon still looked full. It was photographed opposite the setting Sun from Teide National Park on the Canary Island of Tenerife. Also opposite the setting Sun, seen from near the Teide volcano peak about 3,500 meters above sea level, is the mountain's rising triangular shadow extending into Earth's dense atmosphere. Below the distant ridge line on the left are the white telescope domes of Teide Observatory. Today, March 14 2025, the moon is Pi radians from the Sun at exactly 06:55 UTC. That's about three minutes before the midpoint of the March Full Moon's total lunar eclipse.</h5>
 
 ----
 
@@ -192,32 +192,32 @@ Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, s
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
@@ -225,57 +225,57 @@ Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, s
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
