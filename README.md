@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Struggling carcir tisci bah learning&quot;</strong>
-  <i>-- &quot;Struggling is part of learning&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Dovanoti,  nudien kash tave rytojus tu worried lig vakar.&quot;</strong>
+  <i>-- &quot;Remember, today is the tomorrow you worried about yesterday.&quot; in sith language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rum Cooler</h4>
+<h4 align="center">Whisky Mac</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz light or dark </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.
+Pour both of the ingredients into a wine goblet with no ice.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Blue Ghost's Diamond Ring - ©️ NASA @ 2025-03-19</h4>
+<h4 align="center">The Solar Eclipse Analemma Project - ©️ Hunter Wells @ 2025-03-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/eclipse-shot-from-blue-ghost-crop1024.jpg" alt="Blue Ghost's Diamond Ring image" />
+<img src="https://apod.nasa.gov/apod/image/2503/HunterWells_submission3-3labelled1024.jpg" alt="The Solar Eclipse Analemma Project image" />
 
 </p>
 
-<h5 align="center">On March 14 the Full Moon slid through Earth's dark umbral shadow and denizens of planet Earth were treated to a total lunar eclipse. Of course, from the Moon's near side that same astronomical syzygy was seen as a solar eclipse. Operating in the Mare Crisium on the lunar surface, the Blue Ghost lander captured this video frame of Earth in silhouette around 3:30am CDT, just as the Sun was emerging from behind the terrestrial disk. From Blue Ghost's lunar perspective the beautiful diamond ring effect, familiar to earthbound solar eclipse watchers, is striking. Since Earth appears about four times the apparent size of the Sun from the lunar surface the inner solar corona, the atmosphere of the Sun most easily seen from Earth during a total solar eclipse, is hidden from view. Still, scattering in Earth's dense atmosphere creates the glowing band of sunlight embracing our fair planet.</h5>
+<h5 align="center">Recorded from 2024 March 10, to 2025 March 1, this composited series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken on the indicated dates only at 18:38 UTC from the exact same location south of Stephenville, Texas. The Sun's position on the 2024 solstice dates of June 20 and December 21 would be at the top and bottom of the curve and correspond to the astronomical beginning of summer and winter in the north. Points that lie along the curve half-way between the solstices would mark the equinoxes. The 2024 equinox on September 22, and in 2025 the equinox on March 20 (today) are the start of northern fall and spring. And since one of the exposures was made on 2024 April 8 from the Stephenville location at 18:38:40 UTC, this analemma project also reveals the solar corona in planet Earth's sky during a total solar eclipse.</h5>
 
 ----
 
@@ -188,13 +184,13 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -202,43 +198,43 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -246,29 +242,29 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
