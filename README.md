@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nah vuhn carcir k'ates vea does nah tan'rah ren ch'ahn cseo.&quot;</strong>
-  <i>-- &quot;No man is happy who does not think himself so.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Lo ao sylugon naejot jiōragon rid hen zūgagon se vēdros mijegon knowing pōja nūmāzma,  pōnta jāhor mazverdagon stronger se return.&quot;</strong>
+  <i>-- &quot;If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">French Connection</h4>
+<h4 align="center">Amaretto And Cream</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cognac</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
+Shake well with cracked ice, strain contents into a cocktail glass, and serve.
 </p>
 
 ----
@@ -164,14 +164,14 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Blue Banded Blood Moon - ©️ Zixiong Jin @ 2025-03-25</h4>
+<h4 align="center">Star Formation in the Pacman Nebula - ©️ Juan Montilla (AAE) @ 2025-03-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/LunarEclipseColors_Jin_960.jpg" alt="A Blue Banded Blood Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2503/Pacman_Montilla_1080.jpg" alt="Star Formation in the Pacman Nebula image" />
 
 </p>
 
-<h5 align="center">What causes a blue band to cross the Moon during a lunar eclipse? The blue band is real but usually quite hard to see. The featured HDR image of last week's lunar eclipse, however -- taken from Norman, Oklahoma (USA) -- has been digitally processed to exaggerate  the colors.  The gray color on the upper right of the top lunar image is the Moon's natural color, directly illuminated by sunlight. The lower parts of the Moon on all three images are not directly lit by the Sun since it is being eclipsed -- it is in the Earth's shadow. It is faintly lit, though, by sunlight that has passed deep through Earth's atmosphere. This part of the Moon is red -- and called a blood Moon -- for the same reason that Earth's sunsets are red: because air scatters away more blue light than red. The unusual purple-blue band visible on the upper right of the top and middle images is different -- its color is augmented by sunlight that has passed high through Earth's atmosphere, where red light is better absorbed by ozone than blue.   Celestial Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">You'd think the Pacman Nebula would be eating stars, but actually it is forming them. Within the nebula, a cluster's young, massive stars are powering the pervasive nebular glow. The eye-catching shapes looming in the featured portrait of NGC 281 are sculpted dusty columns and dense Bok globules seen in silhouette, eroded by intense, energetic winds and radiation from the hot cluster stars. If they survive long enough, the dusty structures could also be sites of future star formation. Playfully called the Pacman Nebula because of its overall shape, NGC 281 is about 10,000 light-years away in the constellation Cassiopeia. This sharp composite image was made through narrow-band filters in Spain in mid 2024. It combines emissions from the nebula's hydrogen and oxygen atoms to synthesize red, green, and blue colors. The scene spans well over 80 light-years at the estimated distance of NGC 281.</h5>
 
 ----
 
@@ -184,10 +184,10 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
@@ -195,79 +195,79 @@ Pour all ingredients directly into old fashioned glass filled with ice cubes. St
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
