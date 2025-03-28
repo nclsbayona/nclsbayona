@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;'oh is not a sprint,  'oh is a marathon. Wa' miw at a poh&quot;</strong>
-  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Vor'tah'ah hsin'b vim vosihn ch'at ch'can'vah.&quot;</strong>
+  <i>-- &quot;Dream big and dare to fail.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Diesel</h4>
+<h4 align="center">Flying Dutchman</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Beer</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackcurrant cordial</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.
+In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Messier 81 - ©️ Lorand Fenyes @ 2025-03-27</h4>
+<h4 align="center">Lunar Dust and Duct Tape - ©️ NASA @ 2025-03-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2503/291_lorand_fenyes_m81_kicsi1024.jpg" alt="Messier 81 image" />
+<img src="https://apod.nasa.gov/apod/image/2503/AS17-137-20979_1024.jpg" alt="Lunar Dust and Duct Tape image" />
 
 </p>
 
-<h5 align="center">One of the brightest galaxies in planet Earth's sky is similar in size to our Milky Way Galaxy: big, beautiful Messier 81. Also known as NGC 3031 or Bode's galaxy for its 18th century discoverer, this grand spiral can be found toward the northern constellation of Ursa Major, the Great Bear. The sharp, detailed telescopic view reveals M81's bright yellow nucleus, blue spiral arms, pinkish starforming regions, and sweeping cosmic dust lanes. But some dust lanes actually run through the galactic disk (left of center), contrary to other prominent spiral features. The errant dust lanes may be the lingering result of a close encounter between M81 and the nearby galaxy M82 lurking outside of this frame. Scrutiny of variable stars in M81 has yielded a well-determined distance for an external galaxy -- 11.8 million light-years.</h5>
+<h5 align="center">Why is the Moon so dusty? On Earth, rocks are weathered by wind and water, creating soil and sand. On the Moon, eons of constant micrometeorite bombardment have blasted away at the rocky surface creating a layer of powdery lunar soil or regolith.  For the Apollo astronauts and their equipment, the pervasive, fine, gritty dust was definitely a problem. On the lunar surface in December 1972, Apollo 17 astronauts Harrison Schmitt and Eugene Cernan needed to repair one of their rover's fenders in an effort to keep the rooster tails of dust away from themselves and their gear. This picture reveals the wheel and fender of their dust covered rover along with the ingenious application of spare maps, clamps, and a grey strip of &quot;duct tape&quot;.   Northern Hemisphere Alert : March 29 Partial Solar Eclipse</h5>
 
 ----
 
@@ -188,57 +184,57 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -246,32 +242,32 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
