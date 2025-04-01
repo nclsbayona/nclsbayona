@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yeri make a difference she the rhaesheser ki disse existing she anna&quot;</strong>
-  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Zhol matters nenx kam kaiefas kash kosh,  kad kam tau isauga kia buti.&quot;</strong>
+  <i>-- &quot;It matters not what someone is born, but what they grow to be.&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Furlong Too Late</h4>
+<h4 align="center">Black and Brown</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guinness stout</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
+CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Parker: The Solar System from Near the Sun - ©️ NASA @ 2025-03-31</h4>
+<h4 align="center">A Double Sunrise from a Partial Eclipse - ©️ Jason Kurth;Music: House of the Rising Sun (Sebastia McQueen via SoundCloud) @ 2025-04-01</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/YW1yQt3K_YY" alt="Parker: The Solar System from Near the Sun image" />
+<img src="https://www.youtube.com/embed/oTkbHJsqCZM?rel=0" alt="A Double Sunrise from a Partial Eclipse image" />
 
 </p>
 
-<h5 align="center">If you watch long enough, a comet will appear.  Before then, you will see our Solar System from inside the orbit of Mercury as recorded by NASA's Parker Solar Probe looping around the Sun. The video captures coronal streamers into the solar wind, a small Coronal Mass Ejection, and planets including, in order of appearance, Mercury, Venus, Saturn, Earth, Mars, and Jupiter. Between the emergence of Earth and Mars, Comet Tempel 1 appears with a distinctive tail.  The continuous fleeting streaks are high energy particles from the Sun impacting Parker's sideways looking camera.  The featured time-lapse video was taken last year during Encounter 21, Parker's 21st close approach to the Sun.  Studying data and images from Parker are delivering a better understanding of the dynamic Sun's effects on Earth's space weather as well as humanity's power grids, spacecraft, and space-faring astronauts.   Growing Gallery: Partial Solar Eclipse of 2025 March</h5>
+<h5 align="center">Can the Sun appear to rise twice at the same time? This was just the case a few days ago from Les Escoumins, Quebec, Canada as our Solar System's bright central orb rose just as it was being partially eclipsed by the Moon. The featured video shows this unusual double-sunrise in real time and being reflected by the St. Lawrence River. Soon after the initial two spots of light appear over distant clouds, what appears to be bright horns become visible -- which are really just parts of the Sun not being eclipsed. Soon, the entire eclipsed Sun is visible above the horizon.  In all, this broken sunrise took less than two minutes during a partial eclipse that lasted many times longer.   Although the Moon circles the Earth once a month (moon-th), it does not always eclipse the Sun because its tilted orbit usually takes it above or below.    Gallery: Partial Solar Eclipse of 2025 March</h5>
 
 ----
 
@@ -188,43 +184,43 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
@@ -232,46 +228,46 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
