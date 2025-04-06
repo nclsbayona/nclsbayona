@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Bralov is te progressive realization be a worthy goal&quot;</strong>
-  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Problems csarcah veah problems ren'musi vucum are g'evot'o defending etah ttezutah g'et finding solutions.&quot;</strong>
+  <i>-- &quot;Problems remain as problems because people are busy defending them rather than finding solutions.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Tequila Slammer</h4>
+<h4 align="center">ACID</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/43uhr51551451311.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Bacardi </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-up</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Mix carefully to avoid releasing the dissolved CO2.
+Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
 </p>
 
 ----
@@ -164,14 +164,14 @@ Mix carefully to avoid releasing the dissolved CO2.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Gargoyles' Eclipse - ©️ Bertrand Kulik @ 2025-04-05</h4>
+<h4 align="center">Moonquakes Surprisingly Common - ©️ NASA @ 2025-04-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/NDGargoylesEclipse_kulik.jpg" alt="The Gargoyles' Eclipse image" />
+<img src="https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_960.jpg" alt="Moonquakes Surprisingly Common image" />
 
 </p>
 
-<h5 align="center">In dramatic silhouette against a cloudy daytime sky over Paris, France, gargoyles cast their monstrous gaze outward from the west facade of Notre Dame Cathedral.  Taken on March 29, this telephoto snapshot also captures the dramatic silhouette of a New Moon against the bright solar disk in a partial solar eclipse. Happening high in Parisian skies, the partial eclipse was close to its maximum phase of about 23 percent. Occurring near the end of the first eclipse season of 2025, this partial solar eclipse followed the total eclipse of the Full Moon on March 13/14. The upcoming second eclipse season of 2025 will see a total lunar eclipse on September 7/8 and partial solar eclipse on September 21. The partial solar eclipse will be seen only from locations in planet Earth's southern hemisphere.</h5>
+<h5 align="center">Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -184,90 +184,90 @@ Mix carefully to avoid releasing the dissolved CO2.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
