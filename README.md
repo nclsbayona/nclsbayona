@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Problems csarcah veah problems ren'musi vucum are g'evot'o defending etah ttezutah g'et finding solutions.&quot;</strong>
-  <i>-- &quot;Problems remain as problems because people are busy defending them rather than finding solutions.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;th' way we feel be th' direct result o' what we think.&quot;</strong>
+  <i>-- &quot;The way we feel is the direct result of what we think.&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">ACID</h4>
+<h4 align="center">Tia-Maria</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xuxpxt1479209317.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4-1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser.
+Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Moonquakes Surprisingly Common - ©️ NASA @ 2025-04-06</h4>
+<h4 align="center">NGC 4414: A Flocculent Spiral Galaxy - ©️ NASA @ 2025-04-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/AldrinSeismometer_Apollo11_960.jpg" alt="Moonquakes Surprisingly Common image" />
+<img src="https://apod.nasa.gov/apod/image/2504/Ngc4414B_Hubble_960.jpg" alt="NGC 4414: A Flocculent Spiral Galaxy image" />
 
 </p>
 
-<h5 align="center">Why are there so many moonquakes?   Analyses of seismometers left on the moon during the Apollo moon landings reveal a surprising number of moonquakes occurring within 100 kilometers of the surface.   In fact, 62 moonquakes were detected in data recorded between 1972 and 1977.   Many of these moonquakes are not only strong enough to move furniture in a lunar apartment, but the stiff rock of the moon continues to vibrate for many minutes, significantly longer than the softer rock earthquakes on Earth.   The cause of the moonquakes remains unknown, but a leading hypothesis include tidal gravity from -- and relative heating by -- our Earth. Regardless of the source, future moon dwellings need to be built to withstand the frequent shakings.   Pictured here, Apollo 11 astronaut Buzz Aldrin stands beside a recently deployed lunar seismometer, looking back toward the lunar landing module.    Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">How much mass do flocculent spirals hide?  The featured image of flocculent spiral galaxy NGC 4414 was taken with the Hubble Space Telescope to help answer this question. Flocculent spirals -- galaxies without well-defined spiral arms -- are a quite common form of galaxy, and NGC 4414 is one of the closest.  Stars and gas near the visible edge of spiral galaxies orbit the center so fast that the gravity from a large amount of unseen dark matter must be present to hold them together.  Understanding the matter and dark matter distribution of NGC 4414 helps humanity calibrate the rest of the galaxy and, by deduction, flocculent spirals in general.  Further, calibrating the distance to NGC 4414 helps  humanity calibrate the cosmological distance scale of the entire  visible universe.</h5>
 
 ----
 
@@ -187,87 +199,87 @@ Poor in the 151 first followed by the 101 served with a Coke or Dr Pepper chaser
 <img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
