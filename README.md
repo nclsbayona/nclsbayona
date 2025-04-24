@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Droten ti goals bralir jorcu val kar'taylir vaii val’re going&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Bic is secondary whether vi gaanader belief ra defiance. Me'ven? Is precious is megin vi are ratiin liser gaanader.&quot;</strong>
+  <i>-- &quot;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Long Island Iced Tea</h4>
+<h4 align="center">Iced Coffee Fillip</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strong cold </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +64,7 @@
 
 
 <p align="center">
-Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.
+Mix together in a coffee mug and chill before serving.
 </p>
 
 ----
@@ -180,14 +164,14 @@ Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">An Almost Everything Sky - ©️ Koen van Barneveld @ 2025-04-23</h4>
+<h4 align="center">NGC 6164: A Dragon's Egg - ©️ Daniel Stern @ 2025-04-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/EverythingSky_Koen_960.jpg" alt="An Almost Everything Sky image" />
+<img src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg" alt="NGC 6164: A Dragon's Egg image" />
 
 </p>
 
-<h5 align="center">This surprising sky has almost everything.  First, slanting down from the upper left and far in the distance is the central band of our Milky Way Galaxy.  More modestly, slanting down from the upper right and high in Earth's atmosphere is a bright meteor. The dim band of light across the central diagonal is zodiacal light: sunlight reflected from dust in the inner Solar System. The green glow on the far right is aurora high in Earth's atmosphere.  The bright zigzagging bright line near the bottom is just a light that was held by the scene-planning astrophotographer. This &quot;almost everything&quot; sky was captured over rocks on Castle Hill, New Zealand late last month.  The featured finished frame is a combination of 10 exposures all taken with the same camera and from the same location.  But what about the astrophotographer himself?  He's pictured too -- can you find him?   Jigsaw Fun: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.</h5>
 
 ----
 
@@ -200,90 +184,90 @@ Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
