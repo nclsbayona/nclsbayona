@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Bic is secondary whether vi gaanader belief ra defiance. Me'ven? Is precious is megin vi are ratiin liser gaanader.&quot;</strong>
-  <i>-- &quot;It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Whenever wesa’re afraid,  it’s because wesa don’t know enough. If wesa understood enough,  wesa would never be afraid&quot;</strong>
+  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Iced Coffee Fillip</h4>
+<h4 align="center">Boxcar</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sxtxrp1454514223.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strong cold </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Mix together in a coffee mug and chill before serving.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Mix together in a coffee mug and chill before serving.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 6164: A Dragon's Egg - ©️ Daniel Stern @ 2025-04-24</h4>
+<h4 align="center">Asteroid Donaldjohanson - ©️ NASA @ 2025-04-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/NGC_6164_r4_1024.jpg" alt="NGC 6164: A Dragon's Egg image" />
+<img src="https://apod.nasa.gov/apod/image/2504/final_0798443319_dec.png" alt="Asteroid Donaldjohanson image" />
 
 </p>
 
-<h5 align="center">Beautiful emission nebula NGC 6164 was created by a rare, hot, luminous O-type star, some 40 times as massive as the Sun. Seen at the center of the cosmic cloud, the star is a mere 3 to 4 million years old. In another three to four million years the massive star will end its life in a supernova explosion. Spanning around 4 light-years, the nebula itself has a bipolar symmetry. That makes it similar in appearance to more common and familiar planetary nebulae - the gaseous shrouds surrounding dying sun-like stars. Also like many planetary nebulae, NGC 6164 has been found to have an extensive, faint halo, revealed in this deep image of the region. Expanding into the surrounding interstellar medium, the material in the halo is likely from an earlier active phase of the O star. This gorgeous telescopic view is a composite of extensive narrow-band image data, highlighting glowing atomic hydrogen gas in red and oxygen in greenish hues, with broad-band data for the surrounding starfield. Also known as the Dragon's Egg nebula, NGC 6164 is 4,200 light-years away in the right-angled southern constellation of Norma.</h5>
+<h5 align="center">Main belt asteroid 52246 Donaldjohanson is about 8 kilometers long and 3.5 kilometers across. On April 20, this sharp close-up of the asteroid was captured at a distance of about 1100 kilometers by the Lucy spacecraft's long range camera during its second asteroid encounter. Named after American paleoanthropologist Donald Johanson, discoverer of the Lucy hominid fossil, the elongated asteroid was likely formed about 150 million years ago from a gentle collision of two smaller bodies creating its characteristic contact binary shape. Launched in October of 2021, the Lucy spacecraft will continue its travels through the main asteroid belt in 2025, but is on its way to explore Jupiter's swarm of Trojan asteroids. Lucy is expected to encounter its first Trojan asteroid target, 3548 Eurybates, in August 2027.</h5>
 
 ----
 
@@ -184,43 +196,43 @@ Mix together in a coffee mug and chill before serving.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
@@ -228,46 +240,46 @@ Mix together in a coffee mug and chill before serving.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
