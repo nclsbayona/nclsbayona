@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nosa bombad mind has ever existed without a touch of madness.&quot;</strong>
-  <i>-- &quot;No great mind has ever existed without a touch of madness.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Rewarded for in public,  it’s what you practice in private that you will be&quot;</strong>
+  <i>-- &quot;It’s what you practice in private that you will be rewarded for in public&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Black Forest Shake</h4>
+<h4 align="center">Banana Strawberry Shake Daiquiri</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uvypss1472720581.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shake</h5>
+<h5 align="center">Non alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 lb frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups fresh </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +68,7 @@
 
 
 <p align="center">
-In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
+Blend all together in a blender until smooth.
 </p>
 
 ----
@@ -160,14 +168,14 @@ In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Ble
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Gum 37 and the Southern Tadpoles - ©️ Francis Bozon &amp; Cecil Navick(AstroA. R. O.) @ 2025-04-28</h4>
+<h4 align="center">Saturn's Rings Appear to Disappear - ©️ Natan Fontes @ 2025-04-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/Gum37Hoo_Bozon_960.jpg" alt="Gum 37 and the Southern Tadpoles image" />
+<img src="https://apod.nasa.gov/apod/image/2504/SaturnSeasons_Fontes_960.jpg" alt="Saturn's Rings Appear to Disappear image" />
 
 </p>
 
-<h5 align="center">This cosmic skyscape features glowing gas and dark dust clouds alongside the young stars of NGC 3572.  A beautiful emission nebula and star cluster, it sails far southern skies within the nautical constellation Carina.  Stars from NGC 3572 are toward top center in the telescopic frame that would measure about 100 light-years across at the cluster's estimated distance of 9,000 light-years.  The visible interstellar gas and dust, shown in colors of the Hubble palette, is part of the star cluster's natal molecular cloud, itself cataloged as Gum 37. Dense streamers of material within the nebula, eroded by stellar winds and radiation, clearly trail away from the energetic young stars.  They are likely sites of ongoing star formation with shapes reminiscent of the Tadpoles of IC 410 -- better known to northern skygazers.  In the coming tens to hundreds of millions of years, gas and stars in the cluster will be dispersed though, by gravitational tides and by violent supernova explosions that end the short lives of the massive cluster stars.</h5>
+<h5 align="center">Where are Saturn's ears? Galileo is credited, in 1610, as the first person to see Saturn's rings. Testing out Lipperhey's recently co-invented telescope, Galileo did not know what they were and so called them &quot;ears&quot;.  The mystery deepened in 1612, when Saturn's ears mysteriously disappeared. Today we know exactly what happened: from the perspective of the Earth, Saturn's rings had become too thin to see.  The same drama plays out every 15 years because Saturn, like Earth, undergoes tilt-driven seasons. This means that as Saturn goes around the Sun, its equator and rings can tilt noticeably toward the Sun and inner Solar System, making them easily visible, but from other orbital locations will appear almost not at all.  The featured picture from Brasilia, Brazil shows a modern version of this sequence: the top ring-dominated image was taken in 2020, while the bottom ring-obscure image taken earlier in 2025.   Make Saturn's Rings Musical: Play them like a harp!</h5>
 
 ----
 
@@ -180,90 +188,90 @@ In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Ble
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
