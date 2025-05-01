@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Don't k'usharah ch'at hoah ch'at vumihn&quot;</strong>
-  <i>-- &quot;Don't forget to enjoy the journey&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;bada tis no recha sif seg, solo a gemlox mud pstnod pak tee wat seeko moo, ellabs, yee ellsou pak to ayeboo.&quot;</strong>
+  <i>-- &quot;There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.&quot; in minion language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Dragonfly</h4>
+<h4 align="center">Gentleman's Club</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg" alt="Drink image" />
 
 </p>
 
@@ -52,12 +52,16 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.
+In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.
 </p>
 
 ----
@@ -168,14 +172,14 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Happy Sky over Bufa Hill in Mexico - ©️ Daniel Korona @ 2025-04-30</h4>
+<h4 align="center">MESSENGER's Last Day on Mercury - ©️ NASA @ 2025-05-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2504/HappySkyMexico_Korona_960.jpg" alt="A Happy Sky over Bufa Hill in Mexico image" />
+<img src="https://apod.nasa.gov/apod/image/2505/messengerImpactSite_black600.jpg" alt="MESSENGER's Last Day on Mercury image" />
 
 </p>
 
-<h5 align="center">Sometimes, the sky itself seems to smile.  A few days ago, visible over much of the world, an unusual superposition of our Moon with the planets Venus and Saturn created just such an iconic facial expression. Specifically, a crescent Moon appeared to make a happy face on the night sky when paired with seemingly nearby planets.  Pictured is the scene as it appeared over Zacatecas, México, with distinctive Bufa Hill in the foreground.  On the far right and farthest in the distance is the planet Saturn.  Significantly closer and visible to Saturn's upper left is Venus, the brightest planet on the sky.  Just above the central horizon is Earth's Moon in a waning crescent phase. To create this gigantic icon, the crescent moon phase must be smiling in the correct direction.   Dial-A-Moon: Find the Moon phase on your birthday this year</h5>
+<h5 align="center">The first to orbit inner planet Mercury, the MESSENGER spacecraft came to rest on this region of Mercury's surface on April 30, 2015. Constructed from MESSENGER image and laser altimeter data, the projected scene looks north over the northeastern rim of the broad, lava filled Shakespeare basin. The large, 48 kilometer (30 mile) wide crater Janacek is near the upper left edge. Terrain height is color coded with red regions about 3 kilometers above blue ones. MESSENGER'S final orbit was predicted to end near the center, with the spacecraft impacting the surface at nearly 4 kilometers per second (over 8,700 miles per hour) and creating a new crater about 16 meters (52 feet) in diameter. The impact on the far side of Mercury was not observed by telescopes, but confirmed when no signal was detected from the spacecraft given time to emerge from behind the planet. Launched in 2004, the MErcury Surface, Space ENvironment, GEochemisty and Ranging spacecraft completed over 4,000 orbits after reaching the Solar System's innermost planet in 2011.</h5>
 
 ----
 
@@ -188,68 +192,68 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -257,21 +261,21 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
