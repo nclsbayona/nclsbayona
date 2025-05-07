@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Magical when it's working,  it'll feel&quot;</strong>
-  <i>-- &quot;It'll feel magical when it's working&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Your philosophy,  don't explain.It,  embody.&quot;</strong>
+  <i>-- &quot;Don't explain your philosophy. Embody it.&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apple Karate</h4>
+<h4 align="center">Jack's Vanilla Coke</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/kjnt7z1504793319.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4-5 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Carrot</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 large </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tennessee whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10-12 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+After pouring in your ingredients, and adding 3-5 ice cubes, according to taste. Stir the drink with a stirrer to get the Vanilla off the bottom.
 </p>
 
 ----
@@ -164,14 +172,14 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Doubly Warped World of Binary Black Holes - ©️ NASA @ 2025-05-06</h4>
+<h4 align="center">Galaxy Wars: M81 versus M82 - ©️ Collaborative Astrophotography Team (CAT) @ 2025-05-07</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/rQcKIN9vj3U?rel=0" alt="The Doubly Warped World of Binary Black Holes image" />
+<img src="https://apod.nasa.gov/apod/image/2505/M81M82_CAT_960.jpg" alt="Galaxy Wars: M81 versus M82 image" />
 
 </p>
 
-<h5 align="center">If one black hole looks strange, what about two? Light rays from accretion disks around a pair of orbiting supermassive black holes make their way through the warped space-time produced by extreme gravity in this detailed computer visualization.  The simulated accretion disks have been given different false color schemes, red for the disk surrounding a 200-million-solar-mass black hole, and blue for the disk surrounding a 100-million-solar-mass black hole.  For these masses, though, both accretion disks would actually emit most of their light in the ultraviolet.  The video allows us to see both sides of each black hole at the same time.  Red and blue light originating from both black holes can be seen in the innermost ring of light, called the photon sphere, near their event horizons.  In the past decade, gravitational waves from black hole collisions have actually been detected, although the coalescence of supermassive black holes remains undiscovered.   Hole New Worlds: It's Black Hole Week at NASA!</h5>
+<h5 align="center">In the upper left corner, surrounded by blue arms and dotted with red nebulas, is spiral galaxy M81.  In the lower right corner, marked by a light central line and surrounded by red glowing gas, is irregular galaxy M82.  This stunning vista shows these two mammoth galaxies locked in gravitational combat, as they have been for the past billion years.   The gravity from each galaxy dramatically affects the other during each hundred-million-year pass.  Last go-round, M82's gravity likely raised density waves rippling around M81, resulting in the richness of M81's spiral arms.  But M81 left M82 with violent star forming regions and colliding gas clouds so energetic the galaxy glows in X-rays.  This big battle is seen from Earth through the faint glow of an Integrated Flux Nebula, a little studied complex of diffuse gas and dust clouds in our Milky Way Galaxy. In a few billion years, only one galaxy will remain.</h5>
 
 ----
 
@@ -184,90 +192,90 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
