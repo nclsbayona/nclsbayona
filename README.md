@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;to ka ba&quot;</strong>
-  <i>-- &quot;You got this&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Naas is impossible. Te miit ast says 'ni’m ret'yc!'&quot;</strong>
+  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orangeade</h4>
+<h4 align="center">Midnight Cowboy</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vsxxwy1441208133.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Place some ice cubes in a large tumbler or highball glass, add lemon juice, oran
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Yogi and Friends in 3D - ©️ NASA @ 2025-05-10</h4>
+<h4 align="center">The Surface of Venus from Venera 14 - ©️ Donald Mitchell @ 2025-05-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2505/mars10_st_path_big.jpg" alt="Yogi and Friends in 3D image" />
+<img src="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg" alt="The Surface of Venus from Venera 14 image" />
 
 </p>
 
-<h5 align="center">This picture from July 1997 shows a ramp from the Pathfinder lander, the Sojourner robot rover, deflated landing airbags, a couch, Barnacle Bill and Yogi Rock appear together in this 3D stereo view of the surface of Mars. Barnacle Bill is the rock just left of the house cat-sized, solar-paneled Sojourner. Yogi is the big friendly-looking boulder at top right. The &quot;couch&quot; is the angular rock shape visible near center on the horizon. Look at the image with red/blue glasses (or just hold a piece of clear red plastic over your left eye and blue or green over your right) to get the dramatic 3D perspective. The stereo view was recorded by the remarkable Imager for Mars Pathfinder (IMP) camera. The IMP had two optical paths for stereo imaging and ranging and was equipped with an array of color filters for spectral analysis.  Operating as the first astronomical observatory on Mars, the IMP also recorded images of the Sun and Deimos, the smallest of Mars' two tiny moons.</h5>
+<h5 align="center">If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Place some ice cubes in a large tumbler or highball glass, add lemon juice, oran
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
