@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Naas is impossible. Te miit ast says 'ni’m ret'yc!'&quot;</strong>
-  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;You less capable,  mistakes don't make&quot;</strong>
+  <i>-- &quot;Mistakes don't make you less capable&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Midnight Cowboy</h4>
+<h4 align="center">Snake Bite (UK)</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vsxxwy1441208133.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint sweet or dry </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+Pour ingredients into a pint glass. Drink. Fall over.
 </p>
 
 ----
@@ -168,14 +164,14 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Surface of Venus from Venera 14 - ©️ Donald Mitchell @ 2025-05-11</h4>
+<h4 align="center">Gaia Reconstructs a Side View of our Galaxy - ©️ NASA @ 2025-05-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2505/Venus_Venera14_960.jpg" alt="The Surface of Venus from Venera 14 image" />
+<img src="https://apod.nasa.gov/apod/image/2505/MilkyWaySide_Gaia_960.jpg" alt="Gaia Reconstructs a Side View of our Galaxy image" />
 
 </p>
 
-<h5 align="center">If you could stand on Venus -- what would you see?  Pictured is the view from Venera 14, a robotic Soviet lander which parachuted and air-braked down through the thick Venusian atmosphere in March of 1982. The desolate landscape it saw included flat rocks, vast empty terrain, and a featureless sky above Phoebe Regio near Venus' equator. On the lower left is the spacecraft's penetrometer used to make scientific measurements, while the light piece on the right is part of an ejected lens-cap.  Enduring temperatures near 450 degrees Celsius and pressures 75 times that on Earth, the hardened Venera spacecraft lasted only about an hour. Although data from Venera 14 was beamed across the inner Solar System over 40 years ago, digital processing and merging of Venera's unusual images continues even today.  Recent analyses of infrared measurements taken by ESA's orbiting Venus Express spacecraft indicate that active volcanoes may currently exist on Venus.    Jigsaw Fun: Astronomy Puzzle of the Day</h5>
+<h5 align="center">What does our Milky Way Galaxy look like from the side? Because we are on the inside, humanity can’t get an actual picture. Recently, however, just such a map has been made using location data for over a billion stars from ESA’s Gaia mission. The resulting featured illustration shows that just like many other spiral galaxies, our Milky Way has a very thin central disk. Our Sun and all the stars we see at night are in this disk. Although hypothesized before, perhaps more surprising is that the disk appears curved at the outer edges. The colors of our Galaxy's warped central band derive mostly from dark dust, bright blue stars, and red emission nebulas. Although data analysis is ongoing, Gaia was deactivated in March after a successful mission.   Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,90 +184,90 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
