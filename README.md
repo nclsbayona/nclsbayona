@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Doe wiser u get,  doe less u care tah look like do stupa.&quot;</strong>
-  <i>-- &quot;The wiser you get, the less you care to look like a fool.&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Tauta su goals klotiz because tau zenoti tikurzi tau’re bukle&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Blackthorn</h4>
+<h4 align="center">Zippy's Revenge</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/dgj92f1616098672.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sloe gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz Grape </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
+Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold
 </p>
 
 ----
@@ -168,14 +168,14 @@ Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the tw
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">UGC 1810: Wildly Interacting Galaxy from Hubble - ©️ Domingo Pestana @ 2025-06-01</h4>
+<h4 align="center">Veil Nebula: Wisps of an Ancient Supernova - ©️ Abdullah Alharbi @ 2025-06-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/Arp273Main_HubblePestana_1080.jpg" alt="UGC 1810: Wildly Interacting Galaxy from Hubble image" />
+<img src="https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_960.jpg" alt="Veil Nebula: Wisps of an Ancient Supernova image" />
 
 </p>
 
-<h5 align="center">What's happening to this spiral galaxy? Although details remain uncertain, it surely has to do with an ongoing battle with its smaller galactic neighbor. The featured galaxy is labelled UGC 1810 by itself, but together with its collisional partner is known as Arp 273. The overall shape of UGC 1810 -- in particular its blue outer ring -- is likely a result of wild and violent gravitational interactions. This ring's blue color is caused by massive stars that are blue hot and have formed only in the past few million years.  The inner galaxy appears older, redder, and threaded with cool filamentary dust.  A few bright stars appear well in the foreground, unrelated to UGC 1810, while several galaxies are visible well in the background.  Arp 273 lies about 300 million light years away toward the constellation of Andromeda.  Quite likely, UGC 1810 will devour its galactic sidekick over the next billion years and settle into a classic spiral form.</h5>
+<h5 align="center">Wisps like this are all that remain visible of a Milky Way star.  About 7,000 years ago that star exploded in a supernova, leaving the Veil Nebula.  At the time, the expanding cloud was likely as bright as a crescent Moon, remaining visible for weeks to people living at the dawn of recorded history.  Today, the resulting supernova remnant, also known as the Cygnus Loop, has faded and is now visible only through a small telescope directed toward the constellation of the Swan (Cygnus).  The remaining Veil Nebula is physically huge, however, and even though it lies about 1,400 light-years distant, it covers over five times the size of the full Moon.  The featured picture was taken in Kuwait in mid-2024 and features light emitted by hydrogen in red and oxygen in blue.  In deep images of the complete Veil Nebula like this, even studious readers might not be able to identify the iconic filaments.   Piece it All Together: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Stir sloe gin and vermouth with ice and strain into a cocktail glass. Add the tw
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
