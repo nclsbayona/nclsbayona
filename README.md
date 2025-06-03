@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tauta su goals klotiz because tau zenoti tikurzi tau’re bukle&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;People ma goals succeed hajinaan mori know finne mori’re going&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zippy's Revenge</h4>
+<h4 align="center">AT&amp;T</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rhhwmp1493067619.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz Grape </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold
+Pour Vodka and Gin over ice, add Tonic and Stir
 </p>
 
 ----
@@ -168,14 +168,14 @@ Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the suga
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Veil Nebula: Wisps of an Ancient Supernova - ©️ Abdullah Alharbi @ 2025-06-02</h4>
+<h4 align="center">Rainbow Airglow over the Azores - ©️ Miguel Claro(TWAN); Rollover Annotation: Judy Schmidt @ 2025-06-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/VeilWide_Alharbi_960.jpg" alt="Veil Nebula: Wisps of an Ancient Supernova image" />
+<img src="https://apod.nasa.gov/apod/image/2506/GravityWaves_Claro_960.jpg" alt="Rainbow Airglow over the Azores image" />
 
 </p>
 
-<h5 align="center">Wisps like this are all that remain visible of a Milky Way star.  About 7,000 years ago that star exploded in a supernova, leaving the Veil Nebula.  At the time, the expanding cloud was likely as bright as a crescent Moon, remaining visible for weeks to people living at the dawn of recorded history.  Today, the resulting supernova remnant, also known as the Cygnus Loop, has faded and is now visible only through a small telescope directed toward the constellation of the Swan (Cygnus).  The remaining Veil Nebula is physically huge, however, and even though it lies about 1,400 light-years distant, it covers over five times the size of the full Moon.  The featured picture was taken in Kuwait in mid-2024 and features light emitted by hydrogen in red and oxygen in blue.  In deep images of the complete Veil Nebula like this, even studious readers might not be able to identify the iconic filaments.   Piece it All Together: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Why would the sky glow like a giant repeating rainbow?  Airglow.  Now, air glows all of the time, but it is usually hard to see. A disturbance however -- like an approaching storm -- may cause noticeable rippling in the Earth's atmosphere. These gravity waves are oscillations in air analogous to those created when a rock is thrown in calm water.  The long-duration exposure nearly along the vertical walls of airglow likely made the undulating structure particularly visible.  OK, but where do the colors originate?  The deep red glow likely originates from OH molecules about 87 kilometers high, excited by ultraviolet light from the Sun. The orange and green airglow is likely caused by sodium and oxygen atoms slightly higher up.  The featured image was captured during a climb up Mount Pico in the Azores of Portugal.  Ground lights originate from the island of Faial in the Atlantic Ocean.  A spectacular sky is visible through this banded airglow, with the central band of our Milky Way Galaxy running up the image center, and M31, the Andromeda Galaxy, visible near the top left.   APOD Turns 30!: Free Public Lecture in Anchorage on June 11</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the suga
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
