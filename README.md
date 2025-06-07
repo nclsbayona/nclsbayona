@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Rovsari comes from knowing csei vah did your best ch'at ehe'ah ch'at best csei vah are vit'can (bah accusative) bah bas.&quot;</strong>
-  <i>-- &quot;Success comes from knowing that you did your best to become the best that you are capable of becoming.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Naqis progress is zin progress&quot;</strong>
+  <i>-- &quot;Small progress is still progress&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Cuba Libre</h4>
+<h4 align="center">Amaretto Sunset</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 jigger </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 shots </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 1/2 cup </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.
+Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
 </p>
 
 ----
@@ -164,14 +172,14 @@ Build all ingredients in a Collins glass filled with ice. Garnish with lime wedg
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 6302: The Butterfly Nebula - ©️ Mike Selby @ 2025-06-06</h4>
+<h4 align="center">Perseverance Selfie with Ingenuity - ©️ NASA @ 2025-06-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/NGC-6302-LRGB-Ha-OIII_1024.jpg" alt="NGC 6302: The Butterfly Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2506/PIA24542_fig2_1100c.jpg" alt="Perseverance Selfie with Ingenuity image" />
 
 </p>
 
-<h5 align="center">The bright clusters and nebulae of planet Earth's night sky are often given the names of flowers or insects, and its whopping 3 light-year wingspan, NGC 6302 is no exception. With an estimated surface temperature of about 250,000 degrees C, the central star of the planetary nebula is transforming into a white dwarf star, becoming exceptionally hot, and shining brightly in ultraviolet light. The central star is hidden from direct view by a torus of dust, but its energetic ultraviolet light ionizes atoms in the nebula. In this sharp, telescopic view composed with narrowband image data, the ionized hydrogen and doubly ionized oxygen atoms are shown in their characteristic red and blue-green hues to reveal a stunning complex of knots and filaments within the nebula's wing-like bipolar outflows. NGC 6302 lies about 4,000 light-years away in the arachnologically correct constellation of the Scorpion (Scorpius).</h5>
+<h5 align="center">On the Mars rover's mission Sol 46 or Earth date April 6, 2021, Perseverance held out a robotic arm to take its first selfie on Mars. The WATSON camera at the end of the arm was designed to take close-ups of Martian rocks and surface details though, and not a quick snap shot of friends and smiling faces. In the end, teamwork and weeks of planning on Mars time was required to program a complex series of exposures and camera motions to include Perseverance and its surroundings. The resulting 62 frames were composed into a detailed mosaic, one of the most complicated Mars rover selfies ever taken. In this version of the selfie, the rover's Mastcam-Z and SuperCam instruments are looking toward WATSON and the end of the rover's outstretched arm. About 4 meters (13 feet) from Perseverance is a robotic companion, the Mars Ingenuity helicopter. Perseverance has now spent over 1,500 sols exploring the surface of the Red Planet. On Earth date January 18, 2024, Ingenuity made its 72nd and final flight through the thin Martian atmosphere.</h5>
 
 ----
 
@@ -184,43 +192,43 @@ Build all ingredients in a Collins glass filled with ice. Garnish with lime wedg
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
@@ -228,46 +236,46 @@ Build all ingredients in a Collins glass filled with ice. Garnish with lime wedg
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
