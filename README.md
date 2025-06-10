@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ch'at traveler sees vei tah sees. Ch'at csoserci sees vei tah has vacosetahn ch'at veb.&quot;</strong>
-  <i>-- &quot;The traveler sees what he sees. The tourist sees what he has come to see.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Struggling is part be learning&quot;</strong>
+  <i>-- &quot;Struggling is part of learning&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Nuked Hot Chocolate</h4>
+<h4 align="center">Rum Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xcu6nb1487603142.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wyrsxu1441554538.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocoa</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cocoa powder</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">mikey bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">large bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit punch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">355 ml frozen </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">355 ml frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">crushed </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
 
 
 <p align="center">
-Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seconds. Stir until the heated cocoa dissolves. Fill mug with milk. Nuke for 1-2 minutes, depending on wattage and preferences as to burnt mouth parts.
+Mix all ingredients in a punch bowl and serve.
 </p>
 
 ----
@@ -172,14 +176,14 @@ Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seco
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Between Scylla and Charybdis: A Double Cosmic Discovery - ©️ NASA @ 2025-06-09</h4>
+<h4 align="center">Enceladus in True Color - ©️ NASA @ 2025-06-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/ScyllaB_LerouxGere_960.jpg" alt="Between Scylla and Charybdis: A Double Cosmic Discovery image" />
+<img src="https://apod.nasa.gov/apod/image/2506/EnceladusTrue_Cassini_960.jpg" alt="Enceladus in True Color image" />
 
 </p>
 
-<h5 align="center">Can you identify this celestial object?  Likely not — because this is a discovery image.  Massive stars forge heavy elements in their cores and, after a few million years, end their lives in powerful supernova explosions. These remnants cool relatively quickly and fade, making them difficult to detect.  To uncover such faint, previously unknown supernova remnants, a dedicated group of amateur astrophotographers searched through sky surveys for possible supernova remnant candidates.  The result: the first-ever image of supernova remnant G115.5+9.1 — named Scylla by its discoverers—glowing faintly in the constellation of the mythological King of Aethiopia: Cepheus.  Emission from hydrogen atoms in the remnant is shown in red, and faint emission from oxygen is shown in hues of blue.  Surprisingly, another discovery lurked to the upper right: a faint, previously unknown planetary nebula candidate. In keeping with mythological tradition, it was named Charybdis (Sai 2) — a nod to the ancient Greek expression &quot;caught between Scylla and Charybdis&quot; from Homer’s Odyssey.</h5>
+<h5 align="center">Do oceans under the ice of Saturn's moon Enceladus contain life?  A reason to think so involves  long features -- some dubbed tiger stripes -- that are known to be spewing ice from the moon's icy interior into space. These surface cracks create clouds of fine ice particles over the moon's South Pole and create  Saturn's mysterious E-ring.  Evidence for this has come from the robot Cassini spacecraft that orbited Saturn from 2004 to 2017.  Pictured here, a high resolution image of Enceladus is shown in true color from a close flyby.  The deep crevasses are partly shadowed.  Why Enceladus is active remains a mystery, as the neighboring moon Mimas, approximately the same size, appears quite dead. A analysis of ejected ice grains has yielded evidence that complex organic molecules. These large carbon-rich molecules bolster -- but do not prove -- that oceans under Enceladus' surface could contain life.   APOD Turns 30!: Free public lecture in Anchorage tomorrow (Wednesday) at 7 pm</h5>
 
 ----
 
@@ -192,90 +196,90 @@ Mix with a bit of milk (1 oz or so) in coffee mug. Nuke mug for about 30-50 seco
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
