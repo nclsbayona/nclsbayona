@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Rah ea betrays vah k'um,  hah's their vott'ch'ah; rah etah taskebah vah twice,  hah's your vott'ch'ah.&quot;</strong>
-  <i>-- &quot;If someone betrays you once, it's their fault; if they betray you twice, it's your fault.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Coming nitebha' is a wa'dich,  staying nitebha' is tlhetlh,  'ej working nitebha' is qapla'.&quot;</strong>
+  <i>-- &quot;Coming together is a beginning, staying together is progress, and working together is success. &quot; in klingon language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Havana Cocktail</h4>
+<h4 align="center">Scooter</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -168,14 +168,14 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">APOD is 30 Years Old Today - ©️ NASA @ 2025-06-16</h4>
+<h4 align="center">Rosette Nebula Deep Field - ©️ NASA @ 2025-06-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/APODStarryNight30thanniversary1024.jpg" alt="APOD is 30 Years Old Today image" />
+<img src="https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg" alt="Rosette Nebula Deep Field image" />
 
 </p>
 
-<h5 align="center">APOD is 30 years old today. In celebration, today's picture uses past APODs as tiles arranged to create a single pixelated image that might remind you of one of the most well-known and evocative depictions of planet Earth's night sky. In fact, this Starry Night consists of 1,836 individual images contributed to APOD over the last 5 years in a mosaic of 32,232 tiles. Today, APOD would like to offer a sincere thank you to our contributors, volunteers, and readers. Over the last 30 years your continuing efforts have allowed us to enjoy, inspire, and share a discovery of the cosmos.</h5>
+<h5 align="center">Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,21 +188,21 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
@@ -210,57 +210,57 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +268,10 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
