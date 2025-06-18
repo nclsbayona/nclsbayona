@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Coming nitebha' is a wa'dich,  staying nitebha' is tlhetlh,  'ej working nitebha' is qapla'.&quot;</strong>
-  <i>-- &quot;Coming together is a beginning, staying together is progress, and working together is success. &quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Doe past does nopa equal doe future&quot;</strong>
+  <i>-- &quot;The past does not equal the future&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Scooter</h4>
+<h4 align="center">Thai Coffee</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 tblsp ground</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coriander</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cardamom</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4-5 whole green </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
+Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Shake all ingredients well with cracked ice, strain into a cocktail glass, and s
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rosette Nebula Deep Field - ©️ NASA @ 2025-06-17</h4>
+<h4 align="center">Space Station Silhouette on the Moon - ©️ Eric Holland @ 2025-06-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/RosettaDeepRed_Mendez_960.jpg" alt="Rosette Nebula Deep Field image" />
+<img src="https://apod.nasa.gov/apod/image/2506/IssMoon_Holland_960.jpg" alt="Space Station Silhouette on the Moon image" />
 
 </p>
 
-<h5 align="center">Can you find the Rosette Nebula? The red flowery-looking nebula just above the image center may seem a good choice, but that's not it.  The famous Rosette Nebula is really located on the lower right, here colored blue and white, and connected to the other nebulas by gold-colored filaments.  Because the featured image of Rosette's field is so wide, and because of its deep red exposure, it seems to contain other flowers.  Designated NGC 2237, the center of the Rosette Nebula is populated by the bright blue stars of open cluster NGC 2244, whose winds and energetic light are evacuating the nebula's center.  The Rosette Nebula is about 5,000 light years distant and, just by itself, spans about three times the diameter of a full moon. This flowery field can be found toward the constellation of the Unicorn  (Monoceros).   Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">What's that unusual spot on the Moon? It's the International Space Station. Using precise timing, the Earth-orbiting space platform was photographed in front of a partially lit gibbous Moon in 2019. The featured image was taken from Palo Alto, California, USA with an exposure time of only 1/667 of a second. In contrast, the duration of the transit of the ISS across the entire Moon was about half a second.  A close inspection of this unusually crisp ISS silhouette will reveal the outlines of numerous solar panels and trusses.  The bright crater Tycho is visible on the lower left, as well as comparatively rough, light colored terrain known as highlands and relatively smooth, dark colored areas known as maria.  Downloadable  apps can tell you when the International Space Station will be visible from your area.   APOD Turns 30!: Free Public Lecture in Cork, Ireland on June 24</h5>
 
 ----
 
@@ -188,65 +188,65 @@ Shake all ingredients well with cracked ice, strain into a cocktail glass, and s
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
@@ -254,24 +254,24 @@ Shake all ingredients well with cracked ice, strain into a cocktail glass, and s
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
