@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Whenever mah’re afraid,  'oh’s because mah don’t sov mevyap. If mah understood mevyap,  mah would paghlogh qu' afraid&quot;</strong>
-  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Glaeson iksos daor va moriot nykeā matter hen holding sȳz cards,  yn sometimes,  playing nykeā mijegindita ondos sȳrī.&quot;</strong>
+  <i>-- &quot;Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. &quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apple Cider Punch</h4>
+<h4 align="center">Kentucky B And B</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sqxsxp1478820236.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Optional alcohol - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,36 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 qt </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Allspice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp ground </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 sticks </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -88,7 +64,7 @@
 
 
 <p align="center">
-If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.
+Pour the bourbon and Benedictine into a brandy snifter.
 </p>
 
 ----
@@ -188,14 +164,14 @@ If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mix
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Major Lunar Standstill 2024-2025 - ©️ Luca Vanzella @ 2025-06-20</h4>
+<h4 align="center">Two Worlds, Two Analemmas - ©️ Tunc Tezel @ 2025-06-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/MajorLunarStandstillAPOD_1200.jpg" alt="Major Lunar Standstill 2024-2025 image" />
+<img src="https://apod.nasa.gov/apod/image/2506/AnalemmaEarthMars1200.jpg" alt="Two Worlds, Two Analemmas image" />
 
 </p>
 
-<h5 align="center">dmonton, Alberta, Canada, planet Earth lies on the horizon. in this stack of panoramic composite images. In a monthly time series arranged vertically top to bottom the ambitious photographic project follows the annual north-south swing of sunrise points, from June solstice to December solstice and back again. It also follows the corresponding, but definitely harder to track, Full Moon rise. Of course, the north-south swing of moonrise runs opposite sunrise along the horizon. But these rising Full Moons also span a wider range on the horizon than the sunrises. That's because the well-planned project (as shown in this video) covers the period June 2024 to June 2025, centered on a major lunar standstill. Major lunar standstills represent extremes in the north-south range of moonrise driven by the 18.6 year precession period of the lunar orbit.</h5>
+<h5 align="center">Sure, that figure-8 shaped curve you get when you mark the position of the Sun in Earth's sky at the same time each day over one year is called an analemma. On the left, Earth's figure-8 analemma was traced by combining wide-angle digital images recorded during the year from December 2011 through December 2012. But the shape of an analemma depends on the eccentricity of a planet's orbit and the tilt of its axis of rotation, so analemma curves can look different for different worlds. Take Mars for example. The Red Planet's axial tilt is similar to Earth's, but its orbit around the same sun is more eccentric (less circular) than Earth's orbit. As seen from the Martian surface, the analemma traced in the right hand panel is shaped more like a tear drop. The Mars rover Opportunity captured the images used over the Martian year corresponding to Earth dates July 2006 to June 2008. Of course, each world's solstice dates still lie at the top and bottom of their different analemma curves. The last Mars northern summer solstice was May 29, 2025. Our fair planet's 2025 northern summer solstice is at June 21, 2:42 UTC.</h5>
 
 ----
 
@@ -208,90 +184,90 @@ If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mix
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
