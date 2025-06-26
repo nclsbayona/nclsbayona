@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {The} m¯æst {dreams} hrêosan sôna {you're} wæcnian.&quot;</strong>
-  <i>-- &quot;The best dreams happen when you're awake.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Gar get paid o'r direct proportion brokar te difficulty be problems gar solve.&quot;</strong>
+  <i>-- &quot;You get paid in direct proportion to the difficulty of problems you solve.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Darkwood Sling</h4>
+<h4 align="center">Yoghurt Cooler</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sxxsyq1472719303.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Soft Drink</h5>
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Heering</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-There are many good cherry liqueurs you can use, but I prefere Heering. Add one share of the liqueur. Then you add one share of Soda. For a sour sling use Tonic (most people prefer the drink without Tonic). Afterwards you fill the glass with Orange Juice and ice cubes.
+Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.
 </p>
 
 ----
@@ -172,14 +164,14 @@ There are many good cherry liqueurs you can use, but I prefere Heering. Add one 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rubin's First Look: A Sagittarius Skyscape - ©️ NASA @ 2025-06-25</h4>
+<h4 align="center">The Seagull Nebula - ©️ Timothy Martin @ 2025-06-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/SagittariusTrip_Rubin1100.png" alt="Rubin's First Look: A Sagittarius Skyscape image" />
+<img src="https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg" alt="The Seagull Nebula image" />
 
 </p>
 
-<h5 align="center">This interstellar skyscape spans over 4 degrees across crowded starfields toward the constellation Sagittarius and the central Milky Way. A First Look image captured at the new NSF–DOE Vera C. Rubin Observatory, the bright nebulae and star clusters featured include famous stops on telescopic tours of the cosmos: Messier 8 and Messier 20. An expansive star-forming region over a hundred light-years across, Messier 8 is also known as the Lagoon Nebula. About 4,000 light-years away the Lagoon Nebula harbors a remarkable cluster of young, massive stars. Their intense radiation and stellar winds energize and agitate this cosmic lagoon's turbulent depths. Messier 20's popular moniker is the Trifid. Divided into three parts by dark interstellar dust lanes, the Trifid Nebula's glowing hydrogen gas creates its dominant red color. But contrasting blue hues in the colorful Trifid are due to dust reflected starlight. The Rubin Observatory visited the Trifid-Lagoon field to acquire all the image data during parts of four nights (May 1-4). At full resolution, Rubin's magnificent Sagittarius skyscape is 84,000 pixels wide and 51,500 pixels tall.</h5>
+<h5 align="center">An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.</h5>
 
 ----
 
@@ -192,13 +184,13 @@ There are many good cherry liqueurs you can use, but I prefere Heering. Add one 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -206,76 +198,76 @@ There are many good cherry liqueurs you can use, but I prefere Heering. Add one 
 <img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
