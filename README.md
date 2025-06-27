@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar get paid o'r direct proportion brokar te difficulty be problems gar solve.&quot;</strong>
-  <i>-- &quot;You get paid in direct proportion to the difficulty of problems you solve.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot; {You} {were} {born} ætdôn forgeearnung, for ðâm ðe oðferian sîn twihynde {winner} êow must r¯æd into forgeearnung, tw¯æman ûðe earnian, ac ieldian n¯æman wyrht.&quot;</strong>
+  <i>-- &quot;You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Yoghurt Cooler</h4>
+<h4 align="center">Tom Collins</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +80,7 @@
 
 
 <p align="center">
-Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.
+In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.
 </p>
 
 ----
@@ -164,14 +180,14 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Seagull Nebula - ©️ Timothy Martin @ 2025-06-26</h4>
+<h4 align="center">Messier 109 - ©️ Robert Eder @ 2025-06-27</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2506/IC2177SeagullLRGB-APOD1024.jpg" alt="The Seagull Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2506/M109_Robert_Eder1024.jpg" alt="Messier 109 image" />
 
 </p>
 
-<h5 align="center">An interstellar expanse of glowing gas and obscuring dust presents a bird-like visage to astronomers from planet Earth, suggesting its popular moniker, the Seagull Nebula. This broadband portrait of the cosmic bird covers a 3.5-degree wide swath across the plane of the Milky Way, in the direction of Sirius, alpha star of the constellation of the Big Dog (Canis Major). The bright head of the Seagull Nebula is cataloged as IC 2177, a compact, dusty emission and reflection nebula with embedded massive star HD 53367. The larger emission region, encompassing objects with other catalog designations, is Likely part of an extensive shell structure swept up by successive supernova explosions. The notable bluish arc below and right of center is a bow shock from runaway star FN Canis Majoris. Dominated by the reddish glow of atomic hydrogen, this complex of interstellar gas and dust clouds with other stars of the Canis Majoris OB1 association spans over 200 light-years at the Seagull Nebula's estimated 3,800 light-year distance.</h5>
+<h5 align="center">Big beautiful barred spiral galaxy Messier 109 is the 109th entry in Charles Messier's famous catalog of bright Nebulae and Star Clusters. You can find it just below the Big Dipper's bowl in the northern constellation Ursa Major. In fact, bright dipper star Phecda, Gamma Ursa Majoris, produces the glare at the upper right corner of this telescopic frame. M109's prominent central bar gives the galaxy the appearance of the Greek letter &quot;theta&quot;, θ, a common mathematical symbol representing an angle. M109 spans a very small angle in planet Earth's sky though, about 7 arcminutes or 0.12 degrees. But that small angle corresponds to an enormous 120,000 light-year diameter at the galaxy's estimated 60 million light-year distance. The brightest member of the now recognized Ursa Major galaxy cluster, M109 (aka NGC 3992) is joined by spiky foreground stars. Three small, fuzzy bluish galaxies also on the scene, identified (top to bottom) as UGC 6969, UGC 6940 and UGC 6923, are possibly satellite galaxies of the larger barred spiral galaxy Messier 109.</h5>
 
 ----
 
@@ -184,90 +200,90 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
