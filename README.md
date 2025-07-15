@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember: </strong>
-  <i>Mistakes don't make you less capable ...</i>
+  <strong align="center">Someone once said: &quot;U got this&quot;</strong>
+  <i>-- &quot;You got this&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pink Gin</h4>
+<h4 align="center">The Last Word</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.
+Shake with ice and strain into a cocktail glass.
 </p>
 
 ----
@@ -164,14 +172,14 @@ Pour the bitters into a wine glass. Swirl the glass to coat the inside with the 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 2685: The Helix Galaxy - ©️ Stefan Thrun @ 2025-07-14</h4>
+<h4 align="center">Collapse in Hebes Chasma on Mars - ©️ NASA @ 2025-07-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2507/Ngc2685_Thrun_960.jpg" alt="NGC 2685: The Helix Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2507/HebesChasma_esa_960.jpg" alt="Collapse in Hebes Chasma on Mars image" />
 
 </p>
 
-<h5 align="center">What is going on with this galaxy? NGC 2685 is a confirmed polar ring galaxy - a rare type of galaxy with stars, gas and dust orbiting in rings perpendicular to the plane of a flat galactic disk. The bizarre configuration could be caused by the chance capture of material from another galaxy by a disk galaxy, with the captured debris strung out in a rotating ring. Still, observed properties of NGC 2685 suggest that the rotating helix structure is remarkably old and stable. In this sharp view of the peculiar system also known as Arp 336 or the Helix galaxy, the strange, perpendicular rings are easy to trace as they pass in front of the galactic disk, along with other disturbed outer structures. NGC 2685 is about 50,000 light-years across and 40 million light-years away in the constellation of the Great Bear (Ursa Major).   Piece it All Together: Astronomy Puzzle of the Day</h5>
+<h5 align="center">What's happened in Hebes Chasma on Mars? Hebes Chasma is a depression just north of the enormous Valles Marineris canyon.  Since the depression is unconnected to other surface features, it is unclear where the internal material went. Inside Hebes Chasma is Hebes Mensa, a 5 kilometer high mesa that appears to have undergone an unusual partial collapse -- a collapse that might be providing clues. The featured image, taken by ESA's robotic Mars Express spacecraft currently orbiting Mars, shows great details of the chasm and the unusual horseshoe shaped indentation in the central mesa. Material from the mesa appears to have flowed onto the floor of the chasm, while a possible dark layer appears to have pooled like ink on a downslope landing.  One hypothesis holds that salty rock composes some lower layers in Hebes Chasma, with the salt dissolving in melted ice flows that drained through holes into an underground aquifer.</h5>
 
 ----
 
@@ -184,90 +192,90 @@ Pour the bitters into a wine glass. Swirl the glass to coat the inside with the 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
