@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Trust be th' glue that holds people together and be th' lubricant that keeps an organization movin' fore.&quot;</strong>
-  <i>-- &quot;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;The atte step is to establish ki ato is possible; kash probability will occur.&quot;</strong>
+  <i>-- &quot;The first step is to establish that something is possible; then probability will occur.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Halloween Punch</h4>
+<h4 align="center">Hemingway Special</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7hcgyj1571687671.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red Chili Flakes</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +72,7 @@
 
 
 <p align="center">
-Tip the cherry juice, orange peel, chilli, cinnamon sticks, cloves and ginger into a large saucepan. Simmer for 5 mins, then turn off the heat. Leave to cool, then chill for at least 4 hrs, or up to 2 days – the longer you leave it the more intense the flavours. If serving to young children, take the chilli out after a few hours.
-
-When you’re ready to serve, pour the juice into a jug. Serve in glass bottles or glasses and pop a straw in each. If you're adding vodka, do so at this stage. Dangle a fangs sweet from each glass.
+Pour all ingredients into a shaker with ice. Shake.
 </p>
 
 ----
@@ -186,14 +172,14 @@ When you’re ready to serve, pour the juice into a jug. Serve in glass bottles 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Twelve Years of Kappa Cygnids - ©️ Petr Horálek @ 2025-07-25</h4>
+<h4 align="center">Globular Cluster Omega Centauri - ©️ Leo Shatz @ 2025-07-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2507/KCG2021_08_11_Pano_Elafonisi_met_fin-CCMZ_1024px.png" alt="Twelve Years of Kappa Cygnids image" />
+<img src="https://apod.nasa.gov/apod/image/2507/oc_ls_2025_1024.jpg" alt="Globular Cluster Omega Centauri image" />
 
 </p>
 
-<h5 align="center">Meteors from the Kappa Cygnid meteor shower are captured in this time-lapse composite skyscape. The minor meteor shower, with a radiant not far from its eponymous star Kappa Cygni, peaks in mid-August, almost at the same time as the much better-known and better-observed Perseid meteor shower. But, seen to have a peak rate of only about 3 meteors per hour, Kappa Cygnids are vastly outnumbered by the more popular, prolific Perseid shower's meteors that emanate from the heroic constellation Perseus. To capture dozens of Kappa Cygnids, this long term astro-imaging project compiled meteors in exposures selected from over 51 August nights during the years 2012 through 2024. Most of the exposures with identified Kappa Cygnid meteors were made in August 2021, a high point of the shower's known 7-year activity cycle. All twelve years worth of Kappa Cygnids are registered against a base sea and night skyscape of the Milky Way above Elafonisi Beach, Crete, Greece, also recorded in August of 2021.</h5>
+<h5 align="center">Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.</h5>
 
 ----
 
@@ -206,90 +192,90 @@ When you’re ready to serve, pour the juice into a jug. Serve in glass bottles 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
