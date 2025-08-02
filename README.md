@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Winners aras nenx tauta kuris niekada neviz,  kad tauta kuris niekada suvis.&quot;</strong>
-  <i>-- &quot;Winners are not people who never fail, but people who never quit.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot; {Never} lûcan êower {lips} âlecgan ðæge pro {whom} êower benohte furðum {opened} êower môdsefa.&quot;</strong>
+  <i>-- &quot;Never close your lips to those whom you have already opened your heart.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sea breeze</h4>
+<h4 align="center">Mimosa</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chilled </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.
+Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Small Dark Nebula - ©️ Peter Bresseler @ 2025-08-01</h4>
+<h4 align="center">Fireflies, Meteors, and Milky Way - ©️ Daniel Korona @ 2025-08-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/BokGlobule_1_1024.jpg" alt="Small Dark Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg" alt="Fireflies, Meteors, and Milky Way image" />
 
 </p>
 
-<h5 align="center">A small, dark, nebula looks isolated near the center of this telescopic close-up. The wedge-shaped cosmic cloudlet lies within a relatively crowded region of space though. About 7,000 light-years distant and filled with glowing gas and an embedded cluster of young stars, the region is known as M16 or the Eagle Nebula. Hubble's iconic images of the Eagle Nebula include the famous star-forming Pillars of Creation, towering structures of interstellar gas and dust 4 to 5 light-years long. But this small dark nebula, known to some as a Bok globule, is a fraction of a light-year across. The Bok globule stands out in silhouette against the expansive background of M16's diffuse glow. Found scattered within emission nebulae and star clusters, Bok globules are small interstellar clouds of cold molecular gas and obscuring dust that also form stars within their dense, collapsing cores.</h5>
+<h5 align="center">Taken on July 29 and July 30, a registered and stacked series of exposures creates this dreamlike view of a northern summer night. Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico, The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors. Currently active, the annual Delta Aquarid meteor shower shares August nights though, overlapping with the better-known Perseid meteor shower. This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers. How can you tell a Delta Aquariid from a Perseid meteor?  The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus. Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame. Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights. But how can you tell a firefly from a meteor? Just try to catch one.</h5>
 
 ----
 
@@ -188,79 +184,79 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +264,10 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
