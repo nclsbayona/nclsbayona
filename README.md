@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {Never} lûcan êower {lips} âlecgan ðæge pro {whom} êower benohte furðum {opened} êower môdsefa.&quot;</strong>
-  <i>-- &quot;Never close your lips to those whom you have already opened your heart.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Don't worry if tlhih tu' flaws in your past creations,  'oh's because tlhih've evolved&quot;</strong>
+  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mimosa</h4>
+<h4 align="center">Apple Grande</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/juhcuu1504370685.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chilled </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
+Chill both ingredients!! Mix in a tumbler and enjoy!
 </p>
 
 ----
@@ -164,14 +164,14 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Fireflies, Meteors, and Milky Way - ©️ Daniel Korona @ 2025-08-02</h4>
+<h4 align="center">Milky Way and Exploding Meteor - ©️ Andre van der Hoeven @ 2025-08-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/DeltaAqrFireflies1024.jpg" alt="Fireflies, Meteors, and Milky Way image" />
+<img src="https://apod.nasa.gov/apod/image/2508/MeteorBoom_vanderHoeven_750.gif" alt="Milky Way and Exploding Meteor image" />
 
 </p>
 
-<h5 align="center">Taken on July 29 and July 30, a registered and stacked series of exposures creates this dreamlike view of a northern summer night. Multiple firefly flashes streak across the foreground as the luminous Milky Way arcs above the horizon in the Sierra de Órganos national park of central Mexico, The collection of bright streaks aligned across the sky toward the upper left in the timelapse image are Delta Aquariid meteors. Currently active, the annual Delta Aquarid meteor shower shares August nights though, overlapping with the better-known Perseid meteor shower. This year that makes post-midnight, mostly moonless skies in early August very popular with late night skygazers. How can you tell a Delta Aquariid from a Perseid meteor?  The streaks of Perseid meteors can be traced back to an apparent radiant in the constellation Perseus. Delta Aquariids appear to emerge from the more southerly constellation Aquarius, beyond the top left of this frame. Of course, the bioluminescent flashes of fireflies are common too on these northern summer nights. But how can you tell a firefly from a meteor? Just try to catch one.</h5>
+<h5 align="center">In about a week the Perseid Meteor Shower will reach its maximum.  Grains of icy rock will streak across the sky as they evaporate during entry into Earth's atmosphere.  These grains were shed from Comet Swift-Tuttle.  The Perseids result from the annual crossing of the Earth through Comet Swift-Tuttle's orbit, and are typically the most active meteor shower of the year.  Although it is hard to predict the level of activity in any meteor shower, in a clear dark sky an observer might see a meteor a minute.  This year's Perseids peak just a few days after  full moon, and so some faint meteors will be lost to the lunar skyglow.  Meteor showers in general are best seen from a relaxing position, away from lights.  Featured here is a meteor caught exploding during the 2015 Perseids above Austria next to the central band of our Milky Way Galaxy.</h5>
 
 ----
 
@@ -184,79 +184,79 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -264,10 +264,10 @@ Ensure both ingredients are well chilled, then mix into the glass. Serve cold.
 <img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
