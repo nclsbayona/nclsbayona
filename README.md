@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; ic pro oncnâwan {you'll} m¯æggewrit hê ûtian&quot;</strong>
-  <i>-- &quot;I know you'll sort it out&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Ir mín gar- mín bodui a mind in conn-,  everything else will exist in i foeir near,  in i foeir té.&quot;</strong>
+  <i>-- &quot;When we have our body and mind in order, everything else will exist in the right place, in the right way.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zimadori Zinger</h4>
+<h4 align="center">Pure Passion</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bw8gzx1485619920.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">40 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Zima</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +84,7 @@
 
 
 <p align="center">
-Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't stir. Garnish with a cherry.
+Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.
 </p>
 
 ----
@@ -164,14 +184,14 @@ Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't st
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Blue Arcs Toward Andromeda - ©️ Ogle et al. @ 2025-08-04</h4>
+<h4 align="center">NGC 6072: A Complex Planetary Nebula from Webb - ©️ NASA @ 2025-08-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/M31Oxy_Collab_960.jpg" alt="Blue Arcs Toward Andromeda image" />
+<img src="https://apod.nasa.gov/apod/image/2508/Ngc6072_webb_960.jpg" alt="NGC 6072: A Complex Planetary Nebula from Webb image" />
 
 </p>
 
-<h5 align="center">What are these gigantic blue arcs near the Andromeda Galaxy (M31)?  Discovered in 2022 by amateur astronomers, the faint arcs -- dubbed SDSO 1 -- span nearly the same angular size as M31 itself.  At first, their origin was a mystery: are they actually near the Andromeda Galaxy, or alternatively near to our Sun?  Now, over 550 hours of combined exposure and a collaboration between amateur and professional astronomers has revealed strong evidence for their true nature: SDSO 1 is not intergalactic, but a new class of planetary nebula within our galaxy.  Dubbed a Ghost Planetary Nebula (GPN), SDSO 1 is the first recognized member of a new subclass of faded planetary nebulas, along with seven others also recently identified.  Shown in blue are extremely faint oxygen emission from the shock waves, while the surrounding red is a hydrogen-emitting trail that indicates the GPN's age.</h5>
+<h5 align="center">Why is this nebula so complex? The Webb Space Telescope has imaged a nebula in great detail that is thought to have emerged from a Sun-like star. NGC 6072 has been resolved into one of the more unusual and complex examples of planetary nebula. The featured image is in infrared light with the red color highlighting cool hydrogen gas. Study of previous images of NGC 6072 indicated several likely outflows and two disks inside the jumbled gas, while the new Webb image resolves new features likely including one disk's edge protruding on the central left.  A leading origin hypothesis holds that the nebula's complexity is caused or enhanced by multiple outbursts from a star in a multi-star system near the center.</h5>
 
 ----
 
@@ -184,90 +204,90 @@ Pour Zima in a collins glass over ice and then pour the shot of Midori. Don't st
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
