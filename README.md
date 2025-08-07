@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;ye be knowin' more than ye think&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Gar shi limitations are those gar set laam o'r gar mind ra permit others brokar set laam par gar.&quot;</strong>
+  <i>-- &quot;Your only limitations are those you set up in your mind or permit others to set up for you.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orange Push-up</h4>
+<h4 align="center">Bob Marley</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mgf0y91503565781.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Spiced rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an orange and cherry flag. So good it will melt in your mouth!!!
+Layer in a 2 oz shot glass or pony glass
 </p>
 
 ----
@@ -172,14 +168,14 @@ Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Meteor before Galaxy - ©️ FritzHelmut Hemmerich @ 2025-08-06</h4>
+<h4 align="center">The Double Cluster in Perseus - ©️ Ron Brecher @ 2025-08-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/MeteorM31_hemmerich_960.jpg" alt="Meteor before Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg" alt="The Double Cluster in Perseus image" />
 
 </p>
 
-<h5 align="center">What's that green streak in front of the Andromeda galaxy? A meteor. While photographing the Andromeda galaxy in 2016, near the peak of the Perseid Meteor Shower, a small pebble from deep space crossed right in front of our Milky Way Galaxy's far-distant companion. The small meteor took only a fraction of a second to pass through this 10-degree field.  The meteor flared several times while braking violently upon entering Earth's atmosphere.  The green color was created, at least in part, by the meteor's gas glowing as it vaporized. Although the exposure was timed to catch a Perseid meteor, the orientation of the imaged streak seems a better match to a meteor from the Southern Delta Aquariids, a meteor shower that peaked a few weeks earlier.  Not coincidentally, the Perseid Meteor Shower peaks next week, although this year the meteors will have to outshine a sky brightened by a nearly full moon.</h5>
+<h5 align="center">This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.</h5>
 
 ----
 
@@ -192,90 +188,90 @@ Combine liquors in a blender. Add a half scoop of ice and blend. Garnish with an
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
