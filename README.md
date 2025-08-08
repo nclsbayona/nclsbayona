@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar shi limitations are those gar set laam o'r gar mind ra permit others brokar set laam par gar.&quot;</strong>
-  <i>-- &quot;Your only limitations are those you set up in your mind or permit others to set up for you.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot; {Selfishness} heonu feohgyrnes, syndrig attraction with pron ðe ic ðêodlic, niman m¯æst un−l¯æd ûser {troubles}.&quot;</strong>
+  <i>-- &quot;Selfishness and greed, individual or national, cause most of our troubles.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bob Marley</h4>
+<h4 align="center">Surf City Lifesaver</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2rzfer1487602699.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ouzo</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 part </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Layer in a 2 oz shot glass or pony glass
+Lots of ice and soda top up in tall glass with cherry and a grin.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Layer in a 2 oz shot glass or pony glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Double Cluster in Perseus - ©️ Ron Brecher @ 2025-08-07</h4>
+<h4 align="center">Dawn of the Crab - ©️ NASA @ 2025-08-08</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/DoubleClusterBrecher1024.jpg" alt="The Double Cluster in Perseus image" />
+<img src="https://apod.nasa.gov/apod/image/2508/CrabRecreation_2_1054Sky1024.jpg" alt="Dawn of the Crab image" />
 
 </p>
 
-<h5 align="center">This stunning starfield spans about three full moons (1.5 degrees) across the heroic northern constellation of Perseus. It holds the famous pair of open star clusters, h and Chi Persei. Also cataloged as NGC 869 (right) and NGC 884, both clusters are about 7,000 light-years away and contain stars much younger and hotter than the Sun.  Separated by only a few hundred light-years, the clusters are both 13 million years young based on the ages of their individual stars, evidence that both clusters were likely a product of the same star-forming region. Always a rewarding sight in binoculars or small telescopes, the Double Cluster is even visible to the unaided eye from dark locations.</h5>
+<h5 align="center">One of the all-time historic skyscapes occured in July 1054, when the Crab Supernova blazed into the dawn sky. Chinese court astrologers first saw the Guest Star on the morning of 4 July 1054 next to the star Tianguan (now cataloged as Zeta Tauri). The supernova peaked in late July 1054 a bit brighter than Venus, and was visible in the daytime for 23 days. The Guest Star was so bright that every culture around the world inevitably discovered the supernova independently, although only nine reports survive, including those from China, Japan, and Constantinople. This iPhone picture is from Signal Hill near Tucson on the morning of 26 July 2025, faithfully re-creates the year 1054 Dawn of the Crab, showing the sky as seen by Hohokam peoples. The planet Venus, as a stand-in for the supernova, is close to the position of what is now the Crab Nebula supernova remnant. Step outside on a summer dawn with bright Venus, and ask yourself &quot;What would you have thought in ancient times when suddenly seeing the Dawn of the Crab?&quot;</h5>
 
 ----
 
@@ -188,24 +192,24 @@ Layer in a 2 oz shot glass or pony glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -213,65 +217,65 @@ Layer in a 2 oz shot glass or pony glass
 <img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
