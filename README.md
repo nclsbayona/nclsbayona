@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The lah to 'uch cha' competing thoughts in wa''s yab 'ej still qu' able to qap is the ghitlh of a moch yab.&quot;</strong>
-  <i>-- &quot;The ability to hold two competing thoughts in one's mind and still be able to function is the mark of a superior mind.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Anha give myself permission to hash fini is jil ha anna&quot;</strong>
+  <i>-- &quot;I give myself permission to do what is right for me&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kir Royale</h4>
+<h4 align="center">3-Mile Long Island Iced Tea</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yt9i7n1504370388.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,40 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 wedge </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +92,7 @@
 
 
 <p align="center">
-Pour Creme de cassis in glass, gently pour champagne on top
+Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.
 </p>
 
 ----
@@ -164,14 +192,14 @@ Pour Creme de cassis in glass, gently pour champagne on top
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perseids from Perseus - ©️ Marcin Rosadziński @ 2025-08-12</h4>
+<h4 align="center">Trapezium: In the Heart of Orion - ©️ NASA @ 2025-08-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_1080.jpg" alt="Perseids from Perseus image" />
+<img src="https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_960.jpg" alt="Trapezium: In the Heart of Orion image" />
 
 </p>
 
-<h5 align="center">Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.</h5>
+<h5 align="center">What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.</h5>
 
 ----
 
@@ -184,32 +212,32 @@ Pour Creme de cassis in glass, gently pour champagne on top
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
@@ -217,32 +245,32 @@ Pour Creme de cassis in glass, gently pour champagne on top
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
@@ -250,24 +278,24 @@ Pour Creme de cassis in glass, gently pour champagne on top
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
