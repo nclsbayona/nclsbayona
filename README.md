@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yousa're do a bombad job&quot;</strong>
-  <i>-- &quot;You're doing a great job&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;N- where cín coth na- ú-.&quot;</strong>
+  <i>-- &quot;Be where your enemy is not.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Spanish chocolate</h4>
+<h4 align="center">Duchamp's Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocoa</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pisco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweet </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 beaten </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">St. Germain</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 Dashes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepper</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pinch</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lavender</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 sprigs</td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +84,9 @@
 
 
 <p align="center">
-Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
+Shake all ingredients.
+Double strain in a chilled double old fashioned glass with abig ice cube.
+Garnish with a couple of lavender sprigs
 </p>
 
 ----
@@ -172,14 +186,14 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perseid Meteors from Durdle Door - ©️ Josh Dury @ 2025-08-20</h4>
+<h4 align="center">Mostly Perseids - ©️ Klaus Pillwatsch @ 2025-08-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/PerseidsDurdleDoor_Dury_960.jpg" alt="Perseid Meteors from Durdle Door image" />
+<img src="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg" alt="Mostly Perseids image" />
 
 </p>
 
-<h5 align="center">What are those curved arcs in the sky? Meteors -- specifically, meteors from this year's Perseid meteor shower.  Over the past few weeks, after the sky darkened, many images of Perseid meteors were captured separately and merged into a single frame, taken earlier.  Although the meteors all traveled on straight paths, these paths appear slightly curved by the wide-angle lens of the capturing camera.  The meteor streaks can all be traced back to a single point on the sky called the radiant, here just off the top of the frame in the constellation of Perseus. The same camera took a deep image of the background sky that brought up the central band of our Milky Way galaxy running nearly vertically through the featured image's center. The limestone arch in the foreground in Dorset, England is known as Durdle Door, a name thought to survive from a thousand years ago.</h5>
+<h5 align="center">In this predawn skyscape recorded during the early morning hours of August 13, mostly Perseid meteors are raining down on planet Earth. You can easily identify the Perseid meteor streaks. They're the ones with trails that seem to converge on the annual meteor shower's radiant, a spot in the heroic constellation Perseus, located off the top of the frame. That's the direction in Earth's sky that looks along the orbit of this meteor shower's parent, periodic Comet Swift-Tuttle. Of course the scene is a composite, a combination of about 500 digital exposures to capture meteors registered with a single base frame exposure. But all exposures were taken during a period of around 2.5 hours from a wind farm near Mönchhof, Burgenland, Austria. Red lights on the individual wind turbine towers dot the foreground. In their spectacular close conjunction, bright planets Jupiter and Venus are poised above the eastern horizon.</h5>
 
 ----
 
@@ -192,43 +206,43 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
@@ -236,46 +250,46 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
