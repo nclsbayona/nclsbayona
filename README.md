@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;N- where cín coth na- ú-.&quot;</strong>
-  <i>-- &quot;Be where your enemy is not.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;U got this&quot;</strong>
+  <i>-- &quot;You got this&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Duchamp's Punch</h4>
+<h4 align="center">Gin Smash</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/g51naw1485084685.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iprva61606768774.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pisco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Carbonated water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cube </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">St. Germain</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 Dashes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepper</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pinch</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lavender</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 sprigs</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +80,7 @@
 
 
 <p align="center">
-Shake all ingredients.
-Double strain in a chilled double old fashioned glass with abig ice cube.
-Garnish with a couple of lavender sprigs
+Muddle sugar with carbonated water and mint sprigs in an old-fashioned glass. Add gin and 1 ice cube. Stir, add the orange slice and the cherry, and serve.
 </p>
 
 ----
@@ -186,14 +180,14 @@ Garnish with a couple of lavender sprigs
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Mostly Perseids - ©️ Klaus Pillwatsch @ 2025-08-21</h4>
+<h4 align="center">A Tale of Two Nebulae - ©️ Kent Biggs @ 2025-08-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/20250813_035050-TL4IMG_7698nebulb7331-7833ss_1024.jpg" alt="Mostly Perseids image" />
+<img src="https://apod.nasa.gov/apod/image/2508/M57_LRGB_1K.jpg" alt="A Tale of Two Nebulae image" />
 
 </p>
 
-<h5 align="center">In this predawn skyscape recorded during the early morning hours of August 13, mostly Perseid meteors are raining down on planet Earth. You can easily identify the Perseid meteor streaks. They're the ones with trails that seem to converge on the annual meteor shower's radiant, a spot in the heroic constellation Perseus, located off the top of the frame. That's the direction in Earth's sky that looks along the orbit of this meteor shower's parent, periodic Comet Swift-Tuttle. Of course the scene is a composite, a combination of about 500 digital exposures to capture meteors registered with a single base frame exposure. But all exposures were taken during a period of around 2.5 hours from a wind farm near Mönchhof, Burgenland, Austria. Red lights on the individual wind turbine towers dot the foreground. In their spectacular close conjunction, bright planets Jupiter and Venus are poised above the eastern horizon.</h5>
+<h5 align="center">This colorful telescopic view towards the musical northern constellation Lyra reveals the faint outer halos and brighter central ring-shaped region of M57, popularly known as the Ring Nebula. To modern astronomers M57 is a well-known planetary nebula. With a central ring about one light-year across, M57 is definitely not a planet though, but the gaseous shroud of one of the Milky Way's dying sun-like stars. Roughly the same apparent size as M57, the fainter and more often overlooked barred spiral galaxy at the left is IC 1296. In fact, over 100 years ago IC 1296 would have been known as a spiral nebula. By chance the pair are in the same field of view, and while they appear to have similar sizes they are actually very far apart. At a distance of a mere 2,000 light-years M57 is well within our own Milky Way galaxy. Extragalactic IC 1296 (aka PGC62532) is more like 200,000,000 light-years distant. That's about 100,000 times farther away than M57 but since they appear roughly similar in size, former spiral nebula IC 1296 must also be about 100,000 times larger than planetary nebula M57. Look closely at the sharp 21st century astroimage to spot even more distant background galaxies scattered through the frame.</h5>
 
 ----
 
@@ -206,54 +200,54 @@ Garnish with a couple of lavender sprigs
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
@@ -261,35 +255,35 @@ Garnish with a couple of lavender sprigs
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
