@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ae progress na- still progress&quot;</strong>
-  <i>-- &quot;Small progress is still progress&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Tlhih sov more than tlhih knew wa'hu'&quot;</strong>
+  <i>-- &quot;You know more than you knew yesterday&quot; in klingon language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Boston Sour</h4>
+<h4 align="center">Screaming Orgasm</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,28 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +68,7 @@
 
 
 <p align="center">
-Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.
+Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.
 </p>
 
 ----
@@ -180,14 +168,14 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Spinning Pulsar of the Crab Nebula - ©️ NASA @ 2025-08-24</h4>
+<h4 align="center">The Meteor and the Star Cluster - ©️ Yousif Alqasimi &amp;  Essa Al Jasmi @ 2025-08-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/Crab_HubbleChandraSpitzer_1080.jpg" alt="The Spinning Pulsar of the Crab Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2508/MeteorPleiades_Alqasimi_960.jpg" alt="The Meteor and the Star Cluster image" />
 
 </p>
 
-<h5 align="center">At the core of the Crab Nebula lies a city-sized, magnetized neutron star spinning 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core. About twelve light-years across, the spectacular picture frames the glowing gas, cavities and swirling filaments near the Crab Nebula's center.  The featured picture combines visible light from the Hubble Space Telescope in purple, X-ray light from the Chandra X-ray Observatory in blue, and infrared light from the Spitzer Space Telescope in red.  Like a cosmic dynamo, the Crab pulsar powers the emission from the nebula, driving a shock wave through surrounding material and accelerating the spiraling electrons. With more mass than the Sun and the density of an atomic nucleus,the spinning pulsar is the collapsed core of a massive star that exploded. The outer parts of the Crab Nebula are the expanding remnants of the star's component gases. The supernova explosion was witnessed on planet Earth in the year 1054.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</h5>
+<h5 align="center">Sometimes even the sky surprises you.  To see more stars and faint nebulosity in the Pleiades star cluster (M45), long exposures are made.  Many times, less interesting items appear on the exposures that were not intended -- but later edited out. These include stuck pixels, cosmic ray hits, frames with bright clouds or Earth's Moon, airplane trails, lens flares, faint satellite trails, and even insect trails.  Sometimes, though, something really interesting is caught by chance. That was just the case a few weeks ago in al-Ula, Saudi Arabia when a bright meteor streaked across during an hour-long exposure of the Pleiades. Along with the famous bright blue stars, less famous and less bright blue stars, and blue-reflecting dust surrounding the star cluster, the fast rock fragment created a distinctive green glow, likely due to vaporized metals.    Jigsaw Universe: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -200,21 +188,21 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
@@ -222,32 +210,32 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
@@ -255,35 +243,35 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
