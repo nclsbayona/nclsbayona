@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;El'es itself halishau discomfort.&quot;</strong>
-  <i>-- &quot;Freedom itself demands discomfort.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Tlhih can ruch&quot;</strong>
+  <i>-- &quot;You can do it&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lord And Lady</h4>
+<h4 align="center">Amaretto Liqueur</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/swqxuv1472719649.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,48 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tia maria</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Almond flavoring</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grain alcohol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup pure </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Food coloring</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 drops yellow </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Food coloring</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 drops red </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Food coloring</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 drops blue </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Glycerine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +100,7 @@
 
 
 <p align="center">
-Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.
+Combine sugar and 3/4 cup water in a small saucepan. Bring to a boil, stirring constantly. Reduce heat and simmer until all sugar is dissolved. Remove from heat and cool. In an aging container, combine apricot halves, almond extract, grain alcohol with 1/2 cup water, and brandy. Stir in cooled sugar syrup mixture. Cap and let age for 2 days. Remove apricot halves. (Save apricot halves, can be used for cooking). Add food coloring and glycerine. Stir, recap and continue aging for 1 to 2 months. Re-bottle as desired. Liqueur is ready to serve but will continue to improve with additional aging.
 </p>
 
 ----
@@ -164,14 +200,14 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">WISPIT 2b: Exoplanet Carves Gap in Birth Disk - ©️ NASA @ 2025-08-27</h4>
+<h4 align="center">Galaxies, Stars, and Dust - ©️ Robert Eder @ 2025-08-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2508/Wispit4b_eso_960.jpg" alt="WISPIT 2b: Exoplanet Carves Gap in Birth Disk image" />
+<img src="https://apod.nasa.gov/apod/image/2508/NGC7497_Robert_Eder1024.jpg" alt="Galaxies, Stars, and Dust image" />
 
 </p>
 
-<h5 align="center">That yellow spot -- what is it? It's a young planet outside our Solar System. The featured image from the Very Large Telescope in Chile surprisingly captures a distant scene much like our own Solar System's birth, some 4.5 billion years ago.  Although we can't look into the past and see Earth's formation directly, telescopes let us watch similar processes unfolding around distant stars.  At the center of this frame lies a young Sun-like star, hidden behind a coronagraph that blocks its bright glare.  Surrounding the star is a bright, dusty protoplanetary disk -- the raw material of planets.  Gaps and concentric rings mark where a newborn world is gathering gas and dust under its gravity, clearing the way as it orbits the star.  Although astronomers have imaged disk-embedded planets before, this is the first-ever observation of an exoplanet actively carving a gap within a disk -- the earliest direct glimpse of planetary sculpting in action.</h5>
+<h5 align="center">This well-composed telescopic field of view covers over a Full Moon on the sky toward the high-flying constellation Pegasus. Of course the brighter stars show diffraction spikes, the commonly seen effect of internal supports in reflecting telescopes, and lie well within our own Milky Way galaxy. The faint but pervasive clouds of interstellar dust ride above the galactic plane and dimly reflect the Milky Way's starlight. Known as galactic cirrus or integrated flux nebulae they are associated with the Milky Way's molecular clouds. In fact, the diffuse cloud cataloged as MBM 54, less than a thousand light-years distant, fills the scene. The galaxy seemingly tangled in the dusty cloud is the striking spiral galaxy NGC 7497. It's some 60 million light-years away, though. Seen almost edge-on near the center of the field, NGC 7497's own spiral arms and dust lanes echo the colors of stars and dust in our own Milky Way.</h5>
 
 ----
 
@@ -184,24 +220,24 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -209,29 +245,29 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
@@ -239,35 +275,35 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
