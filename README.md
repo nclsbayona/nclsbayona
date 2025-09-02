@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vah are learning ch'otcavurt lessons from yourself ch'ir csihn&quot;</strong>
-  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;ūndegon skoros ao sagon doing pirta,  sōpagon rȳ ziry,  arlinnon se gaomagon sȳrkta.&quot;</strong>
+  <i>-- &quot;See what you're doing wrong, laugh at it, change and do better.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Fruit Shake</h4>
+<h4 align="center">Old Pal</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup fruit </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 piece textural </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-Blend til smooth.
+Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.
 </p>
 
 ----
@@ -176,14 +168,14 @@ Blend til smooth.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Callisto: Dirty Battered Iceball - ©️ NASA @ 2025-09-01</h4>
+<h4 align="center">The Horsehead and Flame Nebulas - ©️ Daniel Stern @ 2025-09-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/Callisto_Voyager2Gill_960.jpg" alt="Callisto: Dirty Battered Iceball image" />
+<img src="https://apod.nasa.gov/apod/image/2509/OrionHorseHead_Stern_1080.jpg" alt="The Horsehead and Flame Nebulas image" />
 
 </p>
 
-<h5 align="center">Its surface is the most densely cratered in the Solar System -- but what's inside?  Jupiter's moon Callisto is a battered ball of dirty ice that is larger than the planet Mercury. It was visited by NASA's Galileo spacecraft in the 1990s and 2000s, but the recently reprocessed featured image is from a flyby of NASA's Voyager 2 in 1979.  The moon would appear darker if it weren't for the tapestry of light-colored fractured surface ice created by eons of impacts. The interior of Callisto is potentially even more interesting because therein might lie an internal layer of liquid water. This potential underground sea is a candidate to harbor life -- similar with sister moons Europa and Ganymede.  Callisto is slightly larger than Luna, Earth's Moon, but because of its high ice content is slightly less massive. ESA's JUICE and NASA's Europa Clipper missions are now headed out to Jupiter to better investigate its largest moons.</h5>
+<h5 align="center">The Horsehead Nebula is one of the most famous nebulae on the sky.  It is visible as the dark indentation to the orange emission nebula at the far right of the featured picture.  The horse-head feature is dark because it is really an opaque dust cloud that lies in front of the bright emission nebula. Like clouds in Earth's atmosphere, this cosmic cloud has assumed a recognizable shape by chance.  After many thousands of years, the internal motions of the cloud will surely alter its appearance.  The emission nebula's orange color is caused by electrons recombining with protons to form hydrogen atoms.  Toward the lower left of the image is the Flame Nebula, an orange-tinged nebula that also contains intricate filaments of dark dust.</h5>
 
 ----
 
@@ -196,90 +188,90 @@ Blend til smooth.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
