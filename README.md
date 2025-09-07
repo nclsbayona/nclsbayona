@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The ornery cuss who wishes t' be obeyed must be knowin' how t' command.&quot;</strong>
-  <i>-- &quot;He who wishes to be obeyed must know how to command.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Ch'at carcen'co does nah cahito ch'at carcun'co&quot;</strong>
+  <i>-- &quot;The past does not equal the future&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Jelly Bean</h4>
+<h4 align="center">Arctic Mouthwash</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wqstwv1478963735.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maui</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz blue </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anis</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mountain Dew</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-mix equal parts in pony glass-tastes just like a jelly bean!
+Blend all ingredients in a blender on high until ice is finely crushed. It should be of a slushy consistency. Pour immediately and serve.
 </p>
 
 ----
@@ -164,14 +168,14 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Sardinia Sunset - ©️ When the sun sets on September 7 @ 2025-09-06</h4>
+<h4 align="center">All the Water on Planet Earth - ©️ NASA @ 2025-09-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto1060.jpg" alt="Sardinia Sunset image" />
+<img src="https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_960.jpg" alt="All the Water on Planet Earth image" />
 
 </p>
 
-<h5 align="center">When the sun sets on September 7, the Full Moon will rise. And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow. As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a reddish hue during the total eclipse phase. In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets around planet Earth. The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow. When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.</h5>
+<h5 align="center">How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.</h5>
 
 ----
 
@@ -184,35 +188,35 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -220,10 +224,10 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -231,43 +235,43 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
