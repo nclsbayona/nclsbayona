@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;This,  you got&quot;</strong>
-  <i>-- &quot;You got this&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Ish-veh’s ra du practice svi' awek ik du dungi nam-tor rewarded na' svi' tsuri&quot;</strong>
+  <i>-- &quot;It’s what you practice in private that you will be rewarded for in public&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Alfie Cocktail</h4>
+<h4 align="center">Mango Mojito</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ypxsqy1483387829.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Fresh</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprig</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">200 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,9 @@
 
 
 <p align="center">
-Combine and shake all ingredients with ice, strain into a cocktail glass, and serve.
+Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
+Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
+Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.
 </p>
 
 ----
@@ -168,14 +186,14 @@ Combine and shake all ingredients with ice, strain into a cocktail glass, and se
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Star Trails over One-Mile Radio Telescope - ©️ Joao Yordanov Serralheiro @ 2025-09-13</h4>
+<h4 align="center">Planets of the Solar System: Tilts and Spins - ©️ NASA @ 2025-09-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/StarTrailsOne-MileRadioTelescope1050.jpg" alt="Star Trails over One-Mile Radio Telescope image" />
+<img src="https://www.youtube.com/embed/my1euFQHH-o?rel=0" alt="Planets of the Solar System: Tilts and Spins image" />
 
 </p>
 
-<h5 align="center">The steerable 60 foot diameter dish antenna of the One-Mile Telescope at Mullard Radio Astronomy Observatory, Cambridge, UK, is pointing skyward in this evocative night-skyscape. To capture the dramatic scene, consecutive 30 second exposures were recorded over a period of 90 minutes. Combined, the exposures reveal a background of gracefully arcing star trails that reflect planet Earth's daily rotation on its axis. The North Celestial Pole, the extension of Earth's axis of rotation into space, points near Polaris, the North Star. That's the bright star that creates the short trail near the center of the concentric arcs. But the historic One-Mile Telescope array also relied on planet Earth's rotation to operate. Exploring the universe at radio wavelengths, it was the first radio telescope to use Earth-rotation aperture synthesis. That technique uses the rotation of the Earth to change the relative orientation of the telescope array and celestial radio sources to create radio maps of the sky at a resolution better than that of the human eye.</h5>
+<h5 align="center">How does your favorite planet spin? Does it spin rapidly around a nearly vertical axis, or horizontally, or backwards?  The featured video animates NASA images of all eight planets in our Solar System to show them spinning side-by-side for an easy comparison. In the time-lapse video, a day on Earth -- one Earth rotation -- takes just a few seconds.  Jupiter rotates the fastest, while Venus spins not only the slowest (can you see it?), but backwards.  The inner rocky planets across the top underwent dramatic spin-altering collisions during the early days of the Solar System.  Why planets spin and tilt as they do remains a topic of research with much insight gained from modern computer modeling and the recent discovery and analysis of hundreds of exoplanets: planets orbiting other stars.</h5>
 
 ----
 
@@ -188,76 +206,76 @@ Combine and shake all ingredients with ice, strain into a cocktail glass, and se
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
@@ -265,13 +283,13 @@ Combine and shake all ingredients with ice, strain into a cocktail glass, and se
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
