@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ba'tak nam-tor wuh illusion t' permanence.&quot;</strong>
-  <i>-- &quot;Tradition is the illusion of permanence. &quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;U make do difference noleeya doe world by simply existing noleeya it&quot;</strong>
+  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Blue Hurricane</h4>
+<h4 align="center">Amaretto Stone Sour Alternative</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and Sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 parts</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add splash </td>
         </tr>
     </tbody>
 </table>
@@ -80,12 +72,7 @@
 
 
 <p align="center">
-If each part is 1/2 oz then use about 2.5 cups of ice.
-
-Blend it all together. 
-Drink it with a big straw if you have one.
-
-
+Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.
 </p>
 
 ----
@@ -185,14 +172,14 @@ Drink it with a big straw if you have one.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Astronomy Picture of the Day - ©️ NASA @ 2025-09-23</h4>
+<h4 align="center">GW250114: Rotating Black Holes Collide - ©️ NASA @ 2025-09-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/Ngc6357_Webb_960.jpg" alt="Astronomy Picture of the Day image" />
+<img src="https://apod.nasa.gov/apod/image/2509/ArtGw250114_Simonnet_960.jpg" alt="GW250114: Rotating Black Holes Collide image" />
 
 </p>
 
-<h5 align="center">How massive can a normal star be?  Estimates made from distance, brightness and standard solar models had given one star in the open cluster Pismis 24 over  200 times the mass of our Sun, making it one of the most massive stars known.  This star is the brightest object located in the central cavity near the bottom center of the featured image taken with the Webb Space Telescope in infrared light.  For comparison, a rollover image from the Hubble Space Telescope  is also featured in visible light. Close inspection of the images,  however, has shown that Pismis 24-1 derives its brilliant luminosity not from a single star but from three at least.  Component stars would still remain near 100 solar masses, making them among the more massive stars currently on record.  Toward the bottom of the image, stars are still forming in the associated emission nebula NGC 6357. Appearing perhaps like</h5>
+<h5 align="center">It was the strongest gravitational wave signal yet measured -- what did it show?  GW250114 was detected by both arms of the Laser Interferometer Gravitational-wave Observatory (LIGO) in Washington and Louisiana USA earlier this year.  Analysis showed that the event was created when two black holes, each of mass around 33 times the mass of the Sun, coalesced into one larger black hole with a mass of around 63 solar masses.  Even though the event happened about a billion light years away, the signal was so strong that the spin of all black holes, as well as initial ringing of the final black hole, was deduced with exceptional accuracy. Furthermore, it was confirmed better than before, as previously predicted, that the total event horizon area of the combined black hole was greater than those of the merging black holes. Featured, an artist's illustration depicts an imaginative and conceptual view from near one of the black holes before collision.</h5>
 
 ----
 
@@ -205,79 +192,79 @@ Drink it with a big straw if you have one.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -285,10 +272,10 @@ Drink it with a big straw if you have one.
 <img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
