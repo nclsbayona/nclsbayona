@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Zhol’s kam tu laviti kash vienujen anas tu valia buti rewarded nuo kash public&quot;</strong>
-  <i>-- &quot;It’s what you practice in private that you will be rewarded for in public&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;A memory is a beautiful doch,  'oh's tlhos a neh 'e' tlhih miss.&quot;</strong>
+  <i>-- &quot;A memory is a beautiful thing, it's almost a desire that you miss.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bruce's Puce</h4>
+<h4 align="center">Blueberry Mojito</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/svsvqv1473344558.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,6 +47,34 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blueberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whole</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
     </tbody>
 </table>
 </td>
@@ -56,7 +84,7 @@
 
 
 <p align="center">
-In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , the Kahlua , then the Bailey's Irish cream in equal portions. It goes down really smooth ,and you don't even need a chaser. It tastes just like chocolate milk.(Really!)
+Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.
 </p>
 
 ----
@@ -156,14 +184,14 @@ In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , th
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Leopard Spots on Martian Rocks - ©️ NASA @ 2025-09-28</h4>
+<h4 align="center">Two Camera Comets in One Sky - ©️ Luc Perrot(TWAN) @ 2025-09-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_960.jpg" alt="Leopard Spots on Martian Rocks image" />
+<img src="https://apod.nasa.gov/apod/image/2509/TwoComets_Perrot_960.jpg" alt="Two Camera Comets in One Sky image" />
 
 </p>
 
-<h5 align="center">What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.</h5>
+<h5 align="center">It may look like these comets are racing, but they are not. Comets C/2025 K1 ATLAS (left) and C/2025 R2 SWAN (right) appeared near each other by chance last week in the featured image taken from France's Reunion Island in the southern Indian Ocean.  Fainter Comet ATLAS is approaching our Sun and will reach its closest approach in early October when it is also expected to be its brightest -- although still only likely visible with long exposures on a camera.  The brighter comet, nicknamed SWAN25B, is now headed away from our Sun, although its closest approach to Earth is expected in mid-October, when optimistic estimates have it becoming bright enough to see with the unaided eye.  Each comet has a greenish coma of expelled gas and an ion tail pointing away from the Sun.    Growing Gallery: Comet SWAN25B</h5>
 
 ----
 
@@ -176,76 +204,76 @@ In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , th
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
@@ -253,13 +281,13 @@ In a regular-sized shot glass, layer, with a spoon or cherry, the grenadine , th
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
