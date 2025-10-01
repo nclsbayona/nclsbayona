@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hen tubis till bantis,  īlon should dōrī rely va nykeā single mirre.&quot;</strong>
-  <i>-- &quot;From morning till night, we should never rely on a single thing.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Yousa're a smart cookie&quot;</strong>
+  <i>-- &quot;You're a smart cookie&quot; in gungan language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">After sex</h4>
+<h4 align="center">A Day at the Beach</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Banane</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar
+Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.
 </p>
 
 ----
@@ -164,14 +172,14 @@ Pour the vodka and creme over some ice cubes in a tall glass and fill up with ju
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet Lemmon Brightens - ©️ Victor Sabet &amp; Julien De Winter @ 2025-09-30</h4>
+<h4 align="center">NGC 6960: The Witch's Broom Nebula - ©️ Brian Meyers @ 2025-10-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2509/CometLemmon_DeWinter_960.jpg" alt="Comet Lemmon Brightens image" />
+<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="NGC 6960: The Witch's Broom Nebula image" />
 
 </p>
 
-<h5 align="center">Comet Lemmon is brightening and moving into morning northern skies. Besides Comet SWAN25B and Comet ATLAS, Comet C/2025 A6 (Lemmon) is now the third comet currently visible with binoculars and on long camera exposures.  Comet Lemmon was discovered early this year and is still headed into the inner Solar System. The comet will round the Sun on November 8, but first it will pass its nearest to the Earth -- at about half the Earth-Sun distance -- on October 21.  Although the brightnesses of comets are notoriously hard to predict, optimistic estimates have Comet Lemmon then becoming visible to the unaided eye. The comet should be best seen in predawn skies until mid-October, when it also becomes visible in evening skies.  The featured image showing the comet's split and rapidly changing ion tail was taken in Texas, USA late last week.    Growing Gallery: Comet Lemmon in 2025</h5>
+<h5 align="center">Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.</h5>
 
 ----
 
@@ -184,90 +192,90 @@ Pour the vodka and creme over some ice cubes in a tall glass and fill up with ju
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
