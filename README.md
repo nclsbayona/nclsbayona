@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yousa're a smart cookie&quot;</strong>
-  <i>-- &quot;You're a smart cookie&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Avvos spend yeri money hatif yeri hash earned anna.&quot;</strong>
+  <i>-- &quot;Never spend your money before you have earned it.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Day at the Beach</h4>
+<h4 align="center">Casa Blanca</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -172,10 +172,10 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 6960: The Witch's Broom Nebula - ©️ Brian Meyers @ 2025-10-01</h4>
+<h4 align="center">Astronomy Picture of the Day - ©️ Brian Meyers @ 2025-10-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="NGC 6960: The Witch's Broom Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="Astronomy Picture of the Day image" />
 
 </p>
 
@@ -192,90 +192,90 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
