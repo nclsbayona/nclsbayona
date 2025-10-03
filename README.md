@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Avvos spend yeri money hatif yeri hash earned anna.&quot;</strong>
-  <i>-- &quot;Never spend your money before you have earned it.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Success na- i progressive realization -o a worthui goal&quot;</strong>
+  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Casa Blanca</h4>
+<h4 align="center">Vodka And Tonic</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/usspxq1441553762.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +60,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.
 </p>
 
 ----
@@ -192,90 +180,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
