@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar mind is yaihi'l be brilliant ideas&quot;</strong>
-  <i>-- &quot;Your mind is full of brilliant ideas&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Success iksos se progressive realization hen nykeā worthy goal&quot;</strong>
+  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Acapulco</h4>
+<h4 align="center">57 Chevy with a White License Plate</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz white </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +64,7 @@
 
 
 <p align="center">
-Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.
+1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir
 </p>
 
 ----
@@ -200,43 +184,43 @@ Combine and shake all ingredients (except mint) with ice and strain into an old-
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
@@ -244,40 +228,40 @@ Combine and shake all ingredients (except mint) with ice and strain into an old-
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
