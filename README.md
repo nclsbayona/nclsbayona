@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;asa midoo tos sim sim to'd be bored&quot;</strong>
-  <i>-- &quot;If everything was easy you'd be bored&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Lu du nam-tor content tor nam-tor veling yourself heh ri tor tcok'at il kuhlau,  kanok-veh dungi respect du.&quot;</strong>
+  <i>-- &quot;When you are content to be simply yourself and don't compare or compete, everybody will respect you. &quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">White Russian</h4>
+<h4 align="center">Lemouroudji</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/eirmo71487603745.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 pieces </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 lb </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cayenne pepper</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">ground </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.
+Juice the lemons. Peel and grate the ginger. Place the grated ginger and a liberal dash of the cayenne pepper into a piece of cheesecloth, and tie it into a knot. Let soak in the water. After 15 minutes or so, add the sugar, and the lemon juice. Chill, and serve.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill wit
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
+<h4 align="center">Astronomy Picture of the Day - ©️ Brian Meyers @ 2025-10-01</h4>
 <p align="center">
 
-<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
+<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="Astronomy Picture of the Day image" />
 
 </p>
 
-<h5 align="center">Picture of a beautiful place on earth</h5>
+<h5 align="center">Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.</h5>
 
 ----
 
@@ -184,90 +196,90 @@ Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill wit
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
