@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;But one dream flowing into another,  life is.&quot;</strong>
-  <i>-- &quot;Life is but one dream flowing into another.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Dha seasons do not push una another; neither do clouds race dha huffmaker across dha ganya. All things happen in their own good time.&quot;</strong>
+  <i>-- &quot;The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brandy Cobbler</h4>
+<h4 align="center">B-53</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5xgu591582580586.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +68,7 @@
 
 
 <p align="center">
-In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.
+Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52
 </p>
 
 ----
@@ -180,14 +168,14 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Astronomy Picture of the Day - ©️ Brian Meyers @ 2025-10-01</h4>
+<h4 align="center">Florida Northern Lights - ©️ Samil Cabrera @ 2025-11-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_1080.jpg" alt="Astronomy Picture of the Day image" />
+<img src="https://apod.nasa.gov/apod/image/2511/DSC07080-Edit1024.jpeg" alt="Florida Northern Lights image" />
 
 </p>
 
-<h5 align="center">Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.</h5>
+<h5 align="center">Northern lights have come to Florida skies. In fact, the brilliant streak of a Northern Taurid meteor flashes through the starry night sky above the beach in this sea and skyscape, captured from Shired Island, Florida on November 11. Meteors from the annual Northern Taurid meteor shower are expected this time of year. But the digital camera exposure also records the shimmering glow of aurora, a phenomenon more often seen from our fair planet's higher geographical latitudes. Also known as aurora borealis, these northern lights are part of recent, wide spread auroral activity caused by strong geomagnetic storms. In the last few days, stormy spaceweather has been triggered by multiple Earth impacting coronal mass ejections and intense solar activity.</h5>
 
 ----
 
@@ -200,90 +188,90 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
