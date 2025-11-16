@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;This,  you got&quot;</strong>
-  <i>-- &quot;You got this&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Others achieve their dreams and you will achieve yours,  help.&quot;</strong>
+  <i>-- &quot;Help others achieve their dreams and you will achieve yours.&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zima Blaster</h4>
+<h4 align="center">Martinez Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Zima</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.
+Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Andromeda and Friends - ©️ Piotr Czerski @ 2025-11-15</h4>
+<h4 align="center">Crossing Saturn's Ring Plane - ©️ NASA @ 2025-11-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2511/M31AB_1024.jpg" alt="Andromeda and Friends image" />
+<img src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" alt="Crossing Saturn's Ring Plane image" />
 
 </p>
 
-<h5 align="center">This magnificent extragalactic skyscape looks toward the Andromeda Galaxy, the closest large spiral galaxy to the Milky Way. It also accomplishes a Messier catalog trifecta by including Andromeda, cataloged as Messier 31 (M31), along with Messier 32 (M32), and Messier 110 (M110) in the same telescopic field of view.  In this frame, M32 is just left of the Andromeda Galaxy's bright core with M110 below and to the right. M32 and M110 are both elliptical galaxies themselves and satellites of the larger spiral Andromeda. By combining 60 hours of broadband and narrowband image data, the deep telescopic view also reveals tantalizing details of dust lanes, young star clusters, and star-forming regions along Andromeda's spiral arms, and faint, foreground clouds of glowing hydrogen gas. For now, Andromeda and friends are some 2.5 million light-years from our own large spiral Milky Way.</h5>
+<h5 align="center">If this is Saturn, where are the rings?  When Saturn's &quot;appendages&quot; disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.</h5>
 
 ----
 
@@ -184,35 +196,35 @@ Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -220,54 +232,54 @@ Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.
 <img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
