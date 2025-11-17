@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Others achieve their dreams and you will achieve yours,  help.&quot;</strong>
-  <i>-- &quot;Help others achieve their dreams and you will achieve yours.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Small progress be still progress&quot;</strong>
+  <i>-- &quot;Small progress is still progress&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Martinez Cocktail</h4>
+<h4 align="center">Poppy Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wwxwvr1439906452.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/cslw1w1504389915.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -49,23 +49,11 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz white </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +64,7 @@
 
 
 <p align="center">
-Stir all ingredients (except cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.
+Shake ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -176,14 +164,14 @@ Stir all ingredients (except cherry) with ice and strain into a cocktail glass. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Crossing Saturn's Ring Plane - ©️ NASA @ 2025-11-16</h4>
+<h4 align="center">Comet Lemmon's Wandering Tail - ©️ NASA @ 2025-11-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg" alt="Crossing Saturn's Ring Plane image" />
+<img src="https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_960.jpg" alt="Comet Lemmon's Wandering Tail image" />
 
 </p>
 
-<h5 align="center">If this is Saturn, where are the rings?  When Saturn's &quot;appendages&quot; disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.</h5>
+<h5 align="center">What has happened to Comet Lemmon's tail? The answer is blowing in the wind — the wind from the Sun in this case. This continuous outflow of charged particles from the Sun has been quite variable of late, as the Sun emits bursts of energy, CMEs, that push out and deflect charged particles emitted by the comet itself. The result is a blue hued ion tail for Comet C/2025 A6 (Lemmon) that is not only impressively intricate but takes some unusual turns. This long-duration composite image taken from Alfacar, Spain last month captured this inner Solar System ionic tumult. Comet Lemmon is now fading as it heads out away from the Earth and Sun and back into the outer Solar System.</h5>
 
 ----
 
@@ -196,76 +184,76 @@ Stir all ingredients (except cherry) with ice and strain into a cocktail glass. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
@@ -273,10 +261,10 @@ Stir all ingredients (except cherry) with ice and strain into a cocktail glass. 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
