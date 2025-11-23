@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Saying naas sometimes says te most.&quot;</strong>
-  <i>-- &quot;Saying nothing sometimes says the most.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Cuil na- i maenas -o drawing sufficient conclusions o insufficient premises.&quot;</strong>
+  <i>-- &quot;Life is the art of drawing sufficient conclusions from insufficient premises.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Alice in Wonderland</h4>
+<h4 align="center">A1</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/g12lj41493069391.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 3/4 shot </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 Shot</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 Shot</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Just mix the three ingredients one to one to one
+Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Just mix the three ingredients one to one to one
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Dione and Rhea Ring Transit - ©️ Christopher Go @ 2025-11-22</h4>
+<h4 align="center">The Observable Universe - ©️ NASA @ 2025-11-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.jpg" alt="Dione and Rhea Ring Transit image" />
+<img src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg" alt="The Observable Universe image" />
 
 </p>
 
-<h5 align="center">Seen to the left of Saturn's banded planetary disk, small icy moons Dione and Rhea are caught passing in front of the gas giant's extensive ring system in this sharp telescopic snapshot. The remarkable image was recorded on November 20, when Saturn's rings were nearly edge-on when viewed from planet Earth. In fact, every 13 to 16 years the view from planet Earth aligns with Saturn's ring plane to produce a series of ring plane crossings. During a ring plane crossing, the interplanetary edge-on perspective makes the thin but otherwise bright rings seem to disappear. By November 23rd Saturn's rings will have reached a minimum angle for now, at their narrowest for viewing from planet Earth, but then start to widen again. Of course, Dione and Rhea orbit Saturn near the ring plane once every 2.7 and 4.5 days respectively, while the next series of Saturn ring plane crossings as seen from Earth will begin again in 2038.</h5>
+<h5 align="center">How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as &quot;the universe&quot; where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Explore the Observable Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,68 +192,68 @@ Just mix the three ingredients one to one to one
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -257,21 +261,21 @@ Just mix the three ingredients one to one to one
 <img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
