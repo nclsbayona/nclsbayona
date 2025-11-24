@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Cuil na- i maenas -o drawing sufficient conclusions o insufficient premises.&quot;</strong>
-  <i>-- &quot;Life is the art of drawing sufficient conclusions from insufficient premises.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;ye be learnin' valuable lessons from yourself every day&quot;</strong>
+  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A1</h4>
+<h4 align="center">Havana Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 3/4 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 Shot</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 Shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Pour all ingredients into a cocktail shaker, mix and serve over ice into a chilled glass.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Pour all ingredients into a cocktail shaker, mix and serve over ice into a chill
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Observable Universe - ©️ NASA @ 2025-11-23</h4>
+<h4 align="center">Apep: Unusual Dust Shells from Webb - ©️ NASA @ 2025-11-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2511/ObsUni_WikipediaPablo_960.jpg" alt="The Observable Universe image" />
+<img src="https://apod.nasa.gov/apod/image/2511/ApepStars_webb_960.jpg" alt="Apep: Unusual Dust Shells from Webb image" />
 
 </p>
 
-<h5 align="center">How far can you see? Everything you can see, and everything you could possibly see, right now, assuming your eyes could detect all types of radiations around you -- is the observable universe.  In light, the farthest we can see comes from the cosmic microwave background, a time 13.8 billion years ago when the universe was opaque like thick fog. Some neutrinos and gravitational waves that surround us come from even farther out, but humanity does not yet have the technology to detect them. The featured image illustrates the observable universe on an increasingly compact scale, with the Earth and Sun at the center surrounded by our Solar System, nearby stars, nearby galaxies, distant galaxies, filaments of early matter, and the cosmic microwave background. Cosmologists typically assume that our observable universe is just the nearby part of a greater entity known as &quot;the universe&quot; where the same physics applies.  However, there are several lines of popular but speculative reasoning that assert that even our universe is part of a greater multiverse where either different physical constants occur, different physical laws apply, higher dimensions operate, or slightly different-by-chance versions of our standard universe exist.   Explore the Observable Universe: Random APOD Generator</h5>
+<h5 align="center">What created this unusual space sculpture? Stars. This unusual system of swirls and shells, known as Apep, was observed in unprecedented detail by NASA’s James Webb Space Telescope in infrared light in 2024. Observations indicate that the unusual shape originates from two massive Wolf-Rayet stars orbiting each other every 190 years with each close passes causing a new shell of dust and gas to be expelled. Holes in these shells are thought to be caused by a third orbiting star. This stellar dust dance will likely continue for hundreds of thousands of years, possibly ending only when one of the massive stars runs out of internal nuclear fuel and explodes in a supernova punctuated by a burst of gamma-rays.   Build your own star system: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -192,68 +188,68 @@ Pour all ingredients into a cocktail shaker, mix and serve over ice into a chill
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -261,21 +257,21 @@ Pour all ingredients into a cocktail shaker, mix and serve over ice into a chill
 <img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
