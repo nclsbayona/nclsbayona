@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;When asked,  how do yousa write? Mesa invariably answer,  una word at a time.&quot;</strong>
-  <i>-- &quot;When asked, how do you write? I invariably answer, one word at a time.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Repetition ovas nenx transform zo tash je'as zo saarai.&quot;</strong>
+  <i>-- &quot;Repetition does not transform a lie into a truth.&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">747 Drink</h4>
+<h4 align="center">Herbal flame</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/i9suxb1582474926.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Damn</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Roses sweetened lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">very sweet </td>
         </tr>
     </tbody>
 </table>
@@ -84,10 +64,7 @@
 
 
 <p align="center">
-Fill a Collins glass with ice.
-Pour in vodka, lime cordial, and cranberry juice.
-Fill up with Sprite.
-Garnish with a Lime wheel or some cranberries
+Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.
 </p>
 
 ----
@@ -187,14 +164,14 @@ Garnish with a Lime wheel or some cranberries
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Portrait of NGC 1055 - ©️ John Hayes @ 2025-11-27</h4>
+<h4 align="center">NGC 6888: The Crescent Nebula - ©️ Greg Bass @ 2025-11-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2511/NGC1055JohnHayes1024.jpg" alt="Portrait of NGC 1055 image" />
+<img src="https://apod.nasa.gov/apod/image/2511/NGC6888_40_300s_F2_1024.jpg" alt="NGC 6888: The Crescent Nebula image" />
 
 </p>
 
-<h5 align="center">Big, beautiful spiral galaxy NGC 1055 is a dominant member of a small galaxy group a mere 60 million light-years away toward the aquatically intimidating constellation Cetus. Seen edge-on, the island universe spans over 100,000 light-years, a little larger than our own Milky Way galaxy. The colorful, spiky stars decorating this cosmic portrait of NGC 1055 are in the foreground, well within the Milky Way. But telltale pinkish star forming regions and young blue star clusters are scattered through winding dust lanes along the distant galaxy's thin disk. With a smattering of even more distant background galaxies, the deep image also reveals a boxy halo that extends far above and below the central bulge and disk of NGC 1055. The halo itself is laced with faint, narrow structures, and could represent the mixed and spread out debris from a satellite galaxy disrupted by the larger spiral some 10 billion years ago.</h5>
+<h5 align="center">NGC 6888, also known as the Crescent Nebula, is a about 25 light-years across, a cosmic bubble blown by winds from its central, massive star. This deep telescopic image includes narrowband image data, to isolate light from hydrogen and oxygen atoms. The oxygen atoms produce the blue-green hue that seems to enshroud the nebula's detailed folds and filaments. Visible within the nebula, NGC 6888's central star is classified as a Wolf-Rayet star (WR 136). The star is shedding its outer envelope in a strong stellar wind, ejecting the equivalent of the Sun's mass every 10,000 years.  In fact, the Crescent Nebula's complex structures are likely the result of this strong wind interacting with material ejected in an earlier phase. Burning fuel at a prodigious rate and near the end of its stellar life, this star should ultimately go out with a bang in a spectacular supernova explosion. Found in the nebula rich constellation Cygnus, NGC 6888 is about 5,000 light-years away.</h5>
 
 ----
 
@@ -207,65 +184,65 @@ Garnish with a Lime wheel or some cranberries
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
@@ -273,24 +250,24 @@ Garnish with a Lime wheel or some cranberries
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
