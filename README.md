@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Never fear quarrels,  but seek azalus adventures.&quot;</strong>
-  <i>-- &quot;Never fear quarrels, but seek hazardous adventures.&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Simplicity kash zo difficult thing kia achieve.&quot;</strong>
+  <i>-- &quot;Simplicity is a difficult thing to achieve.  &quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Red Snapper</h4>
+<h4 align="center">Brandy Flip</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-One shot each, shake n shoot
+In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.
 </p>
 
 ----
@@ -168,14 +176,14 @@ One shot each, shake n shoot
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">3I ATLAS: Tails of an Interstellar Comet - ©️ Victor Sabet &amp; Julien De Winter @ 2025-12-01</h4>
+<h4 align="center">M77: Spiral Galaxy with an Active Center - ©️ NASA @ 2025-12-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/Comet3I_SabetWinter_960.jpg" alt="3I ATLAS: Tails of an Interstellar Comet image" />
+<img src="https://apod.nasa.gov/apod/image/2512/M77_Hubble_960.jpg" alt="M77: Spiral Galaxy with an Active Center image" />
 
 </p>
 
-<h5 align="center">How typical is our Solar System?  Studying 3I/ATLAS, a comet just passing through, is providing clues.  Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, and a gas wind dominated by hydrogen and helium. Comet 3I/ATLAS appears relatively normal when compared to Solar System comets, therefore providing more evidence that our Solar System is a somewhat typical star system.  For example, Comet 3I/ATLAS has a broadly similar chemical composition and ejected dust. The featured image was captured last week from Texas and shows a green coma, a wandering blue-tinted ion tail likely deflected by our Sun's wind, and a slight anti-tail, all typical cometary attributes.  The comet, visible with a telescope, passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December, after which it will return to interstellar space and never return.    Explore the Universe: Random APOD Generator</h5>
+<h5 align="center">What's happening in the center of nearby spiral galaxy M77? The face-on galaxy lies a mere 47 million light-years away toward the constellation of the Sea Monster (Cetus).  At that estimated distance, this gorgeous island universe is about 100 thousand light-years across.  Also known as NGC 1068, its compact and very bright core is well studied by astronomers exploring the mysteries of supermassive black holes in active Seyfert galaxies.  M77's active core glows bright at x-ray, ultraviolet, visible, infrared, and radio wavelengths.  The featured sharp image of M77 was taken by the Hubble Space Telescope. The image shows details of the spiral's winding spiral arms as traced by obscuring red dust clouds and blue star clusters, all circling the galaxy's bright white luminous center.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm</h5>
 
 ----
 
@@ -188,87 +196,87 @@ One shot each, shake n shoot
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
