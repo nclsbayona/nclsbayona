@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;10x engineers issi nykeā myth&quot;</strong>
-  <i>-- &quot;10x engineers are a myth&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Lafosh ri tor tor du lehkuh capable&quot;</strong>
+  <i>-- &quot;Mistakes don't make you less capable&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Egg-Nog - Classic Cooked</h4>
+<h4 align="center">Grasshopper</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Optional alcohol - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz white </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 qt </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.
+Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.
 </p>
 
 ----
@@ -176,14 +168,14 @@ In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cup
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">W5: The Soul Nebula - ©️ Jeffrey Horne @ 2025-12-17</h4>
+<h4 align="center">Jupiter and the Meteors from Gemini - ©️ David Cruz @ 2025-12-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/Soul_Horne_1080.jpg" alt="W5: The Soul Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg" alt="Jupiter and the Meteors from Gemini image" />
 
 </p>
 
-<h5 align="center">Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image, taken from near Nashville, Tennessee, USA, is a composite of 234 hours of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.   Explore the Universe: Random APOD Generator</h5>
+<h5 align="center">Jupiter, the Solar System's ruling gas giant, is the brightest celestial beacon at the center of this composite night skyscape. The scene was constructed by selecting the 40 exposures containing meteors from about 500 exposures made on the nights of December 13 and 14, near peak activity for this year's annual Geminid meteor shower. With each selected exposure registered in the night sky above Alentejo, Portugal, planet Earth, it does look like the meteors are streaming away from Jupiter. But the apparent radiant of the Geminid meteors is actually closer to bright star Castor, in the shower's eponymous constellation Gemini. In this frame that's just a little above and left of the Solar System's most massive planet. Still, the parent body of Geminid meteors is known to be rocky, near-Earth asteroid 3200 Phaethon. And the orbit of Phaethon itself is influenced by the gravitational attraction exerted by massive Jupiter, in concert with planets of the inner Solar System.</h5>
 
 ----
 
@@ -196,73 +188,73 @@ In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cup
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
@@ -273,13 +265,13 @@ In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cup
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
