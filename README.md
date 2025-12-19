@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Lafosh ri tor tor du lehkuh capable&quot;</strong>
-  <i>-- &quot;Mistakes don't make you less capable&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Deliberately seek th' company o' people who influence ye t' think and act on buildin' th' life ye desire.&quot;</strong>
+  <i>-- &quot;Deliberately seek the company of people who influence you to think and act on building the life you desire.&quot; in pirate language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Grasshopper</h4>
+<h4 align="center">410 Gone</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz white </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +60,7 @@
 
 
 <p align="center">
-Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.
+Mix together and enjoy!
 </p>
 
 ----
@@ -168,14 +160,14 @@ Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Jupiter and the Meteors from Gemini - ©️ David Cruz @ 2025-12-18</h4>
+<h4 align="center">Long Shadows of the Montes Caucasus - ©️ When the Moon @ 2025-12-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/GeminidsJupiterCruz1024.jpg" alt="Jupiter and the Meteors from Gemini image" />
+<img src="https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png" alt="Long Shadows of the Montes Caucasus image" />
 
 </p>
 
-<h5 align="center">Jupiter, the Solar System's ruling gas giant, is the brightest celestial beacon at the center of this composite night skyscape. The scene was constructed by selecting the 40 exposures containing meteors from about 500 exposures made on the nights of December 13 and 14, near peak activity for this year's annual Geminid meteor shower. With each selected exposure registered in the night sky above Alentejo, Portugal, planet Earth, it does look like the meteors are streaming away from Jupiter. But the apparent radiant of the Geminid meteors is actually closer to bright star Castor, in the shower's eponymous constellation Gemini. In this frame that's just a little above and left of the Solar System's most massive planet. Still, the parent body of Geminid meteors is known to be rocky, near-Earth asteroid 3200 Phaethon. And the orbit of Phaethon itself is influenced by the gravitational attraction exerted by massive Jupiter, in concert with planets of the inner Solar System.</h5>
+<h5 align="center">When the Moon is at its first quarter phase, the Sun rises along the Montes Caucasus as seen from the lunar surface. The lunar mountain range casts the magnificent, spire-like shadows in this telescopic view from planet Earth, looking along the lunar terminator or the boundary between lunar night and day. Named for Earth's own Caucasus Mountains, the rugged lunar Montes Caucasus peaks, up to 6 kilometers high, are located between the smooth Mare Imbrium to the west and Mare Serenitatis to the east. Still mostly in shadow in this first quarter lunarscape, at the left (west) impact craters reflect the light of the rising Sun along their outer, eastern crater walls.</h5>
 
 ----
 
@@ -188,90 +180,90 @@ Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
