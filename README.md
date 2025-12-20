@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Deliberately seek th' company o' people who influence ye t' think and act on buildin' th' life ye desire.&quot;</strong>
-  <i>-- &quot;Deliberately seek the company of people who influence you to think and act on building the life you desire.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Aōha imagination iksos aōha preview hen glaeson's māzis attractions.&quot;</strong>
+  <i>-- &quot;Your imagination is your preview of life's coming attractions.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">410 Gone</h4>
+<h4 align="center">Japanese Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,8 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +76,7 @@
 
 
 <p align="center">
-Mix together and enjoy!
+Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
 </p>
 
 ----
@@ -160,14 +176,14 @@ Mix together and enjoy!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Long Shadows of the Montes Caucasus - ©️ When the Moon @ 2025-12-19</h4>
+<h4 align="center">A Solstice Sun Tattoo - ©️ Marcella Pace @ 2025-12-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/MontesCaucasusCopie1024.png" alt="Long Shadows of the Montes Caucasus image" />
+<img src="https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217_1024.jpeg" alt="A Solstice Sun Tattoo image" />
 
 </p>
 
-<h5 align="center">When the Moon is at its first quarter phase, the Sun rises along the Montes Caucasus as seen from the lunar surface. The lunar mountain range casts the magnificent, spire-like shadows in this telescopic view from planet Earth, looking along the lunar terminator or the boundary between lunar night and day. Named for Earth's own Caucasus Mountains, the rugged lunar Montes Caucasus peaks, up to 6 kilometers high, are located between the smooth Mare Imbrium to the west and Mare Serenitatis to the east. Still mostly in shadow in this first quarter lunarscape, at the left (west) impact craters reflect the light of the rising Sun along their outer, eastern crater walls.</h5>
+<h5 align="center">The word solstice is from the Latin for Sun and to pause or stand still. And in the days surrounding a solstice the Sun's annual north-south drift in planet Earth's sky does slow down, pause, and then reverse direction. So near the solstice the daily path of the Sun through the sky really doesn't change much. In fact, near the December solstice, the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy. The morning frost on the road has melted away only where the sunlight was able to reach the ground. But it remains in the areas persistently shadowed by the fence, tattooing in frost an image of the fence on the asphalt surface.</h5>
 
 ----
 
@@ -180,54 +196,54 @@ Mix together and enjoy!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
@@ -235,35 +251,35 @@ Mix together and enjoy!
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
