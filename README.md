@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Common sense is not vaj common.&quot;</strong>
-  <i>-- &quot;Common sense is not so common. &quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;ka am thankful da tadda be yob bap no.  pik's feguin mud vus, ka deep pik gaenu.   &quot;</strong>
+  <i>-- &quot;I am thankful to all those who said no. It's because of them, I did it myself.  &quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Martini</h4>
+<h4 align="center">Sweet Sangria</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uqqvsp1468924228.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 2/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 bottles </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups hot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> wedges<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> wedges<br></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +80,7 @@
 
 
 <p align="center">
-Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.
+Dissolve the sugar in hot water and cool. Peel the citrus fruits and break into wedges. Mix the wine, sugar syrup, fruit, and Fresca in a pitcher and put in the fridge for a few hours. Serve in tall glasses with a straw.
 </p>
 
 ----
@@ -168,14 +180,14 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Red Sprites and Circular Elves Lightning over Italy - ©️ Valter Binotto @ 2025-12-23</h4>
+<h4 align="center">Mystery: Little Red Dots in the Early Universe - ©️ NASA @ 2025-12-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/SpriteElf_binotto_1080.jpg" alt="Red Sprites and Circular Elves Lightning over Italy image" />
+<img src="https://apod.nasa.gov/apod/image/2512/Lrd_Webb_1080.jpg" alt="Mystery: Little Red Dots in the Early Universe image" />
 
 </p>
 
-<h5 align="center">What's happening in the sky? Lightning.  The most commonly seen type of lightning involves flashes of bright white light between clouds.  Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including tentacled red sprites and ringed ELVES.  Although both last only a small fraction of a second, sprites are brighter and easier to photograph than their more common electrical-discharge cousins.  ELVES are rapidly expanding rings that are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  Capturing either form of lightning takes patience and experience -- capturing them both together, since they usually occur separately, is rare.  The featured image is a frame from a video recorded from Possagno, Italy late last month above a distant thunderstorm over the Adriatic Sea.</h5>
+<h5 align="center">What are these little red dots (LRDs)? Nobody knows. Discovered only last year, hundreds of LRDs have now been found by the James Webb Space Telescope in the early universe. Although extremely faint, LRDs are now frequently identified in deep observations made for other purposes. A wide-ranging debate is raging about what LRDs may be and what importance they may have.  Possible origin hypotheses include accreting supermassive black holes inside clouds of gas and dust, bursts of star formation in young dust-reddened galaxies, and dark matter powered gas clouds.  The highlighted images show six nearly featureless LRDs listed under the JWST program that found them, and z, a distance indicator called cosmological redshift.  Additionally, searches are underway in our nearby universe to try to find whatever previous LRDs might have become today.</h5>
 
 ----
 
@@ -188,21 +200,21 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
@@ -210,57 +222,57 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +280,10 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
