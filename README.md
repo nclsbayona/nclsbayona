@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;th' time be always right t' do what be right.&quot;</strong>
-  <i>-- &quot;The time is always right to do what is right.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Struggling sa part of learning&quot;</strong>
+  <i>-- &quot;Struggling is part of learning&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Paradise</h4>
+<h4 align="center">Blue Hurricane</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ejozd71504351060.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 parts</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and Sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +80,12 @@
 
 
 <p align="center">
-Shake together over ice. Strain into cocktail glass and serve chilled.
+If each part is 1/2 oz then use about 2.5 cups of ice.
+
+Blend it all together. 
+Drink it with a big straw if you have one.
+
+
 </p>
 
 ----
@@ -168,14 +185,14 @@ Shake together over ice. Strain into cocktail glass and serve chilled.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Apollo 17's Moonship - ©️ NASA @ 2025-12-27</h4>
+<h4 align="center">NGC 1898: Globular Cluster in the Large Magellanic Cloud - ©️ NASA @ 2025-12-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/AS17-149-22859-2v2SmlWmk1024.jpg" alt="Apollo 17's Moonship image" />
+<img src="https://apod.nasa.gov/apod/image/2512/NGC1898_Hubble_960.jpg" alt="NGC 1898: Globular Cluster in the Large Magellanic Cloud image" />
 
 </p>
 
-<h5 align="center">Awkward and angular looking, Apollo 17's lunar module Challenger was designed for flight in the near vacuum of space.  Digitally enhanced and reprocessed, this picture taken from Apollo 17's command module America shows Challenger's ascent stage in lunar orbit. Small reaction control thrusters are at the sides of the moonship with the bell of the ascent rocket engine underneath. The hatch that allowed access to the lunar surface is seen at the front, with a round radar antenna at the top. Mission commander Gene Cernan is clearly visible through the triangular window. This spaceship performed gracefully, landing on the Moon and returning the Apollo astronauts to the orbiting command module in December of 1972. So where is Challenger now?  While its descent stage remains at the Apollo 17 landing site in the Taurus-Littrow valley, the ascent stage pictured was intentionally crashed nearby after being jettisoned from the command module prior to the astronauts' return to planet Earth.</h5>
+<h5 align="center">Jewels don't shine this bright -- only stars do. And almost every spot in this jewel-box of an image from the Hubble Space Telescope is a star. Now, some stars are more red than our Sun, and some more blue -- but all of them are much farther away.  Although it takes light about 8 minutes to reach Earth from the Sun, NGC 1898 is so far away that it takes light about 160,000 years to get here. This huge ball of stars, NGC 1898, is called a globular cluster and resides in the central bar of the Large Magellanic Cloud (LMC) -- a satellite galaxy of our Milky Way Galaxy. The featured multi-colored image includes light from the infrared to the ultraviolet and was taken to help determine if the stars of NGC 1898 all formed at the same time or at different times. There are increasing indications that most globular clusters formed stars in stages, and that, in particular, stars from NGC 1898 formed shortly after ancient encounters with the Small Magellanic Cloud (SMC) and our Milky Way Galaxy.   Space Telescopes Live: Where are Hubble and Webb looking right now?</h5>
 
 ----
 
@@ -188,76 +205,76 @@ Shake together over ice. Strain into cocktail glass and serve chilled.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
@@ -265,13 +282,13 @@ Shake together over ice. Strain into cocktail glass and serve chilled.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
