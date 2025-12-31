@@ -31,6 +31,7 @@ jobs:
             webpage-url: 'https://nclsbayona.github.io'
             webpage-qr: 'QR.png'
             contributions-url: 'https://raw.githubusercontent.com/nclsbayona/nclsbayona/output/github-contribution-grid-snake-sissa.svg'
+            feed_url: "https://nclsbayona.github.io/index.xml"
         - name: Commit files
           run: |
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
