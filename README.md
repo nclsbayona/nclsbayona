@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Kisha eth live atthirar ma a sense ki urgency sekke vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) a minute is wasted.&quot;</strong>
-  <i>-- &quot;We have to live life with a sense of urgency so not a minute is wasted.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Cin know more than cin knew yesterdaui&quot;</strong>
+  <i>-- &quot;You know more than you knew yesterday&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">The Evil Blue Thing</h4>
+<h4 align="center">Empellón Cocina's Fat-Washed Mezcal</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/osgvxt1513595509.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mezcal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,30 @@
 
 
 <p align="center">
-Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more &quot;fun&quot;.
+To ensure that your pork fat is just as delicious as theirs, here’s their adobo marinade and what to do with it (you’ll also need a rack of ribs):
+
+4 ancho chiles, 8 guajillo chiles and 4 chipotle chiles, plus 4 cloves roasted garlic, half a cup of cider vinegar, a quarter teaspoon of Mexican oregano, 1 teaspoon of ground black pepper, a whole clove, a quarter teaspoon of ground cinnamon and a half teaspoon of ground cumin.
+
+Toast the dried chiles and soak in water for at least an hour until they are rehydrated. Drain and discard the soaking liquid. Combine the soaked chiles with the remaining ingredients and purée until smooth.
+
+Cold smoke a rack of baby back pork ribs by taking a large hotel pan with woodchips on one side and charcoal on the other. Place another, smaller, pan with pork ribs, above the charcoal/woodchip pan. Ignite the charcoal, being careful to not ignite the woodchips. Cover both pans with foil and allow to smoke for 10-15 minutes, until desired level of smoke is achieved, then coat with adobo marinade and wrap in tin foil prior to placing ribs in a 300 degree oven for 7 hours. When the ribs have cooled, strain off the fat and use for the infusion.
+
+If you’re having a hard time coming up to the same kind of volume of fat, make up the balance with pork lard from a butcher. To get the same depth of flavor without the ribs, heat up the fat in a pot with a few spoons of the marinade.
+
+Once you’ve got your tub of seasoned pork fat in cooled liquid form, pour equal amounts of Ilegal Joven mezcal and fat into a sealable container. Seal the container and give it a really good shake, then put it in the freezer overnight. When the whole thing is separated and congealed, pour it through a fine mesh chinoise. If you don’t have a chinoise, try a fine mesh strainer, or if you don’t have one of those, try spooning off most of the fat. There will be some beads of orange fat left in the strained mezcal: run that through a few layers of cheesecloth (or coffee filters in a pinch) to get rid of the last of it.
+
+The mezcal is now ready for drinking, straight-up or in a cocktail. 
+
+Habanero tincture
+
+Slice habaneros and add 2 ounces Ilegal Joven mezcal.
+Allow to sit overnight or until desired level of heat is achieved.
+Cocktail
+
+Combine mezcal and chocolate liqueur in a mixing glass with ice and stir for 45 seconds.
+Strain into chilled coupe.
+Carefully &quot;sink&quot; the coffee liqueur down the inside of the coupe over a spoon.
+Garnish with 5 drops habanero tincture.
 </p>
 
 ----
@@ -168,14 +191,14 @@ Pour ingredients into glass, and drop in a blue whale! The blue whale isn't real
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">HH-222: The Waterfall Nebula - ©️ Mike Selby @ 2025-12-31</h4>
+<h4 align="center">Auroral Corona - ©️ Roi Levi @ 2026-01-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2512/WaterfallNeb_Selby_960.jpg" alt="HH-222: The Waterfall Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi1024.jpg" alt="Auroral Corona image" />
 
 </p>
 
-<h5 align="center">What created the Waterfall Nebula?  The origin is still being researched.  The structure, officially designated Herbig-Haro 222, appears in the region of NGC 1999 in the Great Orion Molecular Cloud complex. The elongated gaseous stream stretches about ten light years but appears similar to a long waterfall on Earth.  Recent observations indicate that HH-222 is likely a gigantic gaseous bow shock, similar to a wave of water caused by a fast-moving ship. The origin of this shock wave is thought to be a jet outflow from the multiple star system V380 Orionis off the lower left of the frame.  Therefore, gas does not flow along the waterfall, but rather the entire structure moves toward the upper right.  The Waterfall Nebula lies about 1,500 light years away toward the constellation of Orion.  The featured image was captured earlier this month from El Sauce Observatory in Chile.   Jigsaw Nebula: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Cycle 25 solar maximum made 2025 a great year for aurora borealis (or aurora australis) on planet Earth. And the high level of solar activity should extend into 2026. So, while you're celebrating the arrival of the new year, check out this spectacular auroral display that erupted in starry night skies over Kirkjufell, Iceland. The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong geomagnetic storm triggered by intense solar activity near the March 2025 equinox. This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.</h5>
 
 ----
 
@@ -188,90 +211,90 @@ Pour ingredients into glass, and drop in a blue whale! The blue whale isn't real
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
