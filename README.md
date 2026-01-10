@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hah's OK ch'at csah your eggs can in'a vusni veah bisatahn'ho veah vah vun'csut vei happens ch'at csei vusni.&quot;</strong>
-  <i>-- &quot;It's OK to have your eggs in one basket as long as you control what happens to that basket.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Hoch has cracks - 'e''s chay' the wovmohwi' gets in&quot;</strong>
+  <i>-- &quot;Everything has cracks - that's how the light gets in&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Aztec Punch</h4>
+<h4 align="center">Snakebite and Black</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uqwuyp1454514591.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rssvwv1441248863.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 can </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">About 1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackcurrant squash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">A little bit of </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is available, the bigger the better! This drink packs a big punch, so don't over do it.
+Put blackcurrant squash in first up to about 1cm in glass. Then add the lager and cider one after another.
 </p>
 
 ----
@@ -192,54 +188,54 @@ Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is avail
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
@@ -247,35 +243,35 @@ Mix all ingredients in a pitcher. Mix thoroughly and pour into whatever is avail
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
