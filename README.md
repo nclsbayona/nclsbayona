@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Te opposite be mirshko o'r cuun society is not cowardice. Bic is conformity&quot;</strong>
-  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;When you're curious,Lots of interesting things to do,  you find.&quot;</strong>
+  <i>-- &quot;When you're curious, you find lots of interesting things to do.&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Piece of Ass</h4>
+<h4 align="center">3-Mile Long Island Iced Tea</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,40 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 wedge </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +92,7 @@
 
 
 <p align="center">
-Put ice in glass. Pour in shots. Fill with Sour Mix.
+Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.
 </p>
 
 ----
@@ -168,14 +192,14 @@ Put ice in glass. Pour in shots. Fill with Sour Mix.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">M51: The Whirlpool Galaxy - ©️ Michael Sleeman @ 2026-01-14</h4>
+<h4 align="center">Plato and the Lunar Alps - ©️ Luigi Morrone @ 2026-01-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2601/M51_Sleeman_960.jpg" alt="M51: The Whirlpool Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2601/2025-12-29-1656_Plato_Lmorr1024.jpg" alt="Plato and the Lunar Alps image" />
 
 </p>
 
-<h5 align="center">The Whirlpool Galaxy is a classic spiral galaxy. At only 30 million light years distant and fully 60 thousand light years across, M51, also known as NGC 5194, is one of the brightest and most picturesque galaxies on the sky.  The featured deep image is a digital combination of images taken in different colors over 58 hours with a telescope from Lijiang, China. Anyone with a good pair of binoculars, however, can see this Whirlpool toward the constellation of the Hunting Dogs (Canes Venatici). M51 is a spiral galaxy of type Sc and is the dominant member of a whole group of galaxies.  Astronomers speculate that M51's spiral structure is primarily due to its gravitational interaction with the smaller galaxy just above it.</h5>
+<h5 align="center">The dark-floored, 95 kilometer wide crater Plato and sunlit peaks of the lunar Alps (Montes Alpes) are highlighted in this this sharp telescopic snapshot of the Moon's surface. While the Alps of planet Earth were uplifted over millions of years as continental plates slowly collided, the lunar Alps were likely formed by a sudden collision that created the giant impact basin known as the Mare Imbrium or Sea of Rains. The mare's generally smooth, lava-flooded floor is seen below the bordering mountain range. The prominent straight feature cutting through the mountains is the lunar Alpine Valley (Vallis Alpes). Joining the Mare Imbrium and northern Mare Frigoris (Sea of Cold) the valley extends toward the upper right, about 160 kilometers long and up to 10 kilometers wide. Of course, the large, bright lunar alpine mountain below and right of Plato crater is named Mont Blanc. Lacking an atmosphere, not to mention snow, the lunar Alps are probably not an ideal location for a winter vacation. Still, a 150 pound skier would weigh a mere 25 pounds on the Moon.</h5>
 
 ----
 
@@ -188,90 +212,90 @@ Put ice in glass. Pour in shots. Fill with Sour Mix.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
