@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The past does not equal the future&quot;</strong>
-  <i>-- &quot;The past does not equal the future&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Our dab does not have besa based on our circumstances.&quot;</strong>
+  <i>-- &quot;Our joy does not have to be based on our circumstances.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apple Cider Punch</h4>
+<h4 align="center">Amaretto And Cream</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Optional alcohol - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,36 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 qt </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Allspice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp ground </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 sticks </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -88,7 +64,7 @@
 
 
 <p align="center">
-If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.
+Shake well with cracked ice, strain contents into a cocktail glass, and serve.
 </p>
 
 ----
@@ -188,14 +164,14 @@ If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mix
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Planetary Nebula Abell 7 - ©️ Martin Pugh @ 2026-01-23</h4>
+<h4 align="center">Earthset from Orion - ©️ NASA @ 2026-01-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2601/Abell7pugh1024.jpg" alt="Planetary Nebula Abell 7 image" />
+<img src="https://apod.nasa.gov/apod/image/2601/earthset-snap01.png" alt="Earthset from Orion image" />
 
 </p>
 
-<h5 align="center">Very faint planetary nebula Abell 7 is about 1,800 light-years distant. It lies just south of Orion in planet Earth's skies toward the constellation Lepus, The Hare. Posing with scattered Milky Way stars, its generally simple spherical shape about 8 light-years in diameter is revealed in this deep telescopic image. The beautiful and complex shapes seen within the cosmic cloud are visually enhanced by the use of long exposures and narrowband filters that capture emission from hydrogen and oxygen atoms. Otherwise Abell 7 would be much too faint to be appreciated by eye. A planetary nebula represents a very brief final phase in stellar evolution that our own Sun will experience 5 billion years hence, as the nebula's central, once sun-like star shrugs off its outer layers. Abell 7 itself is estimated to be 20,000 years old. But its central star, seen here as a fading white dwarf, is some 10 billion years old.</h5>
+<h5 align="center">ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on 2022 November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is due to launch as early as February 6.</h5>
 
 ----
 
@@ -208,43 +184,43 @@ If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mix
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
@@ -252,46 +228,46 @@ If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mix
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
