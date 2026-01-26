@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Visas artist dips jiso brush kash jiso savas vele,  ir paints jiso savas nature je'as jiso pictures.&quot;</strong>
-  <i>-- &quot;Every artist dips his brush in his own soul, and paints his own nature into his pictures.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;ta tegpul artid lib Whaaat, yikai? . to batooay dad, Yi kai yai yai, Yi kai yai yai! &quot;</strong>
+  <i>-- &quot;The future depends on what you do today. &quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Halloween Punch</h4>
+<h4 align="center">Army special</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7hcgyj1571687671.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red Chili Flakes</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice cordial</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">45 ml </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass crushed </td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +72,7 @@
 
 
 <p align="center">
-Tip the cherry juice, orange peel, chilli, cinnamon sticks, cloves and ginger into a large saucepan. Simmer for 5 mins, then turn off the heat. Leave to cool, then chill for at least 4 hrs, or up to 2 days – the longer you leave it the more intense the flavours. If serving to young children, take the chilli out after a few hours.
-
-When you’re ready to serve, pour the juice into a jug. Serve in glass bottles or glasses and pop a straw in each. If you're adding vodka, do so at this stage. Dangle a fangs sweet from each glass.
+Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.
 </p>
 
 ----
@@ -186,14 +172,14 @@ When you’re ready to serve, pour the juice into a jug. Serve in glass bottles 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Phobos: Doomed Moon of Mars - ©️ NASA @ 2026-01-25</h4>
+<h4 align="center">NGC 55: A Galaxy of Nebulas - ©️ Wolfgang Promper; Text: Ogetay Kayali (MTU)   @ 2026-01-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2601/Phobos_MRO_960.jpg" alt="Phobos: Doomed Moon of Mars image" />
+<img src="https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg" alt="NGC 55: A Galaxy of Nebulas image" />
 
 </p>
 
-<h5 align="center">This moon is doomed. Mars, the red planet named for the Roman god of war, has two tiny moons, Phobos and Deimos, whose names are derived from the Greek for Fear and Panic. These Martian moons may well be captured asteroids originating in the main asteroid belt between Mars and Jupiter or perhaps from even more distant reaches of our Solar System. The larger moon, Phobos, is indeed seen to be a cratered, asteroid-like object in this stunning color image from the robotic Mars Reconnaissance Orbiter, which can image objects as small as 10 meters. But Phobos orbits so close to Mars - about 5,800 kilometers above the surface compared to 400,000 kilometers for our Moon - that gravitational tidal forces are dragging it down. In perhaps 50 million years, Phobos is expected to disintegrate into a ring of debris.</h5>
+<h5 align="center">Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -206,90 +192,90 @@ When you’re ready to serve, pour the juice into a jug. Serve in glass bottles 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
