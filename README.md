@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;ta tegpul artid lib Whaaat, yikai? . to batooay dad, Yi kai yai yai, Yi kai yai yai! &quot;</strong>
-  <i>-- &quot;The future depends on what you do today. &quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Nor by attracting ch'at best vucum csarcican't vah ttan'ocah hsin'b deeds.&quot;</strong>
+  <i>-- &quot;Only by attracting the best people will you accomplish great deeds.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Army special</h4>
+<h4 align="center">Absolutely Fabulous</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg" alt="Drink image" />
 
 </p>
 
@@ -49,19 +49,15 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice cordial</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">45 ml </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass crushed </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with</td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.
+Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait f
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 55: A Galaxy of Nebulas - ©️ Wolfgang Promper; Text: Ogetay Kayali (MTU)   @ 2026-01-26</h4>
+<h4 align="center">Orion's Treasures over Snowy Mountains - ©️ Włodzimierz Bubak; Text: Ogetay Kayali (MTU)  @ 2026-01-27</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2601/Ngc55_Promper_1080.jpg" alt="NGC 55: A Galaxy of Nebulas image" />
+<img src="https://apod.nasa.gov/apod/image/2601/OrionTatras_Bubak_960.jpg" alt="Orion's Treasures over Snowy Mountains image" />
 
 </p>
 
-<h5 align="center">Can you see nebulas in other galaxies?  Yes, some nebulas shine brightly enough -- if you know how to look.  Clouds of hydrogen and oxygen emit light at very specific colors, and by isolating them, astronomers and astrophotographers can reveal structures that would otherwise be too faint to notice.  This deep, 50-hour exposure highlights glowing hydrogen (red) and oxygen (blue) across galaxy NGC 55, viewed nearly edge-on.  Also known as the String of Pearls Galaxy, NGC 55 is often compared to our Milky Way's satellite galaxy the Large Magellanic Cloud (LMC), although NGC 55 lies much farther away at about 6.5 million light-years.  The resulting image uncovers a sprinkling of emission nebulas within and sometimes above the galaxy's dusty disk, offering a detailed look at distant star-forming regions.    Jigsaw Galaxy: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Rising over a frozen valley in the Tatra Mountains, the familiar stars and nebulas of Orion dominate this wide-field nightscape.  The featured deep photo was taken in southern Poland's highest mountain range last month, where dark skies and alpine terrain combined to reveal both Earth's rugged beauty and the structure of our galaxy.  Above the snowy mountains, Orion's bright belt stars anchor a region of glowing interstellar clouds.  The Great Orion Nebula, a vast stellar nursery visible even to the unaided eye, shines near the center of the scene.  Surrounding it is the enormous arc of Barnard's Loop, a faint shell of ionized hydrogen gas spanning much of the constellation.  To the left, the round Rosette Nebula glows softly, while the grayish Witch Head Nebula hovers to the right, illuminated by nearby starlight.  Near the top, the orange supergiant Betelgeuse marks the hunter's shoulder.</h5>
 
 ----
 
@@ -192,68 +188,68 @@ Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait f
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -264,18 +260,18 @@ Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait f
 <img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
