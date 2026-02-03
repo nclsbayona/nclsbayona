@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hash ei tikh ki yeri atthirar ven if anna were yeri ha nakhaan.&quot;</strong>
-  <i>-- &quot;Do every act of your life as if it were your last.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Qu' royal in your own fashion: vang parha' a king to qu' treated parha' wa'.&quot;</strong>
+  <i>-- &quot;Be royal in your own fashion: act like a king to be treated like one.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Grand Blue</h4>
+<h4 align="center">Blueberry Mojito</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vsrsqu1472761749.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/07iep51598719977.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blueberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whole</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +84,7 @@
 
 
 <p align="center">
-Serve in an old fashioned glass.
+Muddle the blueberries with the other ingredients and serve in a highball glass. Garnish with mint and a half slice of lime.
 </p>
 
 ----
@@ -172,14 +184,14 @@ Serve in an old fashioned glass.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Orion: The Running Man Nebula - ©️ Robert G. Lyons  (Robservatory)  @ 2026-02-02</h4>
+<h4 align="center">Red Spider Planetary Nebula from Webb - ©️ NASA @ 2026-02-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/RunningMan_Lyons_960.jpg" alt="Orion: The Running Man Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2602/RedSpider_Webb_960.jpg" alt="Red Spider Planetary Nebula from Webb image" />
 
 </p>
 
-<h5 align="center">What part of Orion is this? Just north of the famous Orion Nebula is a picturesque star forming region in Orion's Sword that contains a lot of intricate dust -- some of which appears blue because it reflects the light of bright embedded stars.  The region's popular name is the Running Man Nebula because, looked at from the right, part of the brown dust appears to be running legs.  Cataloged as Sharpless 279, the reflection nebula is not only part of the constellation of Orion, but part of the greater Orion molecular cloud complex.  Light from the Running Man's bright stars, including 42 Orionis, the bright star closest to the featured image center, is slowly destroying and reshaping the surrounding dust, which will likely be completely gone in about 10 million years.  The nebula spans about 15 light years and lies about 1,500 light years away.   Jigsaw Nebula: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Oh what a tangled web a planetary nebula can weave.  The Red Spider Planetary Nebula shows the complex structure that can result when a normal star ejects its outer gases and becomes a white dwarf star. Officially tagged NGC 6537, this two-lobed symmetric planetary nebula houses one of the hottest white dwarfs ever observed, probably as part of a binary star system.  Internal winds flowing out from the central stars, have been measured in excess of 1,000 kilometers per second. These winds expand the nebula, flow along the nebula's walls, and cause waves of hot gas and dust to collide.  Atoms caught in these colliding shocks radiate light shown in the featured false-color infrared picture by the James Webb Space Telescope.  The Red Spider Nebula lies toward the constellation of the Archer (Sagittarius).  Its distance is not well known but has been estimated by some to be about 4,000 light-years.</h5>
 
 ----
 
@@ -192,90 +204,90 @@ Serve in an old fashioned glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
