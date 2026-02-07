@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Anna is best to begin at the beginning.&quot;</strong>
-  <i>-- &quot;It is best to begin at the beginning.&quot; in dothraki language --</i>
+  <strong align="center">Always remember: </strong>
+  <i>Mistakes don't make you less capable ...</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Just a Moonmint</h4>
+<h4 align="center">Royal Bitch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +64,7 @@
 
 
 <p align="center">
-Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+Into a shot glass layer the Crown Royal on top of the Frangelico.
 </p>
 
 ----
@@ -160,14 +164,14 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Supernova Remnant Cassiopeia A - ©️ NASA @ 2026-02-06</h4>
+<h4 align="center">Crescent Enceladus - ©️ NASA @ 2026-02-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/CasA_nircam_1024.jpg" alt="Supernova Remnant Cassiopeia A image" />
+<img src="https://apod.nasa.gov/apod/image/2602/PIA20522enceladusC.jpg" alt="Crescent Enceladus image" />
 
 </p>
 
-<h5 align="center">Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.</h5>
+<h5 align="center">Peering from the shadows, the Saturn-facing hemisphere of tantalizing inner moon Enceladus poses in this Cassini spacecraft image. North is up in the dramatic scene captured during November 2016 as Cassini's camera was pointed in a nearly sunward direction about 130,000 kilometers from the moon's bright crescent. In fact, the distant world reflects over 90 percent of the sunlight it receives, giving its surface about the same reflectivity as fresh snow. A mere 500 kilometers in diameter, Enceladus is a surprisingly active moon. Data and images collected during Cassini's flybys have revealed water vapor and ice grains spewing from south polar geysers and evidence of an ocean of liquid water hidden beneath the moon's icy crust.</h5>
 
 ----
 
@@ -180,24 +184,24 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -205,54 +209,54 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -260,10 +264,10 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
