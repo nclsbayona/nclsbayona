@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mudslinger</h4>
+<h4 align="center">Lemon Shot</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 L </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepsi Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> wedge<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bacardi </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Add all contents to a large jug or punch bowl. Stir well!
+Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Add all contents to a large jug or punch bowl. Stir well!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Miranda Revisited - ©️ NASA @ 2026-02-09</h4>
+<h4 align="center">In Green Company: Aurora over Norway - ©️ Max Rive @ 2026-02-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/Miranda_Voyager2Zelario12_960.jpg" alt="Miranda Revisited image" />
+<img src="https://apod.nasa.gov/apod/image/2602/greencompany_rive_960.jpg" alt="In Green Company: Aurora over Norway image" />
 
 </p>
 
-<h5 align="center">What is Miranda really like?  Visually, old images from NASA's Voyager 2 have been recently combined and remastered to result in the featured image of Uranus's 500-kilometer-wide moon. In the late 1980s, Voyager 2 flew by Uranus, coming close to the cratered, fractured, and unusually grooved moon -- named after a character from Shakespeare’s The Tempest.  Scientifically, planetary scientists are using old data and clear images to theorize anew about what shaped Miranda's severe surface features.  A leading hypothesis is that Miranda, beneath its icy surface, may have once hosted an expansive liquid water ocean which may be slowly freezing.  Thanks to the legacy of Voyager 2, Miranda has joined the ranks of Europa, Titan, and other icy moons in the search for water, and, possibly, microbial life, in our Solar System.   Jigsaw Moon: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Add all contents to a large jug or punch bowl. Stir well!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
