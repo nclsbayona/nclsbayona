@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brandon and Will's Coke Float</h4>
+<h4 align="center">Victory Collins</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lx0lvs1492976619.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Soft Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla ice-cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 can </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grape juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz unsweetened </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.
+Shake all ingredients (except orange slice) with ice and strain into a collins glass over ice cubes. Add the slice of orange and serve.
 </p>
 
 ----
@@ -168,14 +176,14 @@ Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 o
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Year of Sunspots - ©️ NASA @ 2026-02-11</h4>
+<h4 align="center">The Bay of Rainbows - ©️ Olaf Filzinger @ 2026-02-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_960.jpg" alt="A Year of Sunspots image" />
+<img src="https://apod.nasa.gov/apod/image/2602/APOD-Sinus-Iridum-Olaf-Filzinger1080.jpg" alt="The Bay of Rainbows image" />
 
 </p>
 
-<h5 align="center">How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.</h5>
+<h5 align="center">Dark, smooth regions that cover the Moon's familiar face are called by Latin names for oceans and seas. That naming convention is historical, though it may seem a little ironic to denizens of the space age who recognize the Moon as a mostly dry and airless world, and the smooth, dark areas as lava-flooded impact basins. For example, this telescopic lunar vista, looks over the expanse of the northwestern Mare Imbrium, or Sea of Rains and into the Sinus Iridum, the Bay of Rainbows. Ringed by the Jura Mountains (montes), the bay is about 250 kilometers across. Seen after local sunrise, the mountains form part of the Sinus Iridum impact crater wall. Their rugged sunlit arc is bounded at the top by Cape (promontorium) Laplace reaching nearly 3,000 meters above the bay's surface. At the bottom of the arc is Cape Heraclides, depicted by Giovanni Cassini in his 1679 telescope-based drawings mapping the moon as a moon maiden seen in profile with long, flowing hair.</h5>
 
 ----
 
@@ -188,46 +196,46 @@ Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 o
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -235,43 +243,43 @@ Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 o
 <img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
