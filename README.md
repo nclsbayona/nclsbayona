@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Alabama Slammer</h4>
+<h4 align="center">Pink Penocha</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jntghf1606771886.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6vigjx1503564007.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1750 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sloe gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1750 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
 
 
 <p align="center">
-Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir, add a dash of lemon juice, and serve.
+mix all ingredients into bowl keep iced stir frequently
 </p>
 
 ----
@@ -172,14 +176,14 @@ Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 147 and NGC 185 - ©️ Chuck Ayoub @ 2026-02-13</h4>
+<h4 align="center">Roses are Red - ©️ Keighley Rockcliffe @ 2026-02-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/N147N1851024.png" alt="NGC 147 and NGC 185 image" />
+<img src="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg" alt="Roses are Red image" />
 
 </p>
 
-<h5 align="center">Dwarf galaxies NGC 147 (left) and NGC 185 stand side by side in this deep telescopic portrait. The two are not-often-imaged satellite galaxies of M31, the great spiral Andromeda Galaxy, some 2.5 million light-years away. Their separation on the sky, less than one degree across a pretty field of view toward the constellation Cassiopeia, translates to only about 35 thousand light-years at Andromeda's distance, but Andromeda itself is found well outside this frame. Brighter and more famous satellite galaxies of Andromeda, M32 and M110, are seen much closer to the great spiral. NGC 147 and NGC 185 have been identified as binary galaxies, forming a gravitationally stable binary system. But recently discovered faint dwarf galaxy Cassiopeia II also seems to be part of their system, forming a gravitationally bound group within Andromeda's intriguing population of small satellite galaxies.</h5>
+<h5 align="center">Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.</h5>
 
 ----
 
@@ -192,68 +196,68 @@ Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -261,21 +265,21 @@ Pour all ingredients (except for lemon juice) over ice in a highball glass. Stir
 <img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
