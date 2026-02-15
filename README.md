@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pink Penocha</h4>
+<h4 align="center">Royal Gin Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/6vigjx1503564007.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pe1x1c1504735672.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1750 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1750 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-mix all ingredients into bowl keep iced stir frequently
+Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
 </p>
 
 ----
@@ -176,14 +172,14 @@ mix all ingredients into bowl keep iced stir frequently
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Roses are Red - ©️ Keighley Rockcliffe @ 2026-02-14</h4>
+<h4 align="center">To Fly Free in Space - ©️ NASA @ 2026-02-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/RosetteCalcagno1082.jpg" alt="Roses are Red image" />
+<img src="https://apod.nasa.gov/apod/image/2602/freeflyer_nasa_900.jpg" alt="To Fly Free in Space image" />
 
 </p>
 
-<h5 align="center">Roses are red, nebulas are too, and this Valentine's gift is a stunning view! Pictured is a loving look at the Rosette Nebula (NGC 2237): a cosmic bloom of bright young stars sitting atop a stem of glowing hot gas. The rose’s blue-white speckles are among the most luminous stars in the galaxy, with some burning millions of times brighter than the Sun. Their stellar winds sculpt the famed rose shape by pushing gas and dust away from the center. Though only a few million years old, these massive stars are already nearing the end of their lives, while dimmer stars embedded in the nebula will burn for billions of years to come. The vibrant red hue comes from hydrogen gas, ionized by the ultraviolet light from the young stars. The rose’s blue-white center is color-mapped to indicate the presence of similarly ionized oxygen. The Rosette Nebula reminds us of the beauty and transformation woven into the fabric of the universe.</h5>
+<h5 align="center">What would it be like to fly free in space?  About 100 meters from the cargo bay of a space shuttle, Bruce McCandless II was living the dream -- floating farther out than anyone had ever been before.  Guided by a Manned Maneuvering Unit (MMU), astronaut McCandless, pictured, was floating free in space. During Space Shuttle mission 41-B in 1984,  McCandless and fellow NASA astronaut Robert Stewart were the first to experience such an &quot;untethered space walk&quot;. The MMU worked by shooting jets of nitrogen and was used to help deploy and retrieve satellites.  With a mass over 140 kilograms, an MMU is heavy on Earth, but, like everything, is weightless when drifting in orbit. The MMU was later replaced with the SAFER backpack propulsion unit.</h5>
 
 ----
 
@@ -196,65 +192,65 @@ mix all ingredients into bowl keep iced stir frequently
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
@@ -262,24 +258,24 @@ mix all ingredients into bowl keep iced stir frequently
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
