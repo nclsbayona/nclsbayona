@@ -31,15 +31,7 @@ jobs:
             webpage-qr: 'QR.png'
             contributions-url: 'https://raw.githubusercontent.com/nclsbayona/nclsbayona/output/github-contribution-grid-snake-sissa.svg'
             feed_url: "https://nclsbayona.github.io/index.xml"
-        - name: Commit files
-          run: |
-            git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git add .
-            echo "fix: New content $(date)" > commit_message.txt && git commit -F commit_message.txt && rm commit_message.txt
-        - name: Push changes
-          uses: ad-m/github-push-action@master
+        - name: Commit changes
+          uses: stefanzweifel/git-auto-commit-action@v7
           with:
-            force: true
-            github_token: ${{ secrets.GITHUB_TOKEN }}
-            branch: ${{ github.ref }}
+            commit_message: "docs: :memo: Update documentation"
