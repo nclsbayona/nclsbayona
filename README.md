@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;The past does not equal the future&quot;</i>
+  <i>&quot;You'll figure it out&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Old Fashioned</h4>
+<h4 align="center">California Lemonade</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cL</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cube</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp</td>
         </tr>
     </tbody>
 </table>
@@ -72,10 +76,7 @@
 
 
 <p align="center">
-Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.
-Fill the glass with ice cubes and add whiskey.
-
-Garnish with orange twist, and a cocktail cherry.
+Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.
 </p>
 
 ----
@@ -175,14 +176,14 @@ Garnish with orange twist, and a cocktail cherry.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Sharpless 249 and the Jellyfish Nebula - ©️ Katelyn Beecroft @ 2026-02-27</h4>
+<h4 align="center">Lunar Occultation of Mercury - ©️ Fabrizio Melandri @ 2026-02-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2602/JellyfishBeecroft_final1_1024.jpg" alt="Sharpless 249 and the Jellyfish Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2602/LunarOccultMercury_2026Feb18-Melandri_1065.jpg" alt="Lunar Occultation of Mercury image" />
 
 </p>
 
-<h5 align="center">Normally faint and elusive, the Jellyfish Nebula is caught in this alluring telescopic field of view. Floating in the interstellar sea, the nebula is anchored right and left by two bright stars, Mu and Eta Geminorum, at the foot of the celestial twins. The Jellyfish Nebula itself is right of center, seen as a brighter arcing ridge of emission with dangling tentacles. In fact, this cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded. Light from the explosion first reached planet Earth over 30,000 years ago. Like its cousin in astrophysical waters the Crab Nebula supernova remnant, the Jellyfish Nebula is known to harbor a neutron star, the ultradense remnant of the collapsed stellar core. An emission nebula cataloged as Sharpless 249 fills the field at the upper left. The Jellyfish Nebula is about 5,000 light-years away. At that distance, this image would be about 300 light-years across.</h5>
+<h5 align="center">Fans of the western sky after sunset have lately enjoyed this month's remarkable array of bright planets. Witnessed from some locations, on February 18 planet Mercury even appeared to slide behind the Moon, an event known as a lunar occultation. These two snapshots, taken in early evening skies show before and after telescopic views of the rare disappearance of innermost planet behind young Moon. The top panel finds bright Mercury just visible at the northern (right) edge of the earthshine-illuminated lunar disk. In the bottom panel the bright planet has emerged in darker skies beyond the Moon's sunlit crescent. As seen south of Sallisaw, Oklahoma, planet Earth, this lunar occultation of Mercury lasted only about 3 minutes (video). But you can still check out a parade of planets tonight.  March 3: Total Lunar Eclipse</h5>
 
 ----
 
@@ -195,13 +196,13 @@ Garnish with orange twist, and a cocktail cherry.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -209,76 +210,76 @@ Garnish with orange twist, and a cocktail cherry.
 <img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
