@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;If everything was easy you'd be bored&quot;</i>
+  <i>&quot;You know more than you knew yesterday&quot;</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Winter Paloma</h4>
+<h4 align="center">Gimlet</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/u5f0pz1614007748.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Agave Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepper</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +72,11 @@
 
 
 <p align="center">
-Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado infused with “Timur Pepper” which has citrusy &amp; grapefruit notes and is grown at the foothills of Himalaya. It also produces a slightly numbing and tingling sensation on your lip when consumed. We have also spiced up the fresh grapefruit juice with the warming spice blend from Himalaya. The combination of all these interesting elements has allowed us to elevate your Paloma sipping experience.
+Add all the ingredients to a shaker and fill with ice.
+
+Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
+
+Garnish with a lime wheel.
 </p>
 
 ----
@@ -184,14 +176,14 @@ Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Moon During a Total Lunar Eclipse - ©️ NASA @ 2026-03-01</h4>
+<h4 align="center">The Dusty Surroundings of Orion and the Pleiades - ©️ Ignacio Fernández @ 2026-03-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/TotalLunarEclipse2018.mp4" alt="The Moon During a Total Lunar Eclipse image" />
+<img src="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg" alt="The Dusty Surroundings of Orion and the Pleiades image" />
 
 </p>
 
-<h5 align="center">How does the Moon's appearance change during a total lunar eclipse?  The featured time-lapse video was digitally processed to keep the Moon bright and centered during the 5-hour eclipse of 2018 January 31.  At first the full moon is visible because only a full moon can undergo a lunar eclipse. Stars move by in the background because the Moon orbits the Earth during the eclipse.  The circular shadow of the Earth is then seen moving across the Moon.  The light blue hue of the shadow's edge is related to why Earth's sky is blue, while the deep red hue of the shadow's center is related to why the Sun appears red when near the horizon.  Tomorrow night, people living in Eastern Asia, Australia, and much of North America may get to see a Total Blood Moon Lunar Eclipse.  Here the term blood refers to the (likely) red color of a fully eclipsed Moon.   Almost Hyperspace: Random APOD Generator</h5>
+<h5 align="center">How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse</h5>
 
 ----
 
@@ -204,90 +196,90 @@ Everyone’s favourite Paloma gets a delicious Indian makeover. Tequila reposado
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
