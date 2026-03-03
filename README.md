@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;You know more than you knew yesterday&quot;</i>
+  <i>&quot;Happiness is only real when shared.&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Gimlet</h4>
+<h4 align="center">White Lady</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/3xgldt1513707271.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -49,19 +49,15 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2cl</td>
         </tr>
     </tbody>
 </table>
@@ -72,11 +68,7 @@
 
 
 <p align="center">
-Add all the ingredients to a shaker and fill with ice.
-
-Shake, and strain into a chilled cocktail glass or an Old Fashioned glass filled with fresh ice.
-
-Garnish with a lime wheel.
+Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
 </p>
 
 ----
@@ -176,14 +168,14 @@ Garnish with a lime wheel.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Dusty Surroundings of Orion and the Pleiades - ©️ Ignacio Fernández @ 2026-03-02</h4>
+<h4 align="center">Flying over the North Pole of Mars - ©️ NASA @ 2026-03-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/DustyOrionPleiades_Fernandez_960.jpg" alt="The Dusty Surroundings of Orion and the Pleiades image" />
+<img src="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4" alt="Flying over the North Pole of Mars image" />
 
 </p>
 
-<h5 align="center">How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with filaments of normally faint dust and gas.  This image contains the Pleiades star cluster, Barnard's Loop, Orion Nebula, Aldebaran, Betelgeuse, Witch Head Nebula, Eridanus Loop, and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a 16 hours of sky exposure in dark skies over Granada, Spain.    Tonight: Total Lunar Eclipse</h5>
+<h5 align="center">If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.</h5>
 
 ----
 
@@ -196,35 +188,35 @@ Garnish with a lime wheel.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -232,54 +224,54 @@ Garnish with a lime wheel.
 <img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
