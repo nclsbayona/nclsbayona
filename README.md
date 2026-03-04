@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Happiness is only real when shared.&quot;</i>
+  <i>&quot;Life is trying things to see if they work.&quot;</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">White Lady</h4>
+<h4 align="center">Queen Charlotte</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
+Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Flying over the North Pole of Mars - ©️ NASA @ 2026-03-03</h4>
+<h4 align="center">Shapley 1: An Annular Planetary Nebula - ©️ Peter Bresseler;Text:Keighley Rockcliffe  (NASAGSFC, UMBCCSST, CRESST II) @ 2026-03-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/FlyingNorth_MarsExpress.mp4" alt="Flying over the North Pole of Mars image" />
+<img src="https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_960.jpg" alt="Shapley 1: An Annular Planetary Nebula image" />
 
 </p>
 
-<h5 align="center">If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.</h5>
+<h5 align="center">What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Add all ingredients into cocktail shaker filled with ice. Shake well and strain 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
