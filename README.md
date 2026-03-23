@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;The past does not equal the future&quot;</i>
+  <i>&quot;10x engineers are a myth&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Spanish chocolate</h4>
+<h4 align="center">Royal Flush</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocoa</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweet </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 beaten </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
+Pour all the ingredients into tumbler over ice. Strain into glass.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Leaving Earth - ©️ NASA @ 2026-03-22</h4>
+<h4 align="center">Light Pillars and Orion over Mohe - ©️ Jeff Dai(TWAN) @ 2026-03-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/DepartingEarth_Messenger.mp4" alt="Leaving Earth image" />
+<img src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" alt="Light Pillars and Orion over Mohe image" />
 
 </p>
 
-<h5 align="center">What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecraft orbit around Mercury from 2011 to 2015 has conducted the first complete map of the surface. On occasion, MESSENGER peered back at its home world. MESSENGER is one of the few things created on the Earth that will never return.  At the end of its mission, MESSENGER was purposefully crashed into Mercury's surface.   Almost Hyperspace: Random APOD Generator</h5>
+<h5 align="center">What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.</h5>
 
 ----
 
@@ -192,32 +192,32 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
@@ -225,57 +225,57 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
