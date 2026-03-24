@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;10x engineers are a myth&quot;</i>
+  <i>&quot;In order to control myself I must first accept myself by going with and not against my nature.&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Royal Flush</h4>
+<h4 align="center">Thriller</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7rnm8u1504888527.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvuswq1461867714.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,19 +48,15 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Pour all the ingredients into tumbler over ice. Strain into glass.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Pour all the ingredients into tumbler over ice. Strain into glass.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Light Pillars and Orion over Mohe - ©️ Jeff Dai(TWAN) @ 2026-03-23</h4>
+<h4 align="center">A Gravity Map of Earth - ©️ NASA @ 2026-03-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/LightPillarsMohe_Dai_1080.jpg" alt="Light Pillars and Orion over Mohe image" />
+<img src="https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4" alt="A Gravity Map of Earth image" />
 
 </p>
 
-<h5 align="center">What's happening at the end of that street?  Pictured here are not auroras but light pillars, a phenomenon typically much closer.  In most places on Earth, a lucky viewer can see a Sun pillar, a column of light appearing to extend up from the Sun caused by flat fluttering ice-crystals reflecting sunlight from the upper atmosphere.  Usually, these ice crystals evaporate before reaching the ground.  During freezing temperatures, however, flat fluttering ice crystals may form near the ground and are sometimes known as a crystal fog.  These small ice crystals may then reflect not the Sun but ground lights.  The featured image captured not only numerous light pillars but also the iconic constellation of Orion, and was taken in Mohe, the northernmost city in China.</h5>
+<h5 align="center">Is gravity the same over the surface of the Earth?  No -- in some places you will feel slightly heavier than others.  The featured Earth map video shows in colors and exaggerated highs and lows where the gravitational field of Earth is relatively strong and weak.  A low spot, where you would feel slightly lighter, can be seen just off the coast of India, in blue, while a relative high occurs in the mountains of Chile in South America.  The cause of these irregularities does not always follow present surface features. Scientists hypothesize that other important factors lie in deep underground structures in Earth's mantle and may be related to the Earth's appearance in the distant past.  The featured map was composed from data taken by NASA's twin GRACE satellites that orbited the Earth from 2002 to 2017.  GRACE mapped Earth's gravity by carefully tracking tiny changes in the distance between the two satellites.</h5>
 
 ----
 
@@ -192,90 +188,90 @@ Pour all the ingredients into tumbler over ice. Strain into glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
