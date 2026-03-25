@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;In order to control myself I must first accept myself by going with and not against my nature.&quot;</i>
+  <i>&quot;It is not a sprint, it is a marathon. One step at a time&quot;</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Thriller</h4>
+<h4 align="center">Havana Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rvuswq1461867714.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/59splc1504882899.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -168,14 +168,14 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Gravity Map of Earth - ©️ NASA @ 2026-03-24</h4>
+<h4 align="center">The Guardians of Rapa Nui beneath the Milky Way - ©️ Rositsa DimitrovaText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II) @ 2026-03-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2603/GravityEarth_GRACE_silent.mp4" alt="A Gravity Map of Earth image" />
+<img src="https://apod.nasa.gov/apod/image/2603/rapa_nui_milky_way_1024.jpeg" alt="The Guardians of Rapa Nui beneath the Milky Way image" />
 
 </p>
 
-<h5 align="center">Is gravity the same over the surface of the Earth?  No -- in some places you will feel slightly heavier than others.  The featured Earth map video shows in colors and exaggerated highs and lows where the gravitational field of Earth is relatively strong and weak.  A low spot, where you would feel slightly lighter, can be seen just off the coast of India, in blue, while a relative high occurs in the mountains of Chile in South America.  The cause of these irregularities does not always follow present surface features. Scientists hypothesize that other important factors lie in deep underground structures in Earth's mantle and may be related to the Earth's appearance in the distant past.  The featured map was composed from data taken by NASA's twin GRACE satellites that orbited the Earth from 2002 to 2017.  GRACE mapped Earth's gravity by carefully tracking tiny changes in the distance between the two satellites.</h5>
+<h5 align="center">In the words of today's astrophotographer, Rositsa Dimitrova, &quot;What have these silent sentinels watched pass across the sky?&quot; The volcanic mo'ai (meaning statue) of Ahu Tongariki stand guard over Rapa Nui (Isla de Pascua, Easter Island), a Polynesian island (annexed by Chile in 1888) located thousands of kilometers off the coast of South America in the Pacific Ocean. Due to the island's remoteness, the mo'ai, with their backs to the dark ocean, are able to gaze upon a clear and vibrant night sky. Pictured, these larger-than-life statues stare at the bright band of the Milky Way, partly obscured by interstellar dust and blurred by Earth's clouds. Under such clear night skies, the Rapa Nui created observatories and used astronomical observations for navigation, calendar calibration, celebrations, and more. Images like this one remind us of the importance of dark skies, protecting the land underneath them, and preserving the culture that they inspire.</h5>
 
 ----
 
@@ -188,87 +188,87 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
