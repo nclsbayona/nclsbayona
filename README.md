@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;The birth of the mind is the death of the senses.&quot;</i>
+  <i>&quot;Mistakes don't make you less capable&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Quick-sand</h4>
+<h4 align="center">Addington</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vprxqv1478963533.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Black Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 250 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with<br></td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!
+Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. 
 </p>
 
 ----
@@ -164,14 +168,14 @@ Simply add the orange juice, quite a quick pour in order to mix the sambucca wit
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Claw and Bubble Nebulae - ©️ Richard WhiteheadText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II) @ 2026-04-01</h4>
+<h4 align="center">Liftoff! Returning to the Moon - ©️ NASA/Bill Ingalls; Text: Ogetay Kayali (MTU) @ 2026-04-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2604/claw_bubble_800.jpg" alt="The Claw and Bubble Nebulae image" />
+<img src="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg" alt="Liftoff! Returning to the Moon image" />
 
 </p>
 
-<h5 align="center">What unexpected things do you see when you look up at the night sky? Today’s image resembles an abstract painting, with large swaths of color strewn across a cosmic canvas seemingly without design. Despite the image's abstract nature, the human mind finds patterns, identifying a large claw reaching up towards a floating bubble. Embedded within these seemingly random structures are the physical laws that govern how light and matter interact. The Claw (Sh2-157) and Bubble (NGC 7635) Nebulae glow colors that are mapped to the yellow and blue shown, indicating the presence of hydrogen and oxygen ionized by the intense light emitted from stars several times the mass of the Sun. This image depicts both the chaos and structure of astronomical processes, showing that a common thread between art and science is to look for the unexpected.</h5>
+<h5 align="center">We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.</h5>
 
 ----
 
@@ -184,90 +188,90 @@ Simply add the orange juice, quite a quick pour in order to mix the sambucca wit
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
