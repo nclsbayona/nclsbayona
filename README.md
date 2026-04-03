@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Mistakes don't make you less capable&quot;</i>
+  <i>&quot;There is only one thing in the world worse than being talked about, and that is not being talked about. &quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Addington</h4>
+<h4 align="center">110 in the shade</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ib0b7g1504818925.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xxyywq1454511117.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">16 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a squirt of Soda Water. 
+Drop shooter in glass. Fill with beer
 </p>
 
 ----
@@ -168,14 +164,14 @@ Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Liftoff! Returning to the Moon - ©️ NASA/Bill Ingalls; Text: Ogetay Kayali (MTU) @ 2026-04-02</h4>
+<h4 align="center">Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula - ©️ Carl Knox @ 2026-04-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2604/nasa_billingalls.jpg" alt="Liftoff! Returning to the Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula_1024.jpg" alt="Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula image" />
 
 </p>
 
-<h5 align="center">We are one small step closer to returning to the Moon. A new chapter in human exploration began yesterday when NASA's Artemis II launched aboard the Space Launch System (SLS) from Kennedy Space Center. Carrying four astronauts, the Orion spacecraft's planned lunar flyby will be the first in over half a century. This historic test flight, echoing the legacy of Apollo while pushing beyond it, will carry its crew farther from Earth than any humans since 1972, looping around the Moon before returning home. During the approximately ten-day journey, Orion's systems--from life support to navigation--will be tested in deep space, while astronauts observe the lunar surface, including shadowed regions of the far side rarely seen with such perspective. After looping around the Moon, the astronauts will return to Earth, ending their journey with a Pacific Ocean splashdown.</h5>
+<h5 align="center">How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final &quot;death-dance&quot; with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Mix both the vermouth's in a shaker and strain into a cold glass. Top up with a 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
