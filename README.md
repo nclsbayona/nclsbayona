@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Starting is the most difficult step - but you can do it&quot;</i>
+  <i>&quot;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&quot;</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Day at the Beach</h4>
+<h4 align="center">Monkey Gland</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/94psp81504350690.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.
+Shake well over ice cubes in a shaker, strain into a chilled cocktail glass.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 3310: A Starburst Spiral Galaxy - ©️ AAO ITSO Office, Gemini Obs./AURA &amp; T. A. Rector (U. Alaska Anchorage) @ 2026-04-05</h4>
+<h4 align="center">The Path of Artemis II - ©️ NASA @ 2026-04-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2604/ngc3310_gemini_960.jpg" alt="NGC 3310: A Starburst Spiral Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2604/Artemis2Path_NasaSvs.mp4" alt="The Path of Artemis II image" />
 
 </p>
 
-<h5 align="center">The party is still going on in spiral galaxy NGC 3310.  Roughly 100 million years ago, NGC 3310 likely collided with a smaller galaxy causing the large spiral galaxy to light up with a tremendous burst of star formation.  The changing gravity during the collision created density waves that compressed existing clouds of gas and triggered the star-forming party.  The featured image from the Gemini North Telescope shows the galaxy in great detail, color-coded so that pink highlights gas while white and blue highlight stars.  Some of the star clusters in the galaxy are quite young, indicating that starburst galaxies may remain in star-burst mode for quite some time.  NGC 3310 spans about 50,000 light years, lies about 50 million light years away, and is visible with a small telescope towards the constellation of Great Bear Ursa Major.</h5>
+<h5 align="center">Why doesn't Artemis II land on the Moon? The main reason is that Artemis II is primarily a test mission designed to make a future Artemis missions -- which will land humans on the Moon -- better prepared.  Similarly, NASA's Apollo 8 and Apollo 10 went right near the Moon as tests before Apollo 11 -- which landed.  As the trajectory in the featured animated video shows, Artemis II will loop around both the Earth and the Moon before returning to the Earth about 10 days after launch. The Artemis II mission will take humans outside the Earth's magnetosphere for the first time since the Apollo missions 50 years ago.  In the video, particles from the solar wind are shown as streaks, while the Earth's reacting magnetosphere is shown in flickering green.  The Earth's magnetosphere is important in deflecting powerful particles arriving from the Sun as well as creating picturesque auroras visible from the Earth's surface.    Explore the Universe: Random APOD Generator</h5>
 
 ----
 
@@ -192,57 +192,57 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -250,32 +250,32 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
