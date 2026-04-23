@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;It'll feel magical when it's working&quot;</i>
+  <i>&quot;If everything was easy you'd be bored&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kiwi Papaya Smoothie</h4>
+<h4 align="center">3-Mile Long Island Iced Tea</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jogv4w1487603571.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rrtssw1472668972.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,40 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Papaya</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 wedge </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +92,7 @@
 
 
 <p align="center">
-Throw everything into a blender and liquify.
+Fill 14oz glass with ice and alcohol. Fill 2/3 glass with cola and remainder with sweet &amp; sour. Top with dash of bitters and lemon wedge.
 </p>
 
 ----
@@ -164,14 +192,14 @@ Throw everything into a blender and liquify.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
+<h4 align="center">Large Scale Structure of the Universe - ©️ NASA @ 2026-04-23</h4>
 <p align="center">
 
-<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
+<img src="https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg" alt="Large Scale Structure of the Universe image" />
 
 </p>
 
-<h5 align="center">Picture of a beautiful place on earth</h5>
+<h5 align="center">This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.</h5>
 
 ----
 
@@ -184,43 +212,43 @@ Throw everything into a blender and liquify.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
@@ -228,46 +256,46 @@ Throw everything into a blender and liquify.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
