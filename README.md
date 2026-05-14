@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Sucking at something is the first step towards being good at something&quot;</i>
+  <i>&quot;Mistakes don't make you less capable&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mango Mojito</h4>
+<h4 align="center">Lone Tree Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tsxpty1468923417.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Fresh</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprig</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">200 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +64,7 @@
 
 
 <p align="center">
-Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
-Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
-Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.
+Stir ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -209,87 +187,87 @@ Divide the mango purée between the glasses and add 30ml white rum and a handful
 <img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
