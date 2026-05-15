@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Mistakes don't make you less capable&quot;</i>
+  <i>&quot;Sucking at something is the first step towards being good at something&quot;</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lone Tree Cocktail</h4>
+<h4 align="center">Algonquin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tsxpty1468923417.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Stir ingredients with ice, strain into a cocktail glass, and serve.
+Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Stir ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 188: Old Cluster in the New General Catalog - ©️ Neven Krcmarek @ 2026-05-13</h4>
+<h4 align="center">R3 PanSTARRS: An Orion Comet - ©️ Chester Hall-Fernandez @ 2026-05-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg" alt="NGC 188: Old Cluster in the New General Catalog image" />
+<img src="https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg" alt="R3 PanSTARRS: An Orion Comet image" />
 
 </p>
 
-<h5 align="center">The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its &quot;NGC&quot; to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.</h5>
+<h5 align="center">Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)</h5>
 
 ----
 
@@ -184,90 +188,90 @@ Stir ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
