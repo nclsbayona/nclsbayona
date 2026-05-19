@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Worry is a waste of emotional reserve.&quot;</i>
+  <i>&quot;If light is in your heart, you will find your way home.  &quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brigadier</h4>
+<h4 align="center">Queen Charlotte</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Heering</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Mix ingredients in a warmed mug and stir.
+Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
 </p>
 
 ----
@@ -134,10 +130,28 @@ Mix ingredients in a warmed mug and stir.
 <table align="center">
 <tr>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Language name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
 </td>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">OS name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
 </td>
 </tr>
 </table>
@@ -150,14 +164,14 @@ Mix ingredients in a warmed mug and stir.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Unraveling NGC 3169 - ©️ Simone Curzi @ 2026-05-18</h4>
+<h4 align="center">NGC 2170: The Angel Nebula - ©️ Jason Marriott @ 2026-05-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg" alt="Unraveling NGC 3169 image" />
+<img src="https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg" alt="NGC 2170: The Angel Nebula image" />
 
 </p>
 
-<h5 align="center">Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.</h5>
+<h5 align="center">Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -170,13 +184,13 @@ Mix ingredients in a warmed mug and stir.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -184,76 +198,76 @@ Mix ingredients in a warmed mug and stir.
 <img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
