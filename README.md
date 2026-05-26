@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Your life is about to be incredible&quot;</i>
+  <i>&quot;You know more than you think&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Godmother</h4>
+<h4 align="center">Mary Pickford</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quksqg1582582597.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Pour vodka and amaretto into an old-fashioned glass over ice and serve.
+Shake and strain into a chilled large cocktail glass
 </p>
 
 ----
@@ -164,14 +176,14 @@ Pour vodka and amaretto into an old-fashioned glass over ice and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Thackeray's Globules - ©️ John Hayes @ 2026-05-25</h4>
+<h4 align="center">NGC 3660 and Burçin's Galaxy - ©️ Adam Block, El Sauce Obs. @ 2026-05-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg" alt="Thackeray's Globules image" />
+<img src="https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg" alt="NGC 3660 and Burçin's Galaxy image" />
 
 </p>
 
-<h5 align="center">What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day</h5>
+<h5 align="center">The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.</h5>
 
 ----
 
@@ -184,87 +196,87 @@ Pour vodka and amaretto into an old-fashioned glass over ice and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
