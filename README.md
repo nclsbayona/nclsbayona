@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;The heart that gives, gathers.&quot;</i>
+  <i>&quot;See what you're doing wrong, laugh at it, change and do better.&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Applejack</h4>
+<h4 align="center">Alice Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sutyqp1479209062.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyqtpv1468876144.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jack Daniels</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Add all ingredients into mixing glass, chill and strain into cocktail glass
+Shake well, strain into a large cocktail glass.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Add all ingredients into mixing glass, chill and strain into cocktail glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Saturn at Night - ©️ NASA @ 2026-06-01</h4>
+<h4 align="center">The Vela Supernova Remnant - ©️ José Mtanous @ 2026-06-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2605/LastRingPortrait_Cassini_1080.jpg" alt="Saturn at Night image" />
+<img src="https://apod.nasa.gov/apod/image/2606/Vela_Mtanous_960.jpg" alt="The Vela Supernova Remnant image" />
 
 </p>
 
-<h5 align="center">Telescopic views of Saturn and its beautiful rings often make it the star of star parties. But this stunning view of the outer gas gaint planet's rings and night side just isn't possible from telescopes in the vicinity of planet Earth. Peering out from the inner Solar System they can only bring Saturn's day side into view. In fact, this image of Saturn's slender sunlit crescent with the planet's night shadow cast across its broad and complex ring system was captured by the robot spacecraft Cassini. After a seven year long journey from planet Earth, Cassini called Saturn orbit home for 13 years (from 2004 - 2017) before it was directed to dive into the atmosphere of the gas giant on September 15, 2017. This magnificent mosaic is composed of frames recorded by Cassini's wide-angle camera only two days before its grand final plunge. And Saturn's night will not be seen again until another spaceship from Earth calls.</h5>
+<h5 align="center">The explosion is over, but the consequences continue.  About twelve thousand years ago, a relatively normal star in the constellation Vela suddenly exploded, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image, taken piecemeal over 60 hours from the Khomas Region of Namibia, captures some of that filamentary and gigantic shock in visible light, with details highlighted by hydrogen (red) and oxygen (blue) emissions. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Explore the Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,46 +192,46 @@ Add all ingredients into mixing glass, chill and strain into cocktail glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -235,43 +239,43 @@ Add all ingredients into mixing glass, chill and strain into cocktail glass
 <img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
