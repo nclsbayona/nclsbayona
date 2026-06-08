@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;It's not a mistake, it's a learning opportunity&quot;</i>
+  <i>&quot;Your life is about to be incredible&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lemon Drop</h4>
+<h4 align="center">Vermouth Cassis</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tswpxx1441554674.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cointreau</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 wedge </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Shake and strain into a chilled cocktail glass rimmed with sugar.
+Stir vermouth and creme de cassis in a highball glass with ice cubes. Fill with carbonated water, stir again, and serve.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Shake and strain into a chilled cocktail glass rimmed with sugar.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Jupiter and Venus from Earth - ©️ Marek Nikodem (PPSAE) @ 2026-06-07</h4>
+<h4 align="center">Comet R3 PanSTARRS Through Time - ©️ Jakub Kuřák &amp; Martin Mašek (FZU of the Czech Academy of Sciences) @ 2026-06-08</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg" alt="Jupiter and Venus from Earth image" />
+<img src="https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg" alt="Comet R3 PanSTARRS Through Time image" />
 
 </p>
 
-<h5 align="center">It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town lights of Szubin, Poland to photograph  a near closest approach of the two planets. The bright planets were then separated by only  three degrees and his daughter struck a humorous pose. A faint red sunset still glowed in the background. Jupiter and Venus are together again this week after sunset, passing within a degree of each other about two days from today.</h5>
+<h5 align="center">What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Shake and strain into a chilled cocktail glass rimmed with sugar.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
