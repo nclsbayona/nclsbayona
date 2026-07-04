@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;Decide upon your major definite purpose in life and then organize all your activities around it.&quot;</i>
+  <i>&quot;The path to success is to take massive, determined action&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">The Evil Blue Thing</h4>
+<h4 align="center">Mulled Wine</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more &quot;fun&quot;.
+Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Pour ingredients into glass, and drop in a blue whale! The blue whale isn't real
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Three Galaxies in Pavo - ©️ Mike Selby @ 2026-07-03</h4>
+<h4 align="center">Pathfinder on Mars - ©️ NASA @ 2026-07-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg" alt="Three Galaxies in Pavo image" />
+<img src="https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg" alt="Pathfinder on Mars image" />
 
 </p>
 
-<h5 align="center">Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.</h5>
+<h5 align="center">On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.</h5>
 
 ----
 
@@ -188,13 +204,13 @@ Pour ingredients into glass, and drop in a blue whale! The blue whale isn't real
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -202,76 +218,76 @@ Pour ingredients into glass, and drop in a blue whale! The blue whale isn't real
 <img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
