@@ -16,7 +16,7 @@
 <p align="center">
 
   <strong align="center">Never forget:</strong>
-  <i>&quot;The path to success is to take massive, determined action&quot;</i>
+  <i>&quot;All you need is the plan, the roadmap, and the courage to press on to your destination&quot;</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mulled Wine</h4>
+<h4 align="center">B-52</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/iuwi6h1504735724.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a stainless steel pot for 10 minutes. Add wine heat to a &quot;coffee temperature&quot; (DO NOT BOIL) then add the brandy.
+Layer ingredients into a shot glass. Serve with a stirrer.
 </p>
 
 ----
@@ -184,14 +168,14 @@ Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a st
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Pathfinder on Mars - ©️ NASA @ 2026-07-04</h4>
+<h4 align="center">Saturn's Iapetus: Painted Moon - ©️ NASA @ 2026-07-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg" alt="Pathfinder on Mars image" />
+<img src="https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg" alt="Saturn's Iapetus: Painted Moon image" />
 
 </p>
 
-<h5 align="center">On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.</h5>
+<h5 align="center">What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -204,90 +188,90 @@ Simmer 3 cups water with, sugar, cloves, cinnamon sticks, and lemon peel in a st
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
