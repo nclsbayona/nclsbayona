@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Jack Rose Cocktail</h4>
+<h4 align="center">Red Snapper</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uuqqrv1439907068.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +67,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+One shot each, shake n shoot
 </p>
 
 ----
@@ -187,10 +187,10 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
@@ -198,24 +198,24 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -223,18 +223,18 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
@@ -242,35 +242,35 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -279,6 +279,32 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 
 </details>
 
+<details name="info">
+<summary>Maybe you're interested in checking out my latest content? 🐣</summary>
+<br />
+<p align="center">
+
+[Connectivity at different layers](https://nclsbayona.github.io/p/connectivity-networking/)
+> <sup>Sat, 03 Jan 2026 02:00:00 +0000</sup>
+
+[Talos OS deployment](https://nclsbayona.github.io/p/kubernetes-talos/)
+> <sup>Wed, 24 Dec 2025 08:00:00 +0000</sup>
+
+[Deployment of secure webpages](https://nclsbayona.github.io/p/deployment-secure-webpages/)
+> <sup>Mon, 31 Mar 2025 08:00:00 +0000</sup>
+
+[Containerization Internals](https://nclsbayona.github.io/p/containers-internals/)
+> <sup>Mon, 10 Mar 2025 12:00:00 +0000</sup>
+
+[The value of becoming a Kubestronaut (and a Golden Kubestronaut) and why certifying is more than a title.](https://nclsbayona.github.io/p/certs-real-value/)
+> <sup>Sat, 01 Mar 2025 08:00:00 +0000</sup>
+
+
+
+</p>
+
+----
+</details>
 
 
 
