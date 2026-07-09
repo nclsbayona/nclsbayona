@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">French Negroni</h4>
+<h4 align="center">Aperol Spritz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,20 +47,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">100 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">150 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -71,9 +83,7 @@
 
 
 <p align="center">
-Add ice to a shaker and pour in all ingredients.
-Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
-Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
+Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.
 </p>
 
 ----
@@ -193,54 +203,54 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
@@ -248,10 +258,10 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
@@ -259,24 +269,24 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
