@@ -36,6 +36,7 @@ jobs:
             contributions-url: 'https://raw.githubusercontent.com/nclsbayona/nclsbayona/output/github-contribution-grid-snake-sissa.svg'
             feed-url: "https://nclsbayona.github.io/index.xml"
             quote-src: 'image:https://github.com/nclsbayona/nclsbayona.github.io/blob/main/artifacts/images/quote_of_the_day.png?raw=true'
+            welcome-msg: ''
         
         - name: Commit changes
           uses: stefanzweifel/git-auto-commit-action@v7
