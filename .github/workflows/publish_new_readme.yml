@@ -1,5 +1,9 @@
 name: README Build
 on:
+  # Changes to this file
+  push:
+    paths:
+    - '.github/workflows/publish_new_readme.yml'
   # Runs on request
   workflow_dispatch:
   # Runs everyday at 05:30 UTC
@@ -30,7 +34,7 @@ jobs:
             webpage-url: 'https://nclsbayona.github.io'
             webpage-qr: 'QR.png'
             contributions-url: 'https://raw.githubusercontent.com/nclsbayona/nclsbayona/output/github-contribution-grid-snake-sissa.svg'
-            feed_url: "https://nclsbayona.github.io/index.xml"
+            feed-url: "https://nclsbayona.github.io/index.xml"
             quote-src: 'image:https://github.com/nclsbayona/nclsbayona.github.io/blob/main/artifacts/images/quote_of_the_day.png?raw=true'
         
         - name: Commit changes
