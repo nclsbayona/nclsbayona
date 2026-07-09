@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Red Snapper</h4>
+<h4 align="center">Figgy Thyme</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pbw4e51606766578.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Figs</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Thyme</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Sprig</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +83,7 @@
 
 
 <p align="center">
-One shot each, shake n shoot
+In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your precious ice into a collins glass. In a cocktail shaker, muddle the figs and thyme together. Add honey vodka, lemon juice, and a large ice cube (@glacioice). Shake until well chilled, and strain into glass. Add tonic water and finally 2 dashes of angostura bitters. Garnish with sliced figs and thyme.
 </p>
 
 ----
@@ -187,90 +203,90 @@ One shot each, shake n shoot
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,9 +335,7 @@ One shot each, shake n shoot
 
 
 
-<a href="https://twitter.com/nclsbayona" target="_blank">
- <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
+
 
 <a href="https://www.linkedin.com/in/nclsbayona" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-lightblue?&style=for-the-badge&logo=linkedin&logoColor=white">
