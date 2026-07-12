@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Port And Starboard</h4>
+<h4 align="center">Rum Screwdriver</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wxvupx1441553911.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,12 +47,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grenadine. Serve without mixing.
+Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.
 </p>
 
 ----
@@ -163,14 +163,14 @@ Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grena
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Messier 24: Sagittarius Star Cloud - ©️ Chuck Ayoub @ 2026-07-11</h4>
+<h4 align="center">Galaxy NGC 474: Shells and Star Streams - ©️ NASA @ 2026-07-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/M24_1088.jpg" alt="Messier 24: Sagittarius Star Cloud image" />
+<img src="https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg" alt="Galaxy NGC 474: Shells and Star Streams image" />
 
 </p>
 
-<h5 align="center">Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.</h5>
+<h5 align="center">What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).</h5>
 
 ----
 
@@ -183,90 +183,90 @@ Pour carefully into a pousse-cafe glass, so that creme de menthe floats on grena
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
