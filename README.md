@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Frisco Sour</h4>
+<h4 align="center">Brandy Flip</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/acuvjz1582482022.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,28 +47,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/4 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
         </tr>
     </tbody>
 </table>
@@ -79,7 +75,7 @@
 
 
 <p align="center">
-Shake all ingredients (except slices of lemon and lime) with ice and strain into a whiskey sour glass. Decorate with the slices of lemon and lime and serve.
+In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.
 </p>
 
 ----
@@ -179,14 +175,14 @@ Shake all ingredients (except slices of lemon and lime) with ice and strain into
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 300: A Cosmic Gemstone with Stars and Gas Clouds - ©️ Team Ciel Austral Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-07-16</h4>
+<h4 align="center">The Dust Trail of Comet Tempel 2 - ©️ Dan Bartlett @ 2026-07-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg" alt="NGC 300: A Cosmic Gemstone with Stars and Gas Clouds image" />
+<img src="https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg" alt="The Dust Trail of Comet Tempel 2 image" />
 
 </p>
 
-<h5 align="center">This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.</h5>
+<h5 align="center">Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.</h5>
 
 ----
 
@@ -199,90 +195,90 @@ Shake all ingredients (except slices of lemon and lime) with ice and strain into
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
