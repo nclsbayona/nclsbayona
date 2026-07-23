@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Piece of Ass</h4>
+<h4 align="center">A Night In Old Mandalay</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vyrvxt1461919380.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Añejo rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +79,7 @@
 
 
 <p align="center">
-Put ice in glass. Pour in shots. Fill with Sour Mix.
+In a shaker half-filled with ice cubes, combine the light rum, añejo rum, orange juice, and lemon juice. Shake well. Strain into a highball glass almost filled with ice cubes. Top with the ginger ale. Garnish with the lemon twist.
 </p>
 
 ----
@@ -167,14 +179,14 @@ Put ice in glass. Pour in shots. Fill with Sour Mix.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Corona Australis Molecular Cloud and the Chandelier Cluster - ©️ NASA @ 2026-07-22</h4>
+<h4 align="center">The Large Magellanic Cloud - ©️ Monica Mesa Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-07-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg" alt="The Corona Australis Molecular Cloud and the Chandelier Cluster image" />
+<img src="https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg" alt="The Large Magellanic Cloud image" />
 
 </p>
 
-<h5 align="center">The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.</h5>
+<h5 align="center">Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.</h5>
 
 ----
 
@@ -187,90 +199,90 @@ Put ice in glass. Pour in shots. Fill with Sour Mix.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
