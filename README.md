@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Night In Old Mandalay</h4>
+<h4 align="center">Spritz Veneziano</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vyrvxt1461919380.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/51ezka1551456113.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,28 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Añejo rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
         </tr>
     </tbody>
 </table>
@@ -79,7 +67,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the light rum, añejo rum, orange juice, and lemon juice. Shake well. Strain into a highball glass almost filled with ice cubes. Top with the ginger ale. Garnish with the lemon twist.
+Build into glass over ice, garnish and serve.
 </p>
 
 ----
@@ -179,14 +167,14 @@ In a shaker half-filled with ice cubes, combine the light rum, añejo rum, orang
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Large Magellanic Cloud - ©️ Monica Mesa Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-07-23</h4>
+<h4 align="center">RCW 86: Historical Supernova Remnant - ©️ Chinese astronomers @ 2026-07-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg" alt="The Large Magellanic Cloud image" />
+<img src="https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg" alt="RCW 86: Historical Supernova Remnant image" />
 
 </p>
 
-<h5 align="center">Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.</h5>
+<h5 align="center">In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.</h5>
 
 ----
 
@@ -199,90 +187,90 @@ In a shaker half-filled with ice cubes, combine the light rum, añejo rum, orang
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
