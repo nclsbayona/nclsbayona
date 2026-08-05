@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A. J.</h4>
+<h4 align="center">Long Island Iced Tea</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/l74qo91582480316.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,12 +47,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Twist of </td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +79,7 @@
 
 
 <p align="center">
-Shake ingredients with ice, strain into a cocktail glass, and serve.
+Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.
 </p>
 
 ----
@@ -163,14 +179,14 @@ Shake ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Curious Cometary Knots in the Helix Nebula - ©️ NASA @ 2026-08-04</h4>
+<h4 align="center">Spokes on Saturn's B Ring - ©️ Brad CroslinText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II) @ 2026-08-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg" alt="Curious Cometary Knots in the Helix Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif" alt="Spokes on Saturn's B Ring image" />
 
 </p>
 
-<h5 align="center">What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library</h5>
+<h5 align="center">Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!</h5>
 
 ----
 
@@ -183,90 +199,90 @@ Shake ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
