@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Long Island Iced Tea</h4>
+<h4 align="center">Brandy Cobbler</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5xgu591582580586.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,28 +47,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -79,7 +79,7 @@
 
 
 <p align="center">
-Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.
+In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.
 </p>
 
 ----
@@ -179,14 +179,14 @@ Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Spokes on Saturn's B Ring - ©️ Brad CroslinText:Keighley Rockcliffe  (NASAGSFC, UMBC CSST, CRESST II) @ 2026-08-05</h4>
+<h4 align="center">New Sharpest Image of the Sun Uncovers Instability - ©️ NASA @ 2026-08-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif" alt="Spokes on Saturn's B Ring image" />
+<img src="https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg" alt="New Sharpest Image of the Sun Uncovers Instability image" />
 
 </p>
 
-<h5 align="center">Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!</h5>
+<h5 align="center">What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.</h5>
 
 ----
 
@@ -199,90 +199,90 @@ Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
