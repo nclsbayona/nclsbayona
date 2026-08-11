@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">After sex</h4>
+<h4 align="center">Talos Coffee</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrl66i1493068702.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rswqpy1441246518.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,12 +47,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Banane</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-Pour the vodka and creme over some ice cubes in a tall glass and fill up with juice. to make it beuty full make the top of the glass with a grenadine and sugar
+Add your GM and then add your coffee.
 </p>
 
 ----
@@ -163,14 +163,14 @@ Pour the vodka and creme over some ice cubes in a tall glass and fill up with ju
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Three Galaxy Pairs - ©️ Rafael Sampaio @ 2026-08-10</h4>
+<h4 align="center">Six Moons of Saturn - ©️ Alexandre Trentini @ 2026-08-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/Three3GalaxyPairs_Sampaio_960.jpg" alt="Three Galaxy Pairs image" />
+<img src="https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg" alt="Six Moons of Saturn image" />
 
 </p>
 
-<h5 align="center">ch of these pairs of galaxies is different.  The two galaxies at the top are likely not interacting, at least presently.  However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally -- but their relative speeds make this unlikely.  Of these two, the larger galaxy, NGC 4650, is a spiral galaxy with a bright bar of stars across its center.  The two galaxies at the bottom are actively interacting.  Possibly in a billion years or so, NGC 4622A and NGC 4622B will merge and become one single galaxy. All of these galaxies are likely members of the larger Centaurus Galaxy Cluster.    Explore the Universe: Random APOD Generator</h5>
+<h5 align="center">How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.</h5>
 
 ----
 
@@ -183,90 +183,90 @@ Pour the vodka and creme over some ice cubes in a tall glass and fill up with ju
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
