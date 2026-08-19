@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apello</h4>
+<h4 align="center">A Gilligan's Island</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,20 +47,20 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
     </tbody>
 </table>
@@ -71,7 +71,7 @@
 
 
 <p align="center">
-Stirr. Grnish with maraschino cherry.
+Shaken, not stirred!
 </p>
 
 ----
@@ -171,14 +171,14 @@ Stirr. Grnish with maraschino cherry.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perseids from Perseus - ©️ Jakub Kuřák @ 2026-08-18</h4>
+<h4 align="center">The Case of the Mysterious Maybe Meteor - ©️ NASA @ 2026-08-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg" alt="Perseids from Perseus image" />
+<img src="https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4" alt="The Case of the Mysterious Maybe Meteor image" />
 
 </p>
 
-<h5 align="center">This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026</h5>
+<h5 align="center">Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3&quot;N 1°12'28.8&quot;W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!</h5>
 
 ----
 
@@ -191,90 +191,90 @@ Stirr. Grnish with maraschino cherry.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
