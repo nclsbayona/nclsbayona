@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pink Lady</h4>
+<h4 align="center">Foxy Lady</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,20 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -71,7 +67,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 </p>
 
 ----
@@ -171,14 +167,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Colorful Aurora over Icelandic Waterfall - ©️ Victor Lima Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-08-27</h4>
+<h4 align="center">The Sky Turns Above Paranal - ©️ Osvaldo Castillo @ 2026-08-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg" alt="Colorful Aurora over Icelandic Waterfall image" />
+<img src="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg" alt="The Sky Turns Above Paranal image" />
 
 </p>
 
-<h5 align="center">What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -191,24 +187,24 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -216,18 +212,18 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
@@ -235,29 +231,29 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
@@ -268,13 +264,13 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
