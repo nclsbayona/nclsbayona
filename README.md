@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Foxy Lady</h4>
+<h4 align="center">After Supper Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/r9cz3q1504519844.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,16 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +67,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -167,14 +167,14 @@ Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Sky Turns Above Paranal - ©️ Osvaldo Castillo @ 2026-08-28</h4>
+<h4 align="center">Eclipse Pair - ©️ Gwenaël Blanck @ 2026-08-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg" alt="The Sky Turns Above Paranal image" />
+<img src="https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg" alt="Eclipse Pair image" />
 
 </p>
 
-<h5 align="center">At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -190,29 +190,29 @@ Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
@@ -220,57 +220,57 @@ Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
