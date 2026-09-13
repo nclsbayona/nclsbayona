@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">San Francisco</h4>
+<h4 align="center">A Piece of Ass</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/szmj2d1504889961.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tqxyxx1472719737.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,12 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Banane</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +67,7 @@
 
 
 <p align="center">
-Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the &quot;creme&quot;, to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.
+Put ice in glass. Pour in shots. Fill with Sour Mix.
 </p>
 
 ----
@@ -163,14 +167,14 @@ Take a tall glass and put in a few ice cubes, fill the vodka over it and fill wi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Apollo 11: Catching Some Sun - ©️ NASA @ 2026-09-12</h4>
+<h4 align="center">Comet NEOWISE Rising over the Adriatic Sea - ©️ Paolo Girotti @ 2026-09-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg" alt="Apollo 11: Catching Some Sun image" />
+<img src="https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4" alt="Comet NEOWISE Rising over the Adriatic Sea image" />
 
 </p>
 
-<h5 align="center">Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -183,90 +187,90 @@ Take a tall glass and put in a few ice cubes, fill the vodka over it and fill wi
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
