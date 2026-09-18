@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Moranguito</h4>
+<h4 align="center">Homemade Kahlua</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/urpsyq1475667335.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwtsst1441254025.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absinthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2/5 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2/5 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Corn syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/5 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz instant </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups boiling </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +79,7 @@
 
 
 <p align="center">
-first you put rhe absinthe, then put tequila, then put the Granadine syrup.
+Dissolve sugar in 2 cups of boiling water and add corn syrup. Dissolve the instant coffee in the remaining water. Pour syrup and coffee in a gallon jug. Let it cool. Add vodka and vanilla when cold. For the best result, let the mixture &quot;mature&quot; for 4-5 weeks.
 </p>
 
 ----
@@ -167,14 +179,14 @@ first you put rhe absinthe, then put tequila, then put the Granadine syrup.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Treasure Chest in the Carina Nebula - ©️ ESA/Webb, NASA &amp; CSA, M. Reiter; Acknowledgement: M. H. Özsaraç Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-09-17</h4>
+<h4 align="center">Messier 33: The Triangulum Galaxy - ©️ George Chatzifrantzis @ 2026-09-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2609/JWST_Treasure_Chest_800.jpg" alt="A Treasure Chest in the Carina Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg" alt="Messier 33: The Triangulum Galaxy image" />
 
 </p>
 
-<h5 align="center">This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -187,68 +199,68 @@ first you put rhe absinthe, then put tequila, then put the Granadine syrup.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -256,21 +268,21 @@ first you put rhe absinthe, then put tequila, then put the Granadine syrup.
 <img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
