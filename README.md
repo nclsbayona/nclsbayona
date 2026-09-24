@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Oatmeal Cookie</h4>
+<h4 align="center">Chocolate Milk</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,24 +47,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jagermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
@@ -75,10 +67,7 @@
 
 
 <p align="center">
-Just mix it all together.
-It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.
+Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!
 </p>
 
 ----
@@ -178,14 +167,14 @@ Tastes like an oatmeal cookie.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A New Lunar Crater: McGetchin - ©️ NASA @ 2026-09-23</h4>
+<h4 align="center">The Ghosts of Five Supernovas - ©️ Stephane Vetter, Yann Sainty Text: Cecilia Chirenti (NASAGSFC, UMCP, CRESST II) @ 2026-09-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg" alt="A New Lunar Crater: McGetchin image" />
+<img src="https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg" alt="The Ghosts of Five Supernovas image" />
 
 </p>
 
-<h5 align="center">A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -198,7 +187,7 @@ Tastes like an oatmeal cookie.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
@@ -209,79 +198,79 @@ Tastes like an oatmeal cookie.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
