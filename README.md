@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Old Pal</h4>
+<h4 align="center">Lemon Shot</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/x03td31521761009.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mx31hv1487602979.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> wedge<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bacardi </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +71,7 @@
 
 
 <p align="center">
-Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with ice. Stir about 20 seconds. Empty cocktail glass and strain into the glass. Garnish with a twist of lemon peel.
+Mix Galliano and Absolut Citron in a shot glass, lay lemon wedge sprinkled with sugar over glass and pour a rum over wedge and glass. light rum with a lighter and let burn for a second. Do shot quickly and suck on lemon. If it is done correctly, this will taste like a shot of sweet lemonade.
 </p>
 
 ----
@@ -167,14 +171,14 @@ Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Globular Cluster Omega Centauri - ©️ Javier O. Cadenas Parra @ 2026-09-25</h4>
+<h4 align="center">Mirrored Meteor and Milky Way - ©️ Jeff Dai @ 2026-09-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2609/NGC5139CadenasParra1024.jpg" alt="Globular Cluster Omega Centauri image" />
+<img src="https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg" alt="Mirrored Meteor and Milky Way image" />
 
 </p>
 
-<h5 align="center">Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. With a yellowish hue, Omega Centauri's red giant stars are easy to pick out in this sharp telescopic view.  A two-decade-long exploration of the dense star cluster with the Hubble Space Telescope has revealed evidence for a massive black hole near the center of Omega Centauri.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
+<h5 align="center">On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope (LST-1). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory. With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes. Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod</h5>
 
 ----
 
@@ -187,21 +191,21 @@ Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
@@ -209,68 +213,68 @@ Chill cocktail glass. Add ingredients to a mixing glass, and fill 2/3 full with 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
