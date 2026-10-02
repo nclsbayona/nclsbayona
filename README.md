@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Grape lemon pineapple Smoothie</h4>
+<h4 align="center">Pink Lady</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/54z5h71487603583.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,16 +47,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapes</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +71,7 @@
 
 
 <p align="center">
-Throw everything into a blender and liquify.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -167,14 +171,14 @@ Throw everything into a blender and liquify.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NASA Science - ©️ NASA @ 2026-10-01</h4>
+<h4 align="center">NASA Science - ©️ NASA @ 2026-10-02</h4>
 <p align="center">
 
 <img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science image" />
 
 </p>
 
-<h5 align="center">Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless						</h5>
+<h5 align="center">What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore! You may spot fan favorites like the Eagle (Sh2-49), Heart (Sh2-190), and Orion (Sh2-281) Nebulas. Despite its name, this catalog contains more than the glow of ionized hydrogen that makes up H II regions. There are planetary nebulas (the Medusa Nebula, Sh2-274) and supernova remnants (the Spaghetti Nebula, Sh2-240) as well. Astrophotographer Bing Xin traversed the dark skies of Eastern China and Inner Mongolia to catch them all. Narrowband filters that primarily capture light from ionized hydrogen and oxygen as well as red-green-blue filters were used. Each object took 2 to 6 hours to capture, with the entire catalog taking around 800 hours to complete! Which object is your favorite?APOD's email for image submissions has changed. Please see: APOD SubmissionsTomorrow's picture: just Curiosity						</h5>
 
 ----
 
@@ -187,90 +191,90 @@ Throw everything into a blender and liquify.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
