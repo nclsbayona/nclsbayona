@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pink Lady</h4>
+<h4 align="center">Loch Lomond</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5ia6j21504887829.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rpvtpr1468923881.jpg" alt="Drink image" />
 
 </p>
 
@@ -47,20 +47,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Drambuie</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
@@ -71,7 +71,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.
 </p>
 
 ----
@@ -171,14 +171,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NASA Science - ©️ NASA @ 2026-10-02</h4>
+<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
 <p align="center">
 
-<img src="https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png" alt="NASA Science image" />
+<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
 
 </p>
 
-<h5 align="center">What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore! You may spot fan favorites like the Eagle (Sh2-49), Heart (Sh2-190), and Orion (Sh2-281) Nebulas. Despite its name, this catalog contains more than the glow of ionized hydrogen that makes up H II regions. There are planetary nebulas (the Medusa Nebula, Sh2-274) and supernova remnants (the Spaghetti Nebula, Sh2-240) as well. Astrophotographer Bing Xin traversed the dark skies of Eastern China and Inner Mongolia to catch them all. Narrowband filters that primarily capture light from ionized hydrogen and oxygen as well as red-green-blue filters were used. Each object took 2 to 6 hours to capture, with the entire catalog taking around 800 hours to complete! Which object is your favorite?APOD's email for image submissions has changed. Please see: APOD SubmissionsTomorrow's picture: just Curiosity						</h5>
+<h5 align="center">Picture of a beautiful place on earth</h5>
 
 ----
 
@@ -191,54 +191,54 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
@@ -246,35 +246,35 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
